@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::7.5] 
-[geo-lat::50.08] 
+[has_place_longitude::7.5] 
+[has_place_latitude::50.08] 
 [name::Kastellaun] 
-Country :: [[Germany]]  
-State :: [[Rheinland-Pfalz]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Rheinland-Pfalz]]  
 [Population::] 
 [Unknown::] 
 

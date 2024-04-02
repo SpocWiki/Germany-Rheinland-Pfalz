@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::7.88] 
-[geo-lat::50.25] 
+[has_place_longitude::7.88] 
+[has_place_latitude::50.25] 
 [name::Obertiefenbach~Lahn] 
-Country :: [[Germany]]  
-State :: [[Rheinland-Pfalz]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Rheinland-Pfalz]]  
 [Population::] 
 [Unknown::] 
 

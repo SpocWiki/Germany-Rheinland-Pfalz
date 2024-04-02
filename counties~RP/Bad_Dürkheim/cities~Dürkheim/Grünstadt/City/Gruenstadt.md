@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.17] 
-[geo-lat::49.57] 
+[has_place_longitude::8.17] 
+[has_place_latitude::49.57] 
 [name::Gruenstadt] 
-Country :: [[Germany]]  
-State :: [[Rheinland-Pfalz]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Rheinland-Pfalz]]  
 [Population::] 
 [Unknown::] 
 

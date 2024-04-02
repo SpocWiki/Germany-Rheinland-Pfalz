@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.18] 
-[geo-lat::49.98] 
+[has_place_longitude::8.18] 
+[has_place_latitude::49.98] 
 [name::Finthen] 
-Country :: [[Germany]]  
-State :: [[Rheinland-Pfalz]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Rheinland-Pfalz]]  
 [Population::] 
 [Unknown::] 
 

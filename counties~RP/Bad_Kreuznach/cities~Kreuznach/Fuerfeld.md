@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::7.9] 
-[geo-lat::49.77] 
+[has_place_longitude::7.9] 
+[has_place_latitude::49.77] 
 [name::Fuerfeld] 
-Country :: [[Germany]]  
-State :: [[Rheinland-Pfalz]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Rheinland-Pfalz]]  
 [Population::] 
 [Unknown::] 
 

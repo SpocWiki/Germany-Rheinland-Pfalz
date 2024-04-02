@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::7.78] 
-[geo-lat::50.1] 
+[has_place_longitude::7.78] 
+[has_place_latitude::50.1] 
 [name::Kaub] 
-Country :: [[Germany]]  
-State :: [[Hessen]] 
+has_place_country:: [[Germany]]  
+has_place_province:: [[Hessen]] 
 [Population::] 
 [Unknown::] 
 

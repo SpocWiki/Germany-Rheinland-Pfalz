@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::6.6] 
-[geo-lat::50.15] 
+[has_place_longitude::6.6] 
+[has_place_latitude::50.15] 
 [name::Muerlenbach] 
-Country :: [[Germany]]  
-State :: [[Rheinland-Pfalz]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Rheinland-Pfalz]]  
 [Population::] 
 [Unknown::] 
 

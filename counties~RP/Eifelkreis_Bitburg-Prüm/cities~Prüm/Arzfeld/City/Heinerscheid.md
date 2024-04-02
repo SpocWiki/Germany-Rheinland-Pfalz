@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::6.17] 
-[geo-lat::50.08] 
+[has_place_longitude::6.17] 
+[has_place_latitude::50.08] 
 [name::Heinerscheid] 
-State ::  
-Country :: [[geo/Continent/Europe/Europe~West/Luxembourg]] 
+has_place_province::  
+has_place_country:: [[geo/Continent/Europe/Europe~West/Luxembourg]] 
 [StateId::] 
 [Population::] 
 [Unknown::] 

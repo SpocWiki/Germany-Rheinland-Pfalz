@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::6.88] 
-[geo-lat::49.68] 
+[has_place_longitude::6.88] 
+[has_place_latitude::49.68] 
 [name::Reinsfeld] 
-Country :: [[Germany]]  
-State :: [[Rheinland-Pfalz]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Rheinland-Pfalz]]  
 [Population::] 
 [Unknown::] 
 

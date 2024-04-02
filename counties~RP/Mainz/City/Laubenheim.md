@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.3] 
-[geo-lat::49.97] 
+[has_place_longitude::8.3] 
+[has_place_latitude::49.97] 
 [name::Laubenheim] 
-Country :: [[Germany]]  
-State :: [[Hessen]] 
+has_place_country:: [[Germany]]  
+has_place_province:: [[Hessen]] 
 [Population::] 
 [Unknown::] 
 

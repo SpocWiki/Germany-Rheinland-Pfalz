@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.03] 
-[geo-lat::50.38] 
+[has_place_longitude::8.03] 
+[has_place_latitude::50.38] 
 [name::Freiendiez] 
-Country :: [[Germany]]  
-State :: [[Hessen]] 
+has_place_country:: [[Germany]]  
+has_place_province:: [[Hessen]] 
 [Population::] 
 [Unknown::] 
 

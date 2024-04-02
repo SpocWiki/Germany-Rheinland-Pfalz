@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.37] 
-[geo-lat::49.22] 
+[has_place_longitude::8.37] 
+[has_place_latitude::49.22] 
 [name::Germersheim] 
-Country :: [[Germany]]  
-State :: [[Baden-Wuerttemberg]] 
+has_place_country:: [[Germany]]  
+has_place_province:: [[Baden-Wuerttemberg]] 
 [Population::] 
 [Unknown::] 
 

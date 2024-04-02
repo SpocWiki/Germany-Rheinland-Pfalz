@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.35] 
-[geo-lat::49.85] 
+[has_place_longitude::8.35] 
+[has_place_latitude::49.85] 
 [name::Oppenheim] 
-Country :: [[Germany]]  
-State :: [[Hessen]] 
+has_place_country:: [[Germany]]  
+has_place_province:: [[Hessen]] 
 [Population::] 
 [Unknown::] 
 

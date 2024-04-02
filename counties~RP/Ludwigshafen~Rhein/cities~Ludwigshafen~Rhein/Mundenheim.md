@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.43] 
-[geo-lat::49.47] 
+[has_place_longitude::8.43] 
+[has_place_latitude::49.47] 
 [name::Mundenheim] 
-Country :: [[Germany]]  
-State :: [[Baden-Wuerttemberg]] 
+has_place_country:: [[Germany]]  
+has_place_province:: [[Baden-Wuerttemberg]] 
 [Population::] 
 [Unknown::] 
 

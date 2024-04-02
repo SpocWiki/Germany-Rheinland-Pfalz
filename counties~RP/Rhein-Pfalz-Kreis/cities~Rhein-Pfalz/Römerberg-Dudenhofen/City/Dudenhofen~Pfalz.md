@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.38] 
-[geo-lat::49.32] 
+[has_place_longitude::8.38] 
+[has_place_latitude::49.32] 
 [name::Dudenhofen~Pfalz] 
-Country :: [[Germany]]  
-State :: [[Rheinland-Pfalz]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Rheinland-Pfalz]]  
 [Population::] 
 [Unknown::] 
 

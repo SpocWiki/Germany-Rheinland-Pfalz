@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::6.45] 
-[geo-lat::49.67] 
+[has_place_longitude::6.45] 
+[has_place_latitude::49.67] 
 [name::Grevenmacher] 
-State ::  
-Country :: [[geo/Continent/Europe/Europe~West/Luxembourg]] 
+has_place_province::  
+has_place_country:: [[geo/Continent/Europe/Europe~West/Luxembourg]] 
 [StateId::] 
 [Population::] 
 [Unknown::] 
