@@ -12,6 +12,8 @@ isDeleted: false
 confidential: public
 
 ---
+#is_a_/Place  
+#is_a_ :: [[Place]] 
 [has_place_longitude::7.1] 
 [has_place_latitude::49.92] 
 [name::Bernkastel] 
