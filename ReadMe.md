@@ -159,7 +159,7 @@ Check out this Repository into this Subfolder:
 
 #has_/image_for_/flag :: ![[./Flag_of_Rhineland-Palatinate.svg|200]] <img src="./Flag_of_Rhineland-Palatinate.svg" width=200/> 
 
-## #has_/map 
+## [#has_/map :: ](DEU-Germany-1580-Rheinland-Pfalz.geojson)
 
 ```leaflet
 id: Rheinland-Pfalz
