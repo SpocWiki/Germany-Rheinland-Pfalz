@@ -147,19 +147,49 @@ Check out this Repository into this Subfolder:
 
 ## #has_/text_of_/abstract  
 
+
+> **Rhineland-Palatinate** is a western state of Germany. 
+> It covers 19,846 km² and has about 4.05 million residents. 
+> It is the ninth largest and sixth most populous of the sixteen states. 
+> Mainz is the capital and largest city. Other cities are Ludwigshafen am Rhein, 
+> Koblenz, Trier, Kaiserslautern, Worms and Neuwied. 
+> It is bordered by North Rhine-Westphalia, Saarland, Baden-Württemberg and Hesse 
+> and by France, Luxembourg and Belgium.
+>
+> Rhineland-Palatinate was established in 1946 after World War II, from parts of the 
+> former states of Prussia (part of its Rhineland and Nassau provinces), 
+> Hesse (Rhenish Hesse) and Bavaria (its former outlying Palatinate kreis or district), 
+> by the French military administration in Allied-occupied Germany. 
+> 
+> Rhineland-Palatinate became part of the Federal Republic of Germany in 1949 
+> and shared the country's only border with the Saar Protectorate 
+> until the latter was returned to German control in 1957. 
+> 
+> Rhineland-Palatinate's natural and cultural heritage includes 
+> the extensive Palatinate winegrowing region, picturesque landscapes, 
+> and many castles and palaces. 
+> 
+> Rhineland-Palatinate is currently the only federal state in Germany 
+> where nuclear weapons are stored extraterritorially 
+> under the responsibility and supervision of US forces.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Rhineland-Palatinate) 
+
+
 ## Maps and Flags 
 
-## #has_/image_for_/coat_of_arms 
+### #has_/image_for_/coat_of_arms 
 
 
 #has_/image_for_/coat_of_arms :: ![[./Coat_of_arms_of_Rhineland-Palatinate.svg|250]]<img src="./Coat_of_arms_of_Rhineland-Palatinate.svg" width=250/> 
 
-## #has_/image_for_/flag
+### #has_/image_for_/flag
 
 
 #has_/image_for_/flag :: ![[./Flag_of_Rhineland-Palatinate.svg|200]] <img src="./Flag_of_Rhineland-Palatinate.svg" width=200/> 
 
-## [#has_/map :: ](DEU-Germany-1580-Rheinland-Pfalz.geojson)
+
+### #has_/map :: [DEU-Germany-1580-Rheinland-Pfalz.geojson](./DEU-Germany-1580-Rheinland-Pfalz.geojson) 
 
 ```leaflet
 id: Rheinland-Pfalz
@@ -177,8 +207,6 @@ Capital :: [[Mainz]]
 [has_place_longitude::7.57652] 
 [has_place_latitude::49.914] 
 [Population::] 
-
-
 
 ## Confidential Links & Embeds: 
 - [[Rheinland-Pfalz|Rheinland-Pfalz]]  
