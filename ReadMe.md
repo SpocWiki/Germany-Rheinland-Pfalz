@@ -142,7 +142,7 @@ by including it as a Sub-Repository in local File-Systems,
 specifically as part of the [\_Standards](https://github.com/SpocWiki/_Standards) Repository. 
 
 Check out this Repository into this Subfolder: 
-\_Standards\geo\Continent\Europe\Europe~Central\Germany\Germany~West\Rheinland-Pfalz 
+\_Standards/geo/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz 
 
 
 ## #has_/text_of_/abstract  
@@ -185,12 +185,10 @@ Check out this Repository into this Subfolder:
 
 ### #has_/image_for_/flag
 
-
 #has_/image_for_/flag :: ![[./Flag_of_Rhineland-Palatinate.svg|200]] <img src="./Flag_of_Rhineland-Palatinate.svg" width=200/> 
 
 
 ### #has_/map :: [DEU-Germany-1580-Rheinland-Pfalz.geojson](./DEU-Germany-1580-Rheinland-Pfalz.geojson) 
-
 
 ```leaflet
 id: Rheinland-Pfalz
