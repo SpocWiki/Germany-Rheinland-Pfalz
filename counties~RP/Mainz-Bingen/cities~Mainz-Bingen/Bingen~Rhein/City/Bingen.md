@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.95,7.9] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -12,6 +12,8 @@ isDeleted: false
 confidential: public
 
 ---
+
+
 #is_a_/Place  
 #is_a_ :: [[Place]] 
 [has_place_longitude::7.9] 
@@ -30,6 +32,12 @@ markerFile: [[Bingen]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+
+[[../../../../../../../../../../../../../assets/mittelrheintal_004.webp]] 
+![[../../../../../../../../../../../../../assets/mittelrheintal_004.webp]] 
+Oberes Mittelrheintal (2002) zwischen Koblenz und Bingen 
 
 
 ## Confidential Links & Embeds: 

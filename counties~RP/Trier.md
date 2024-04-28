@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.76,6.64] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -31,6 +31,17 @@ defaultZoom: 11
 maxZoom: 18
 ```
 
+
+![[../../../../../../../../../assets/Trier-Dom.webp]] 
+Römische Baudenkmäler, Dom und Liebfrauenkirche von Trier ([[Unesco]] Welterbe seit 1986)
+
+[[../../../../../../../../../assets/Trier-Marktplatz.webp]] 
+![[../../../../../../../../../assets/Trier-Marktplatz.webp]]
+Trier wurde 17 vor Chr. von den Römern gegründet 
+und ist damit die älteste Stadt Deutschlands. 
+Bis heute lassen sich die Spuren der Römer in der ganzen Stadt wiederfinden. 
+Neben dem Wahrzeichen der Stadt, der Porta Nigra, 
+sind die beschaulichen Gassen der Altstadt absolut sehenswert.
 
 ## Confidential Links & Embeds: 
 - [[Trier|Trier]]  

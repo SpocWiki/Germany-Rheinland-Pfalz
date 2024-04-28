@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.32,8.43] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -12,6 +12,8 @@ isDeleted: false
 confidential: public
 
 ---
+
+
 #is_a_/Place  
 #is_a_ :: [[Place]] 
 [has_place_longitude::8.43] 
@@ -31,6 +33,13 @@ defaultZoom: 11
 maxZoom: 18
 ```
 
+
+![[../../../../../../../../../assets/speyerer-dom_003.webp]]
+Speyerer Dom (seit 1981 [[Unesco]] Welterbe) 
+
+[[../../../../../../../../../assets/speyerer-judenhof_005.webp]] 
+![[../../../../../../../../../assets/speyerer-judenhof_005.webp]] 
+SchUM-Stätten (2021) 
 
 ## Confidential Links & Embeds: 
 - [[Speyer|Speyer]]  
