@@ -32,11 +32,11 @@ maxZoom: 18
 ```
 
 
-![[../../../../../../../../../assets/Trier-Dom.webp]] 
+![[../../../../../../../../../assets/geo/Europe/Germany/Trier-Dom.webp]] 
 Römische Baudenkmäler, Dom und Liebfrauenkirche von Trier ([[Unesco]] Welterbe seit 1986)
 
-[[../../../../../../../../../assets/Trier-Marktplatz.webp]] 
-![[../../../../../../../../../assets/Trier-Marktplatz.webp]]
+[[../../../../../../../../../assets/geo/Europe/Germany/Trier-Marktplatz.webp]] 
+![[../../../../../../../../../assets/geo/Europe/Germany/Trier-Marktplatz.webp]]
 Trier wurde 17 vor Chr. von den Römern gegründet 
 und ist damit die älteste Stadt Deutschlands. 
 Bis heute lassen sich die Spuren der Römer in der ganzen Stadt wiederfinden. 

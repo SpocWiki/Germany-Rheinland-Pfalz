@@ -34,11 +34,11 @@ maxZoom: 18
 ```
 
 
-![[../../../../../../../../../assets/speyerer-dom_003.webp]]
+![[../../../../../../../../../assets/geo/Europe/Germany/Speyerer_Dom.webp]]
 Speyerer Dom (seit 1981 [[Unesco]] Welterbe) 
 
-[[../../../../../../../../../assets/speyerer-judenhof_005.webp]] 
-![[../../../../../../../../../assets/speyerer-judenhof_005.webp]] 
+[[../../../../../../../../../assets/geo/Europe/Germany/Speyerer_Judenhof.webp]] 
+![[../../../../../../../../../assets/geo/Europe/Germany/Speyerer_Judenhof.webp]] 
 SchUM-Stätten (2021) 
 
 ## Confidential Links & Embeds: 

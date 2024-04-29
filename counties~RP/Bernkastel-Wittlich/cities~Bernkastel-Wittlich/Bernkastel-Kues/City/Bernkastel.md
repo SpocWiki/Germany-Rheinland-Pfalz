@@ -32,7 +32,7 @@ maxZoom: 18
 ```
 
 
-![[../../../../../../../../../../../../../assets/Bernkastel-Kues-Spitzhaeuschen-Marktplatz.webp]]
+![[../../../../../../../../../../../../../assets/geo/Europe/Germany/Bernkastel-Kues-Spitzhäuschen-Marktplatz.webp]]
 Das Spitzhäuschen mit Weinstube in der Altstadt von Bernkastel-Kues. 
 Es gehört zu den beliebtesten Sehenswürdigkeiten der Moselregion. 
 Die Bauweise des Spitzhäuschens zeigt anschaulich den Übergang von der Renaissance 

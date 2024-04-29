@@ -2,5 +2,5 @@
 
 
 
-[[../../../../../../../../../../../assets/bad-ems_006.webp]] 
-![[../../../../../../../../../../../assets/bad-ems_006.webp]] 
+[[../../../../../../../../../../../assets/geo/Europe/Germany/Bad-Ems.webp]] 
+![[../../../../../../../../../../../assets/geo/Europe/Germany/Bad-Ems.webp]] 
