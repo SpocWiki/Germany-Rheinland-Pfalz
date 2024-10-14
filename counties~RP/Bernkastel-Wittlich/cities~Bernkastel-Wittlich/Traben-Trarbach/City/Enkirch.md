@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Enkirch|Enkirch]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Enkirch.internal|Enkirch.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Enkirch.protect|Enkirch.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Enkirch.private|Enkirch.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Enkirch.personal|Enkirch.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Enkirch.secret|Enkirch.secret]] 
+
+### [Enkirch](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bernkastel-Wittlich/cities~Bernkastel-Wittlich/Traben-Trarbach/City/Enkirch.md) 
+
+### [Enkirch.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bernkastel-Wittlich/cities~Bernkastel-Wittlich/Traben-Trarbach/City/Enkirch.internal.md) 
+
+### [Enkirch.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bernkastel-Wittlich/cities~Bernkastel-Wittlich/Traben-Trarbach/City/Enkirch.protect.md) 
+
+### [Enkirch.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bernkastel-Wittlich/cities~Bernkastel-Wittlich/Traben-Trarbach/City/Enkirch.private.md) 
+
+### [Enkirch.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bernkastel-Wittlich/cities~Bernkastel-Wittlich/Traben-Trarbach/City/Enkirch.personal.md) 
+
+### [Enkirch.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bernkastel-Wittlich/cities~Bernkastel-Wittlich/Traben-Trarbach/City/Enkirch.secret.md) 

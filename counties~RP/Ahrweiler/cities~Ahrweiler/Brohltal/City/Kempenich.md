@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Kempenich|Kempenich]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Kempenich.internal|Kempenich.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Kempenich.protect|Kempenich.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Kempenich.private|Kempenich.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Kempenich.personal|Kempenich.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Kempenich.secret|Kempenich.secret]] 
+
+### [Kempenich](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Ahrweiler/cities~Ahrweiler/Brohltal/City/Kempenich.md) 
+
+### [Kempenich.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Ahrweiler/cities~Ahrweiler/Brohltal/City/Kempenich.internal.md) 
+
+### [Kempenich.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Ahrweiler/cities~Ahrweiler/Brohltal/City/Kempenich.protect.md) 
+
+### [Kempenich.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Ahrweiler/cities~Ahrweiler/Brohltal/City/Kempenich.private.md) 
+
+### [Kempenich.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Ahrweiler/cities~Ahrweiler/Brohltal/City/Kempenich.personal.md) 
+
+### [Kempenich.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Ahrweiler/cities~Ahrweiler/Brohltal/City/Kempenich.secret.md) 

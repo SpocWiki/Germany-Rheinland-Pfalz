@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Heiligenstein|Heiligenstein]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Heiligenstein.internal|Heiligenstein.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Heiligenstein.protect|Heiligenstein.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Heiligenstein.private|Heiligenstein.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Heiligenstein.personal|Heiligenstein.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Heiligenstein.secret|Heiligenstein.secret]] 
+
+### [Heiligenstein](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Pfalz-Kreis/cities~Rhein-Pfalz/Römerberg-Dudenhofen/City/Heiligenstein.md) 
+
+### [Heiligenstein.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Pfalz-Kreis/cities~Rhein-Pfalz/Römerberg-Dudenhofen/City/Heiligenstein.internal.md) 
+
+### [Heiligenstein.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Pfalz-Kreis/cities~Rhein-Pfalz/Römerberg-Dudenhofen/City/Heiligenstein.protect.md) 
+
+### [Heiligenstein.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Pfalz-Kreis/cities~Rhein-Pfalz/Römerberg-Dudenhofen/City/Heiligenstein.private.md) 
+
+### [Heiligenstein.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Pfalz-Kreis/cities~Rhein-Pfalz/Römerberg-Dudenhofen/City/Heiligenstein.personal.md) 
+
+### [Heiligenstein.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Pfalz-Kreis/cities~Rhein-Pfalz/Römerberg-Dudenhofen/City/Heiligenstein.secret.md) 

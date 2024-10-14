@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Ahrweiler|Ahrweiler]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Ahrweiler.internal|Ahrweiler.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Ahrweiler.protect|Ahrweiler.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Ahrweiler.private|Ahrweiler.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Ahrweiler.personal|Ahrweiler.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Ahrweiler.secret|Ahrweiler.secret]] 
+
+### [Ahrweiler](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Ahrweiler/cities~Ahrweiler/Bad_Neuenahr-Ahrweiler/City/Ahrweiler.md) 
+
+### [Ahrweiler.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Ahrweiler/cities~Ahrweiler/Bad_Neuenahr-Ahrweiler/City/Ahrweiler.internal.md) 
+
+### [Ahrweiler.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Ahrweiler/cities~Ahrweiler/Bad_Neuenahr-Ahrweiler/City/Ahrweiler.protect.md) 
+
+### [Ahrweiler.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Ahrweiler/cities~Ahrweiler/Bad_Neuenahr-Ahrweiler/City/Ahrweiler.private.md) 
+
+### [Ahrweiler.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Ahrweiler/cities~Ahrweiler/Bad_Neuenahr-Ahrweiler/City/Ahrweiler.personal.md) 
+
+### [Ahrweiler.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Ahrweiler/cities~Ahrweiler/Bad_Neuenahr-Ahrweiler/City/Ahrweiler.secret.md) 

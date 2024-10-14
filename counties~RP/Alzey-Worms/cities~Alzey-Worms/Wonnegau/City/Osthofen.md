@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Osthofen|Osthofen]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Osthofen.internal|Osthofen.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Osthofen.protect|Osthofen.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Osthofen.private|Osthofen.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Osthofen.personal|Osthofen.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Osthofen.secret|Osthofen.secret]] 
+
+### [Osthofen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Alzey-Worms/cities~Alzey-Worms/Wonnegau/City/Osthofen.md) 
+
+### [Osthofen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Alzey-Worms/cities~Alzey-Worms/Wonnegau/City/Osthofen.internal.md) 
+
+### [Osthofen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Alzey-Worms/cities~Alzey-Worms/Wonnegau/City/Osthofen.protect.md) 
+
+### [Osthofen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Alzey-Worms/cities~Alzey-Worms/Wonnegau/City/Osthofen.private.md) 
+
+### [Osthofen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Alzey-Worms/cities~Alzey-Worms/Wonnegau/City/Osthofen.personal.md) 
+
+### [Osthofen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Alzey-Worms/cities~Alzey-Worms/Wonnegau/City/Osthofen.secret.md) 

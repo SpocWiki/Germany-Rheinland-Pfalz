@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Sprendlingen~Rheinhessen|Sprendlingen~Rheinhessen]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Sprendlingen~Rheinhessen.internal|Sprendlingen~Rheinhessen.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Sprendlingen~Rheinhessen.protect|Sprendlingen~Rheinhessen.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Sprendlingen~Rheinhessen.private|Sprendlingen~Rheinhessen.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Sprendlingen~Rheinhessen.personal|Sprendlingen~Rheinhessen.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Sprendlingen~Rheinhessen.secret|Sprendlingen~Rheinhessen.secret]] 
+
+### [Sprendlingen~Rheinhessen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mainz-Bingen/cities~Mainz-Bingen/Sprendlingen-Gensingen/City/Sprendlingen~Rheinhessen.md) 
+
+### [Sprendlingen~Rheinhessen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mainz-Bingen/cities~Mainz-Bingen/Sprendlingen-Gensingen/City/Sprendlingen~Rheinhessen.internal.md) 
+
+### [Sprendlingen~Rheinhessen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mainz-Bingen/cities~Mainz-Bingen/Sprendlingen-Gensingen/City/Sprendlingen~Rheinhessen.protect.md) 
+
+### [Sprendlingen~Rheinhessen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mainz-Bingen/cities~Mainz-Bingen/Sprendlingen-Gensingen/City/Sprendlingen~Rheinhessen.private.md) 
+
+### [Sprendlingen~Rheinhessen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mainz-Bingen/cities~Mainz-Bingen/Sprendlingen-Gensingen/City/Sprendlingen~Rheinhessen.personal.md) 
+
+### [Sprendlingen~Rheinhessen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mainz-Bingen/cities~Mainz-Bingen/Sprendlingen-Gensingen/City/Sprendlingen~Rheinhessen.secret.md) 

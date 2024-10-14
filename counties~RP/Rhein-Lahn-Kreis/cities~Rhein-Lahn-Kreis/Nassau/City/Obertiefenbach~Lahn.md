@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Obertiefenbach~Lahn|Obertiefenbach~Lahn]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Obertiefenbach~Lahn.internal|Obertiefenbach~Lahn.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Obertiefenbach~Lahn.protect|Obertiefenbach~Lahn.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Obertiefenbach~Lahn.private|Obertiefenbach~Lahn.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Obertiefenbach~Lahn.personal|Obertiefenbach~Lahn.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Obertiefenbach~Lahn.secret|Obertiefenbach~Lahn.secret]] 
+
+### [Obertiefenbach~Lahn](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Lahn-Kreis/cities~Rhein-Lahn-Kreis/Nassau/City/Obertiefenbach~Lahn.md) 
+
+### [Obertiefenbach~Lahn.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Lahn-Kreis/cities~Rhein-Lahn-Kreis/Nassau/City/Obertiefenbach~Lahn.internal.md) 
+
+### [Obertiefenbach~Lahn.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Lahn-Kreis/cities~Rhein-Lahn-Kreis/Nassau/City/Obertiefenbach~Lahn.protect.md) 
+
+### [Obertiefenbach~Lahn.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Lahn-Kreis/cities~Rhein-Lahn-Kreis/Nassau/City/Obertiefenbach~Lahn.private.md) 
+
+### [Obertiefenbach~Lahn.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Lahn-Kreis/cities~Rhein-Lahn-Kreis/Nassau/City/Obertiefenbach~Lahn.personal.md) 
+
+### [Obertiefenbach~Lahn.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Lahn-Kreis/cities~Rhein-Lahn-Kreis/Nassau/City/Obertiefenbach~Lahn.secret.md) 

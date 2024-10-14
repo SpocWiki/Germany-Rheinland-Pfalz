@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Edigheim|Edigheim]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Edigheim.internal|Edigheim.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Edigheim.protect|Edigheim.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Edigheim.private|Edigheim.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Edigheim.personal|Edigheim.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Edigheim.secret|Edigheim.secret]] 
+
+### [Edigheim](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Ludwigshafen~Rhein/cities~Ludwigshafen~Rhein/Edigheim.md) 
+
+### [Edigheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Ludwigshafen~Rhein/cities~Ludwigshafen~Rhein/Edigheim.internal.md) 
+
+### [Edigheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Ludwigshafen~Rhein/cities~Ludwigshafen~Rhein/Edigheim.protect.md) 
+
+### [Edigheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Ludwigshafen~Rhein/cities~Ludwigshafen~Rhein/Edigheim.private.md) 
+
+### [Edigheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Ludwigshafen~Rhein/cities~Ludwigshafen~Rhein/Edigheim.personal.md) 
+
+### [Edigheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Ludwigshafen~Rhein/cities~Ludwigshafen~Rhein/Edigheim.secret.md) 

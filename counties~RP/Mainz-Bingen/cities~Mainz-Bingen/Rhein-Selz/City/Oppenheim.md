@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Oppenheim|Oppenheim]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Oppenheim.internal|Oppenheim.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Oppenheim.protect|Oppenheim.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Oppenheim.private|Oppenheim.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Oppenheim.personal|Oppenheim.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Oppenheim.secret|Oppenheim.secret]] 
+
+### [Oppenheim](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mainz-Bingen/cities~Mainz-Bingen/Rhein-Selz/City/Oppenheim.md) 
+
+### [Oppenheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mainz-Bingen/cities~Mainz-Bingen/Rhein-Selz/City/Oppenheim.internal.md) 
+
+### [Oppenheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mainz-Bingen/cities~Mainz-Bingen/Rhein-Selz/City/Oppenheim.protect.md) 
+
+### [Oppenheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mainz-Bingen/cities~Mainz-Bingen/Rhein-Selz/City/Oppenheim.private.md) 
+
+### [Oppenheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mainz-Bingen/cities~Mainz-Bingen/Rhein-Selz/City/Oppenheim.personal.md) 
+
+### [Oppenheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mainz-Bingen/cities~Mainz-Bingen/Rhein-Selz/City/Oppenheim.secret.md) 

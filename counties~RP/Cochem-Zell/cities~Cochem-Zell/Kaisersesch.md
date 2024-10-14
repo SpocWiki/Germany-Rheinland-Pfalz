@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Kaisersesch|Kaisersesch]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Kaisersesch.internal|Kaisersesch.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Kaisersesch.protect|Kaisersesch.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Kaisersesch.private|Kaisersesch.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Kaisersesch.personal|Kaisersesch.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Kaisersesch.secret|Kaisersesch.secret]] 
+
+### [Kaisersesch](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Cochem-Zell/cities~Cochem-Zell/Kaisersesch.md) 
+
+### [Kaisersesch.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Cochem-Zell/cities~Cochem-Zell/Kaisersesch.internal.md) 
+
+### [Kaisersesch.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Cochem-Zell/cities~Cochem-Zell/Kaisersesch.protect.md) 
+
+### [Kaisersesch.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Cochem-Zell/cities~Cochem-Zell/Kaisersesch.private.md) 
+
+### [Kaisersesch.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Cochem-Zell/cities~Cochem-Zell/Kaisersesch.personal.md) 
+
+### [Kaisersesch.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Cochem-Zell/cities~Cochem-Zell/Kaisersesch.secret.md) 

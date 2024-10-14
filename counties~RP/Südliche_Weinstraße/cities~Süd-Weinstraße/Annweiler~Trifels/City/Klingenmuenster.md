@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Klingenmuenster|Klingenmuenster]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Klingenmuenster.internal|Klingenmuenster.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Klingenmuenster.protect|Klingenmuenster.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Klingenmuenster.private|Klingenmuenster.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Klingenmuenster.personal|Klingenmuenster.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Klingenmuenster.secret|Klingenmuenster.secret]] 
+
+### [Klingenmuenster](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Südliche_Weinstraße/cities~Süd-Weinstraße/Annweiler~Trifels/City/Klingenmuenster.md) 
+
+### [Klingenmuenster.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Südliche_Weinstraße/cities~Süd-Weinstraße/Annweiler~Trifels/City/Klingenmuenster.internal.md) 
+
+### [Klingenmuenster.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Südliche_Weinstraße/cities~Süd-Weinstraße/Annweiler~Trifels/City/Klingenmuenster.protect.md) 
+
+### [Klingenmuenster.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Südliche_Weinstraße/cities~Süd-Weinstraße/Annweiler~Trifels/City/Klingenmuenster.private.md) 
+
+### [Klingenmuenster.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Südliche_Weinstraße/cities~Süd-Weinstraße/Annweiler~Trifels/City/Klingenmuenster.personal.md) 
+
+### [Klingenmuenster.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Südliche_Weinstraße/cities~Süd-Weinstraße/Annweiler~Trifels/City/Klingenmuenster.secret.md) 

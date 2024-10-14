@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Hambach|Hambach]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Hambach.internal|Hambach.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Hambach.protect|Hambach.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Hambach.private|Hambach.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Hambach.personal|Hambach.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Hambach.secret|Hambach.secret]] 
+
+### [Hambach](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Lahn-Kreis/cities~Rhein-Lahn-Kreis/Diez/City/Hambach.md) 
+
+### [Hambach.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Lahn-Kreis/cities~Rhein-Lahn-Kreis/Diez/City/Hambach.internal.md) 
+
+### [Hambach.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Lahn-Kreis/cities~Rhein-Lahn-Kreis/Diez/City/Hambach.protect.md) 
+
+### [Hambach.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Lahn-Kreis/cities~Rhein-Lahn-Kreis/Diez/City/Hambach.private.md) 
+
+### [Hambach.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Lahn-Kreis/cities~Rhein-Lahn-Kreis/Diez/City/Hambach.personal.md) 
+
+### [Hambach.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Lahn-Kreis/cities~Rhein-Lahn-Kreis/Diez/City/Hambach.secret.md) 

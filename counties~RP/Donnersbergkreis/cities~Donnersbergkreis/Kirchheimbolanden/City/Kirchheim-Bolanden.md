@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Kirchheim-Bolanden|Kirchheim-Bolanden]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Kirchheim-Bolanden.internal|Kirchheim-Bolanden.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Kirchheim-Bolanden.protect|Kirchheim-Bolanden.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Kirchheim-Bolanden.private|Kirchheim-Bolanden.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Kirchheim-Bolanden.personal|Kirchheim-Bolanden.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Kirchheim-Bolanden.secret|Kirchheim-Bolanden.secret]] 
+
+### [Kirchheim-Bolanden](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Donnersbergkreis/cities~Donnersbergkreis/Kirchheimbolanden/City/Kirchheim-Bolanden.md) 
+
+### [Kirchheim-Bolanden.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Donnersbergkreis/cities~Donnersbergkreis/Kirchheimbolanden/City/Kirchheim-Bolanden.internal.md) 
+
+### [Kirchheim-Bolanden.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Donnersbergkreis/cities~Donnersbergkreis/Kirchheimbolanden/City/Kirchheim-Bolanden.protect.md) 
+
+### [Kirchheim-Bolanden.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Donnersbergkreis/cities~Donnersbergkreis/Kirchheimbolanden/City/Kirchheim-Bolanden.private.md) 
+
+### [Kirchheim-Bolanden.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Donnersbergkreis/cities~Donnersbergkreis/Kirchheimbolanden/City/Kirchheim-Bolanden.personal.md) 
+
+### [Kirchheim-Bolanden.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Donnersbergkreis/cities~Donnersbergkreis/Kirchheimbolanden/City/Kirchheim-Bolanden.secret.md) 

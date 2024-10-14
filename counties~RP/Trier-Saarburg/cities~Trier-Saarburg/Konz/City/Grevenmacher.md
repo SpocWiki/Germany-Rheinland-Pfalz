@@ -34,10 +34,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Luxembourg/City/Grevenmacher|Grevenmacher]] 
-- [[../../../../../../_public/geo/Continent/Europe/Luxembourg/City/Grevenmacher.public|Grevenmacher.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Luxembourg/City/Grevenmacher.internal|Grevenmacher.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Luxembourg/City/Grevenmacher.protect|Grevenmacher.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Luxembourg/City/Grevenmacher.private|Grevenmacher.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Luxembourg/City/Grevenmacher.personal|Grevenmacher.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Luxembourg/City/Grevenmacher.secret|Grevenmacher.secret]] 
+
+### [Grevenmacher](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier-Saarburg/cities~Trier-Saarburg/Konz/City/Grevenmacher.md) 
+
+### [Grevenmacher.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier-Saarburg/cities~Trier-Saarburg/Konz/City/Grevenmacher.internal.md) 
+
+### [Grevenmacher.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier-Saarburg/cities~Trier-Saarburg/Konz/City/Grevenmacher.protect.md) 
+
+### [Grevenmacher.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier-Saarburg/cities~Trier-Saarburg/Konz/City/Grevenmacher.private.md) 
+
+### [Grevenmacher.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier-Saarburg/cities~Trier-Saarburg/Konz/City/Grevenmacher.personal.md) 
+
+### [Grevenmacher.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier-Saarburg/cities~Trier-Saarburg/Konz/City/Grevenmacher.secret.md) 

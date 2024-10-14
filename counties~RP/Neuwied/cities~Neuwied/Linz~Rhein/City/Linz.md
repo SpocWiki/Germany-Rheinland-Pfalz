@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Linz|Linz]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Linz.internal|Linz.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Linz.protect|Linz.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Linz.private|Linz.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Linz.personal|Linz.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Linz.secret|Linz.secret]] 
+
+### [Linz](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Neuwied/cities~Neuwied/Linz~Rhein/City/Linz.md) 
+
+### [Linz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Neuwied/cities~Neuwied/Linz~Rhein/City/Linz.internal.md) 
+
+### [Linz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Neuwied/cities~Neuwied/Linz~Rhein/City/Linz.protect.md) 
+
+### [Linz.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Neuwied/cities~Neuwied/Linz~Rhein/City/Linz.private.md) 
+
+### [Linz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Neuwied/cities~Neuwied/Linz~Rhein/City/Linz.personal.md) 
+
+### [Linz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Neuwied/cities~Neuwied/Linz~Rhein/City/Linz.secret.md) 

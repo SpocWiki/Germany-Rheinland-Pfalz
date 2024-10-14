@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Kandel~Pfalz|Kandel~Pfalz]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Kandel~Pfalz.internal|Kandel~Pfalz.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Kandel~Pfalz.protect|Kandel~Pfalz.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Kandel~Pfalz.private|Kandel~Pfalz.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Kandel~Pfalz.personal|Kandel~Pfalz.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Kandel~Pfalz.secret|Kandel~Pfalz.secret]] 
+
+### [Kandel~Pfalz](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Germersheim/cities~Germersheim/Kandel/City/Kandel~Pfalz.md) 
+
+### [Kandel~Pfalz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Germersheim/cities~Germersheim/Kandel/City/Kandel~Pfalz.internal.md) 
+
+### [Kandel~Pfalz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Germersheim/cities~Germersheim/Kandel/City/Kandel~Pfalz.protect.md) 
+
+### [Kandel~Pfalz.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Germersheim/cities~Germersheim/Kandel/City/Kandel~Pfalz.private.md) 
+
+### [Kandel~Pfalz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Germersheim/cities~Germersheim/Kandel/City/Kandel~Pfalz.personal.md) 
+
+### [Kandel~Pfalz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Germersheim/cities~Germersheim/Kandel/City/Kandel~Pfalz.secret.md) 

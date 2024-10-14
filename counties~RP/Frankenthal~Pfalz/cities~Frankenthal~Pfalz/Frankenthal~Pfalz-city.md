@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Frankenthal|Frankenthal]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Frankenthal.internal|Frankenthal.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Frankenthal.protect|Frankenthal.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Frankenthal.private|Frankenthal.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Frankenthal.personal|Frankenthal.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Frankenthal.secret|Frankenthal.secret]] 
+
+### [Frankenthal~Pfalz-city](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Frankenthal~Pfalz/cities~Frankenthal~Pfalz/Frankenthal~Pfalz-city.md) 
+
+### [Frankenthal~Pfalz-city.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Frankenthal~Pfalz/cities~Frankenthal~Pfalz/Frankenthal~Pfalz-city.internal.md) 
+
+### [Frankenthal~Pfalz-city.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Frankenthal~Pfalz/cities~Frankenthal~Pfalz/Frankenthal~Pfalz-city.protect.md) 
+
+### [Frankenthal~Pfalz-city.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Frankenthal~Pfalz/cities~Frankenthal~Pfalz/Frankenthal~Pfalz-city.private.md) 
+
+### [Frankenthal~Pfalz-city.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Frankenthal~Pfalz/cities~Frankenthal~Pfalz/Frankenthal~Pfalz-city.personal.md) 
+
+### [Frankenthal~Pfalz-city.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Frankenthal~Pfalz/cities~Frankenthal~Pfalz/Frankenthal~Pfalz-city.secret.md) 

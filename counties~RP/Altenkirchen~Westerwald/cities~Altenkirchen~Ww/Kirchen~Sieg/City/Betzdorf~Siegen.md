@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Betzdorf~Siegen|Betzdorf~Siegen]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Betzdorf~Siegen.internal|Betzdorf~Siegen.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Betzdorf~Siegen.protect|Betzdorf~Siegen.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Betzdorf~Siegen.private|Betzdorf~Siegen.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Betzdorf~Siegen.personal|Betzdorf~Siegen.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Betzdorf~Siegen.secret|Betzdorf~Siegen.secret]] 
+
+### [Betzdorf~Siegen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Altenkirchen~Westerwald/cities~Altenkirchen~Ww/Kirchen~Sieg/City/Betzdorf~Siegen.md) 
+
+### [Betzdorf~Siegen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Altenkirchen~Westerwald/cities~Altenkirchen~Ww/Kirchen~Sieg/City/Betzdorf~Siegen.internal.md) 
+
+### [Betzdorf~Siegen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Altenkirchen~Westerwald/cities~Altenkirchen~Ww/Kirchen~Sieg/City/Betzdorf~Siegen.protect.md) 
+
+### [Betzdorf~Siegen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Altenkirchen~Westerwald/cities~Altenkirchen~Ww/Kirchen~Sieg/City/Betzdorf~Siegen.private.md) 
+
+### [Betzdorf~Siegen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Altenkirchen~Westerwald/cities~Altenkirchen~Ww/Kirchen~Sieg/City/Betzdorf~Siegen.personal.md) 
+
+### [Betzdorf~Siegen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Altenkirchen~Westerwald/cities~Altenkirchen~Ww/Kirchen~Sieg/City/Betzdorf~Siegen.secret.md) 

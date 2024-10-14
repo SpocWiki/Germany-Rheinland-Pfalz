@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Hagenbach|Hagenbach]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Hagenbach.internal|Hagenbach.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Hagenbach.protect|Hagenbach.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Hagenbach.private|Hagenbach.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Hagenbach.personal|Hagenbach.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Hagenbach.secret|Hagenbach.secret]] 
+
+### [Hagenbach](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Germersheim/cities~Germersheim/Hagenbach.md) 
+
+### [Hagenbach.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Germersheim/cities~Germersheim/Hagenbach.internal.md) 
+
+### [Hagenbach.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Germersheim/cities~Germersheim/Hagenbach.protect.md) 
+
+### [Hagenbach.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Germersheim/cities~Germersheim/Hagenbach.private.md) 
+
+### [Hagenbach.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Germersheim/cities~Germersheim/Hagenbach.personal.md) 
+
+### [Hagenbach.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Germersheim/cities~Germersheim/Hagenbach.secret.md) 

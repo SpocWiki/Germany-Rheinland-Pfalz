@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Neubruecke|Neubruecke]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Neubruecke.internal|Neubruecke.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Neubruecke.protect|Neubruecke.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Neubruecke.private|Neubruecke.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Neubruecke.personal|Neubruecke.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Neubruecke.secret|Neubruecke.secret]] 
+
+### [Neubruecke](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Birkenfeld/cities~Birkenfeld/Birkenfeld-city/City/Neubruecke.md) 
+
+### [Neubruecke.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Birkenfeld/cities~Birkenfeld/Birkenfeld-city/City/Neubruecke.internal.md) 
+
+### [Neubruecke.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Birkenfeld/cities~Birkenfeld/Birkenfeld-city/City/Neubruecke.protect.md) 
+
+### [Neubruecke.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Birkenfeld/cities~Birkenfeld/Birkenfeld-city/City/Neubruecke.private.md) 
+
+### [Neubruecke.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Birkenfeld/cities~Birkenfeld/Birkenfeld-city/City/Neubruecke.personal.md) 
+
+### [Neubruecke.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Birkenfeld/cities~Birkenfeld/Birkenfeld-city/City/Neubruecke.secret.md) 

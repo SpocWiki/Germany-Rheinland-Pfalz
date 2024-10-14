@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Wahlheim|Wahlheim]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Wahlheim.internal|Wahlheim.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Wahlheim.protect|Wahlheim.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Wahlheim.private|Wahlheim.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Wahlheim.personal|Wahlheim.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Wahlheim.secret|Wahlheim.secret]] 
+
+### [Wahlheim](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Alzey-Worms/cities~Alzey-Worms/Alzey-Land/City/Wahlheim.md) 
+
+### [Wahlheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Alzey-Worms/cities~Alzey-Worms/Alzey-Land/City/Wahlheim.internal.md) 
+
+### [Wahlheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Alzey-Worms/cities~Alzey-Worms/Alzey-Land/City/Wahlheim.protect.md) 
+
+### [Wahlheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Alzey-Worms/cities~Alzey-Worms/Alzey-Land/City/Wahlheim.private.md) 
+
+### [Wahlheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Alzey-Worms/cities~Alzey-Worms/Alzey-Land/City/Wahlheim.personal.md) 
+
+### [Wahlheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Alzey-Worms/cities~Alzey-Worms/Alzey-Land/City/Wahlheim.secret.md) 

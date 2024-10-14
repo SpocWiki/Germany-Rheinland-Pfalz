@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Otterberg|Otterberg]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Otterberg.internal|Otterberg.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Otterberg.protect|Otterberg.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Otterberg.private|Otterberg.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Otterberg.personal|Otterberg.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Otterberg.secret|Otterberg.secret]] 
+
+### [Otterberg](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Kaiserslautern/cities~Kaiserslautern/Otterbach-Otterberg/City/Otterberg.md) 
+
+### [Otterberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Kaiserslautern/cities~Kaiserslautern/Otterbach-Otterberg/City/Otterberg.internal.md) 
+
+### [Otterberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Kaiserslautern/cities~Kaiserslautern/Otterbach-Otterberg/City/Otterberg.protect.md) 
+
+### [Otterberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Kaiserslautern/cities~Kaiserslautern/Otterbach-Otterberg/City/Otterberg.private.md) 
+
+### [Otterberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Kaiserslautern/cities~Kaiserslautern/Otterbach-Otterberg/City/Otterberg.personal.md) 
+
+### [Otterberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Kaiserslautern/cities~Kaiserslautern/Otterbach-Otterberg/City/Otterberg.secret.md) 

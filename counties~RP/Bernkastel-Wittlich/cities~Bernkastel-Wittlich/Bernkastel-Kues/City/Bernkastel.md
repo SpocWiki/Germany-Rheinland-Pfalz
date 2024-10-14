@@ -1,4 +1,4 @@
----
+﻿---
 location: [49.92,7.1] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -40,9 +40,15 @@ zum Barock und repräsentiert die traditionelle Baukunst an der Mosel
 
 
 ## Confidential Links & Embeds: 
-- [[Bernkastel|Bernkastel]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Bernkastel.internal|Bernkastel.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Bernkastel.protect|Bernkastel.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Bernkastel.private|Bernkastel.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Bernkastel.personal|Bernkastel.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Bernkastel.secret|Bernkastel.secret]] 
+
+### [Bernkastel](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bernkastel-Wittlich/cities~Bernkastel-Wittlich/Bernkastel-Kues/City/Bernkastel.md) 
+
+### [Bernkastel.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bernkastel-Wittlich/cities~Bernkastel-Wittlich/Bernkastel-Kues/City/Bernkastel.internal.md) 
+
+### [Bernkastel.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bernkastel-Wittlich/cities~Bernkastel-Wittlich/Bernkastel-Kues/City/Bernkastel.protect.md) 
+
+### [Bernkastel.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bernkastel-Wittlich/cities~Bernkastel-Wittlich/Bernkastel-Kues/City/Bernkastel.private.md) 
+
+### [Bernkastel.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bernkastel-Wittlich/cities~Bernkastel-Wittlich/Bernkastel-Kues/City/Bernkastel.personal.md) 
+
+### [Bernkastel.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bernkastel-Wittlich/cities~Bernkastel-Wittlich/Bernkastel-Kues/City/Bernkastel.secret.md) 

@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Kaub|Kaub]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Kaub.internal|Kaub.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Kaub.protect|Kaub.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Kaub.private|Kaub.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Kaub.personal|Kaub.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Kaub.secret|Kaub.secret]] 
+
+### [Kaub](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Lahn-Kreis/cities~Rhein-Lahn-Kreis/Loreley/City/Kaub.md) 
+
+### [Kaub.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Lahn-Kreis/cities~Rhein-Lahn-Kreis/Loreley/City/Kaub.internal.md) 
+
+### [Kaub.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Lahn-Kreis/cities~Rhein-Lahn-Kreis/Loreley/City/Kaub.protect.md) 
+
+### [Kaub.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Lahn-Kreis/cities~Rhein-Lahn-Kreis/Loreley/City/Kaub.private.md) 
+
+### [Kaub.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Lahn-Kreis/cities~Rhein-Lahn-Kreis/Loreley/City/Kaub.personal.md) 
+
+### [Kaub.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Lahn-Kreis/cities~Rhein-Lahn-Kreis/Loreley/City/Kaub.secret.md) 

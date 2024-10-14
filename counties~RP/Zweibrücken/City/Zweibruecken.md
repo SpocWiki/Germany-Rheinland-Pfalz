@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Zweibruecken|Zweibruecken]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Zweibruecken.internal|Zweibruecken.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Zweibruecken.protect|Zweibruecken.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Zweibruecken.private|Zweibruecken.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Zweibruecken.personal|Zweibruecken.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Zweibruecken.secret|Zweibruecken.secret]] 
+
+### [Zweibruecken](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Zweibrücken/City/Zweibruecken.md) 
+
+### [Zweibruecken.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Zweibrücken/City/Zweibruecken.internal.md) 
+
+### [Zweibruecken.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Zweibrücken/City/Zweibruecken.protect.md) 
+
+### [Zweibruecken.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Zweibrücken/City/Zweibruecken.private.md) 
+
+### [Zweibruecken.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Zweibrücken/City/Zweibruecken.personal.md) 
+
+### [Zweibruecken.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Zweibrücken/City/Zweibruecken.secret.md) 

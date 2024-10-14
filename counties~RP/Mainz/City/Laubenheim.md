@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Laubenheim|Laubenheim]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Laubenheim.internal|Laubenheim.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Laubenheim.protect|Laubenheim.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Laubenheim.private|Laubenheim.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Laubenheim.personal|Laubenheim.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Laubenheim.secret|Laubenheim.secret]] 
+
+### [Laubenheim](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mainz/City/Laubenheim.md) 
+
+### [Laubenheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mainz/City/Laubenheim.internal.md) 
+
+### [Laubenheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mainz/City/Laubenheim.protect.md) 
+
+### [Laubenheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mainz/City/Laubenheim.private.md) 
+
+### [Laubenheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mainz/City/Laubenheim.personal.md) 
+
+### [Laubenheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mainz/City/Laubenheim.secret.md) 

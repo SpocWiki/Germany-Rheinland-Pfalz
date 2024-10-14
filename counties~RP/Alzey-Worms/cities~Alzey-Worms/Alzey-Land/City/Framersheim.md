@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Framersheim|Framersheim]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Framersheim.internal|Framersheim.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Framersheim.protect|Framersheim.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Framersheim.private|Framersheim.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Framersheim.personal|Framersheim.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Framersheim.secret|Framersheim.secret]] 
+
+### [Framersheim](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Alzey-Worms/cities~Alzey-Worms/Alzey-Land/City/Framersheim.md) 
+
+### [Framersheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Alzey-Worms/cities~Alzey-Worms/Alzey-Land/City/Framersheim.internal.md) 
+
+### [Framersheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Alzey-Worms/cities~Alzey-Worms/Alzey-Land/City/Framersheim.protect.md) 
+
+### [Framersheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Alzey-Worms/cities~Alzey-Worms/Alzey-Land/City/Framersheim.private.md) 
+
+### [Framersheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Alzey-Worms/cities~Alzey-Worms/Alzey-Land/City/Framersheim.personal.md) 
+
+### [Framersheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Alzey-Worms/cities~Alzey-Worms/Alzey-Land/City/Framersheim.secret.md) 

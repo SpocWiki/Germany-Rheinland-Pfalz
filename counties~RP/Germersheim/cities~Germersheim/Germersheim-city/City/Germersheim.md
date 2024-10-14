@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Germersheim|Germersheim]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Germersheim.internal|Germersheim.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Germersheim.protect|Germersheim.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Germersheim.private|Germersheim.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Germersheim.personal|Germersheim.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Germersheim.secret|Germersheim.secret]] 
+
+### [Germersheim](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Germersheim/cities~Germersheim/Germersheim-city/City/Germersheim.md) 
+
+### [Germersheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Germersheim/cities~Germersheim/Germersheim-city/City/Germersheim.internal.md) 
+
+### [Germersheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Germersheim/cities~Germersheim/Germersheim-city/City/Germersheim.protect.md) 
+
+### [Germersheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Germersheim/cities~Germersheim/Germersheim-city/City/Germersheim.private.md) 
+
+### [Germersheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Germersheim/cities~Germersheim/Germersheim-city/City/Germersheim.personal.md) 
+
+### [Germersheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Germersheim/cities~Germersheim/Germersheim-city/City/Germersheim.secret.md) 

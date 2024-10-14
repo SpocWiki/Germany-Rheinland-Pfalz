@@ -34,10 +34,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Luxembourg/City/Heinerscheid|Heinerscheid]] 
-- [[../../../../../../_public/geo/Continent/Europe/Luxembourg/City/Heinerscheid.public|Heinerscheid.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Luxembourg/City/Heinerscheid.internal|Heinerscheid.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Luxembourg/City/Heinerscheid.protect|Heinerscheid.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Luxembourg/City/Heinerscheid.private|Heinerscheid.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Luxembourg/City/Heinerscheid.personal|Heinerscheid.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Luxembourg/City/Heinerscheid.secret|Heinerscheid.secret]] 
+
+### [Heinerscheid](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Eifelkreis_Bitburg-Prüm/cities~Prüm/Arzfeld/City/Heinerscheid.md) 
+
+### [Heinerscheid.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Eifelkreis_Bitburg-Prüm/cities~Prüm/Arzfeld/City/Heinerscheid.internal.md) 
+
+### [Heinerscheid.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Eifelkreis_Bitburg-Prüm/cities~Prüm/Arzfeld/City/Heinerscheid.protect.md) 
+
+### [Heinerscheid.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Eifelkreis_Bitburg-Prüm/cities~Prüm/Arzfeld/City/Heinerscheid.private.md) 
+
+### [Heinerscheid.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Eifelkreis_Bitburg-Prüm/cities~Prüm/Arzfeld/City/Heinerscheid.personal.md) 
+
+### [Heinerscheid.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Eifelkreis_Bitburg-Prüm/cities~Prüm/Arzfeld/City/Heinerscheid.secret.md) 

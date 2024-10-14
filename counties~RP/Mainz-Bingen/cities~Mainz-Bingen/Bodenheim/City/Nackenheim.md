@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Nackenheim|Nackenheim]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Nackenheim.internal|Nackenheim.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Nackenheim.protect|Nackenheim.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Nackenheim.private|Nackenheim.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Nackenheim.personal|Nackenheim.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Nackenheim.secret|Nackenheim.secret]] 
+
+### [Nackenheim](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mainz-Bingen/cities~Mainz-Bingen/Bodenheim/City/Nackenheim.md) 
+
+### [Nackenheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mainz-Bingen/cities~Mainz-Bingen/Bodenheim/City/Nackenheim.internal.md) 
+
+### [Nackenheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mainz-Bingen/cities~Mainz-Bingen/Bodenheim/City/Nackenheim.protect.md) 
+
+### [Nackenheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mainz-Bingen/cities~Mainz-Bingen/Bodenheim/City/Nackenheim.private.md) 
+
+### [Nackenheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mainz-Bingen/cities~Mainz-Bingen/Bodenheim/City/Nackenheim.personal.md) 
+
+### [Nackenheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mainz-Bingen/cities~Mainz-Bingen/Bodenheim/City/Nackenheim.secret.md) 

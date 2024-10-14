@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Dudenhofen~Pfalz|Dudenhofen~Pfalz]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Dudenhofen~Pfalz.internal|Dudenhofen~Pfalz.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Dudenhofen~Pfalz.protect|Dudenhofen~Pfalz.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Dudenhofen~Pfalz.private|Dudenhofen~Pfalz.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Dudenhofen~Pfalz.personal|Dudenhofen~Pfalz.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Dudenhofen~Pfalz.secret|Dudenhofen~Pfalz.secret]] 
+
+### [Dudenhofen~Pfalz](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Pfalz-Kreis/cities~Rhein-Pfalz/Römerberg-Dudenhofen/City/Dudenhofen~Pfalz.md) 
+
+### [Dudenhofen~Pfalz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Pfalz-Kreis/cities~Rhein-Pfalz/Römerberg-Dudenhofen/City/Dudenhofen~Pfalz.internal.md) 
+
+### [Dudenhofen~Pfalz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Pfalz-Kreis/cities~Rhein-Pfalz/Römerberg-Dudenhofen/City/Dudenhofen~Pfalz.protect.md) 
+
+### [Dudenhofen~Pfalz.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Pfalz-Kreis/cities~Rhein-Pfalz/Römerberg-Dudenhofen/City/Dudenhofen~Pfalz.private.md) 
+
+### [Dudenhofen~Pfalz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Pfalz-Kreis/cities~Rhein-Pfalz/Römerberg-Dudenhofen/City/Dudenhofen~Pfalz.personal.md) 
+
+### [Dudenhofen~Pfalz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Pfalz-Kreis/cities~Rhein-Pfalz/Römerberg-Dudenhofen/City/Dudenhofen~Pfalz.secret.md) 

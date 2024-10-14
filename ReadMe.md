@@ -1,4 +1,4 @@
----
+﻿---
 has_id_wikidata: Q1200
 location: [49.914,7.57652] 
 type: State
@@ -142,7 +142,7 @@ by including it as a Sub-Repository in local File-Systems,
 specifically as part of the [\_Standards](https://github.com/SpocWiki/_Standards) Repository. 
 
 Check out this Repository into this Subfolder: 
-\_Standards/geo/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz 
+\_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz 
 
 
 ## #has_/text_of_/abstract  
@@ -208,9 +208,15 @@ Capital :: [[Mainz]]
 [Population::] 
 
 ## Confidential Links & Embeds: 
-- [[Rheinland-Pfalz|Rheinland-Pfalz]]  
-- [[../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz.internal|Rheinland-Pfalz.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz.protect|Rheinland-Pfalz.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz.private|Rheinland-Pfalz.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz.personal|Rheinland-Pfalz.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz.secret|Rheinland-Pfalz.secret]] 
+
+### [ReadMe](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/ReadMe.md) 
+
+### [ReadMe.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/ReadMe.internal.md) 
+
+### [ReadMe.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/ReadMe.protect.md) 
+
+### [ReadMe.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/ReadMe.private.md) 
+
+### [ReadMe.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/ReadMe.personal.md) 
+
+### [ReadMe.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/ReadMe.secret.md) 

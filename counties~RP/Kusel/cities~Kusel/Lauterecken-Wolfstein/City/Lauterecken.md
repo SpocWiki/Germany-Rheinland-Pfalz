@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Lauterecken|Lauterecken]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Lauterecken.internal|Lauterecken.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Lauterecken.protect|Lauterecken.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Lauterecken.private|Lauterecken.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Lauterecken.personal|Lauterecken.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Lauterecken.secret|Lauterecken.secret]] 
+
+### [Lauterecken](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Kusel/cities~Kusel/Lauterecken-Wolfstein/City/Lauterecken.md) 
+
+### [Lauterecken.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Kusel/cities~Kusel/Lauterecken-Wolfstein/City/Lauterecken.internal.md) 
+
+### [Lauterecken.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Kusel/cities~Kusel/Lauterecken-Wolfstein/City/Lauterecken.protect.md) 
+
+### [Lauterecken.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Kusel/cities~Kusel/Lauterecken-Wolfstein/City/Lauterecken.private.md) 
+
+### [Lauterecken.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Kusel/cities~Kusel/Lauterecken-Wolfstein/City/Lauterecken.personal.md) 
+
+### [Lauterecken.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Kusel/cities~Kusel/Lauterecken-Wolfstein/City/Lauterecken.secret.md) 

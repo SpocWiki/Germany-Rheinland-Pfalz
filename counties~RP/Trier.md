@@ -1,4 +1,4 @@
----
+﻿---
 location: [49.76,6.64] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -44,9 +44,15 @@ Neben dem Wahrzeichen der Stadt, der Porta Nigra,
 sind die beschaulichen Gassen der Altstadt absolut sehenswert.
 
 ## Confidential Links & Embeds: 
-- [[Trier|Trier]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Trier.internal|Trier.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Trier.protect|Trier.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Trier.private|Trier.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Trier.personal|Trier.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Trier.secret|Trier.secret]] 
+
+### [Trier](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier.md) 
+
+### [Trier.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier.internal.md) 
+
+### [Trier.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier.protect.md) 
+
+### [Trier.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier.private.md) 
+
+### [Trier.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier.personal.md) 
+
+### [Trier.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier.secret.md) 

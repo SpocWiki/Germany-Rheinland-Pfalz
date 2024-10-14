@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Ludwigshafen~Rhein|Ludwigshafen~Rhein]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Ludwigshafen~Rhein.internal|Ludwigshafen~Rhein.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Ludwigshafen~Rhein.protect|Ludwigshafen~Rhein.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Ludwigshafen~Rhein.private|Ludwigshafen~Rhein.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Ludwigshafen~Rhein.personal|Ludwigshafen~Rhein.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Ludwigshafen~Rhein.secret|Ludwigshafen~Rhein.secret]] 
+
+### [Ludwigshafen~Rhein-city](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Ludwigshafen~Rhein/cities~Ludwigshafen~Rhein/Ludwigshafen~Rhein-city.md) 
+
+### [Ludwigshafen~Rhein-city.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Ludwigshafen~Rhein/cities~Ludwigshafen~Rhein/Ludwigshafen~Rhein-city.internal.md) 
+
+### [Ludwigshafen~Rhein-city.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Ludwigshafen~Rhein/cities~Ludwigshafen~Rhein/Ludwigshafen~Rhein-city.protect.md) 
+
+### [Ludwigshafen~Rhein-city.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Ludwigshafen~Rhein/cities~Ludwigshafen~Rhein/Ludwigshafen~Rhein-city.private.md) 
+
+### [Ludwigshafen~Rhein-city.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Ludwigshafen~Rhein/cities~Ludwigshafen~Rhein/Ludwigshafen~Rhein-city.personal.md) 
+
+### [Ludwigshafen~Rhein-city.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Ludwigshafen~Rhein/cities~Ludwigshafen~Rhein/Ludwigshafen~Rhein-city.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 location: [49.32,8.43] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -42,9 +42,15 @@ Speyerer Dom (seit 1981 [[Unesco]] Welterbe)
 SchUM-Stätten (2021) 
 
 ## Confidential Links & Embeds: 
-- [[Speyer|Speyer]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Speyer.internal|Speyer.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Speyer.protect|Speyer.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Speyer.private|Speyer.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Speyer.personal|Speyer.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Speyer.secret|Speyer.secret]] 
+
+### [Speyer](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Speyer.md) 
+
+### [Speyer.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Speyer.internal.md) 
+
+### [Speyer.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Speyer.protect.md) 
+
+### [Speyer.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Speyer.private.md) 
+
+### [Speyer.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Speyer.personal.md) 
+
+### [Speyer.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Speyer.secret.md) 

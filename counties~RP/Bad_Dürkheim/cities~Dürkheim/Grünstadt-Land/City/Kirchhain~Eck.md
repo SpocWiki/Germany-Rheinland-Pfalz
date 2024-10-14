@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Kirchhain_am_Eck|Kirchhain_am_Eck]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Kirchhain_am_Eck.internal|Kirchhain_am_Eck.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Kirchhain_am_Eck.protect|Kirchhain_am_Eck.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Kirchhain_am_Eck.private|Kirchhain_am_Eck.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Kirchhain_am_Eck.personal|Kirchhain_am_Eck.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Kirchhain_am_Eck.secret|Kirchhain_am_Eck.secret]] 
+
+### [Kirchhain~Eck](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Dürkheim/cities~Dürkheim/Grünstadt-Land/City/Kirchhain~Eck.md) 
+
+### [Kirchhain~Eck.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Dürkheim/cities~Dürkheim/Grünstadt-Land/City/Kirchhain~Eck.internal.md) 
+
+### [Kirchhain~Eck.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Dürkheim/cities~Dürkheim/Grünstadt-Land/City/Kirchhain~Eck.protect.md) 
+
+### [Kirchhain~Eck.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Dürkheim/cities~Dürkheim/Grünstadt-Land/City/Kirchhain~Eck.private.md) 
+
+### [Kirchhain~Eck.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Dürkheim/cities~Dürkheim/Grünstadt-Land/City/Kirchhain~Eck.personal.md) 
+
+### [Kirchhain~Eck.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Dürkheim/cities~Dürkheim/Grünstadt-Land/City/Kirchhain~Eck.secret.md) 
