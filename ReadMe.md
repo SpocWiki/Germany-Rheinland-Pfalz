@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q1200
 location: [49.914,7.57652] 
 type: State
@@ -207,16 +207,20 @@ Capital :: [[Mainz]]
 [has_place_latitude::49.914] 
 [Population::] 
 
+
 ## Confidential Links & Embeds: 
 
-### [ReadMe](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/ReadMe.md) 
+### #is_/same_as :: [ReadMe](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/ReadMe.md) 
 
-### [ReadMe.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/ReadMe.internal.md) 
+### #is_/same_as :: [ReadMe.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/ReadMe.public.md) 
 
-### [ReadMe.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/ReadMe.protect.md) 
+### #is_/same_as :: [ReadMe.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/ReadMe.internal.md) 
 
-### [ReadMe.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/ReadMe.private.md) 
+### #is_/same_as :: [ReadMe.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/ReadMe.protect.md) 
 
-### [ReadMe.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/ReadMe.personal.md) 
+### #is_/same_as :: [ReadMe.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/ReadMe.private.md) 
 
-### [ReadMe.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/ReadMe.secret.md) 
+### #is_/same_as :: [ReadMe.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/ReadMe.personal.md) 
+
+### #is_/same_as :: [ReadMe.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/ReadMe.secret.md)
+

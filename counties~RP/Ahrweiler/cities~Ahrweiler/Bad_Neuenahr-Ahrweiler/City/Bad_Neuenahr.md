@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.55,7.15] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bad_Neuenahr](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Ahrweiler/cities~Ahrweiler/Bad_Neuenahr-Ahrweiler/City/Bad_Neuenahr.md) 
+### #is_/same_as :: [Bad_Neuenahr](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Ahrweiler/cities~Ahrweiler/Bad_Neuenahr-Ahrweiler/City/Bad_Neuenahr.md) 
 
-### [Bad_Neuenahr.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Ahrweiler/cities~Ahrweiler/Bad_Neuenahr-Ahrweiler/City/Bad_Neuenahr.internal.md) 
+### #is_/same_as :: [Bad_Neuenahr.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Ahrweiler/cities~Ahrweiler/Bad_Neuenahr-Ahrweiler/City/Bad_Neuenahr.public.md) 
 
-### [Bad_Neuenahr.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Ahrweiler/cities~Ahrweiler/Bad_Neuenahr-Ahrweiler/City/Bad_Neuenahr.protect.md) 
+### #is_/same_as :: [Bad_Neuenahr.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Ahrweiler/cities~Ahrweiler/Bad_Neuenahr-Ahrweiler/City/Bad_Neuenahr.internal.md) 
 
-### [Bad_Neuenahr.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Ahrweiler/cities~Ahrweiler/Bad_Neuenahr-Ahrweiler/City/Bad_Neuenahr.private.md) 
+### #is_/same_as :: [Bad_Neuenahr.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Ahrweiler/cities~Ahrweiler/Bad_Neuenahr-Ahrweiler/City/Bad_Neuenahr.protect.md) 
 
-### [Bad_Neuenahr.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Ahrweiler/cities~Ahrweiler/Bad_Neuenahr-Ahrweiler/City/Bad_Neuenahr.personal.md) 
+### #is_/same_as :: [Bad_Neuenahr.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Ahrweiler/cities~Ahrweiler/Bad_Neuenahr-Ahrweiler/City/Bad_Neuenahr.private.md) 
 
-### [Bad_Neuenahr.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Ahrweiler/cities~Ahrweiler/Bad_Neuenahr-Ahrweiler/City/Bad_Neuenahr.secret.md) 
+### #is_/same_as :: [Bad_Neuenahr.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Ahrweiler/cities~Ahrweiler/Bad_Neuenahr-Ahrweiler/City/Bad_Neuenahr.personal.md) 
+
+### #is_/same_as :: [Bad_Neuenahr.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Ahrweiler/cities~Ahrweiler/Bad_Neuenahr-Ahrweiler/City/Bad_Neuenahr.secret.md)
+

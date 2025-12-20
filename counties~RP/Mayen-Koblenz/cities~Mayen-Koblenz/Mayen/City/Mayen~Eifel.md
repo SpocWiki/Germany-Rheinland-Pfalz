@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.3,7.22] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Mayen~Eifel](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mayen-Koblenz/cities~Mayen-Koblenz/Mayen/City/Mayen~Eifel.md) 
+### #is_/same_as :: [Mayen~Eifel](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mayen-Koblenz/cities~Mayen-Koblenz/Mayen/City/Mayen~Eifel.md) 
 
-### [Mayen~Eifel.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mayen-Koblenz/cities~Mayen-Koblenz/Mayen/City/Mayen~Eifel.internal.md) 
+### #is_/same_as :: [Mayen~Eifel.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mayen-Koblenz/cities~Mayen-Koblenz/Mayen/City/Mayen~Eifel.public.md) 
 
-### [Mayen~Eifel.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mayen-Koblenz/cities~Mayen-Koblenz/Mayen/City/Mayen~Eifel.protect.md) 
+### #is_/same_as :: [Mayen~Eifel.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mayen-Koblenz/cities~Mayen-Koblenz/Mayen/City/Mayen~Eifel.internal.md) 
 
-### [Mayen~Eifel.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mayen-Koblenz/cities~Mayen-Koblenz/Mayen/City/Mayen~Eifel.private.md) 
+### #is_/same_as :: [Mayen~Eifel.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mayen-Koblenz/cities~Mayen-Koblenz/Mayen/City/Mayen~Eifel.protect.md) 
 
-### [Mayen~Eifel.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mayen-Koblenz/cities~Mayen-Koblenz/Mayen/City/Mayen~Eifel.personal.md) 
+### #is_/same_as :: [Mayen~Eifel.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mayen-Koblenz/cities~Mayen-Koblenz/Mayen/City/Mayen~Eifel.private.md) 
 
-### [Mayen~Eifel.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mayen-Koblenz/cities~Mayen-Koblenz/Mayen/City/Mayen~Eifel.secret.md) 
+### #is_/same_as :: [Mayen~Eifel.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mayen-Koblenz/cities~Mayen-Koblenz/Mayen/City/Mayen~Eifel.personal.md) 
+
+### #is_/same_as :: [Mayen~Eifel.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mayen-Koblenz/cities~Mayen-Koblenz/Mayen/City/Mayen~Eifel.secret.md)
+

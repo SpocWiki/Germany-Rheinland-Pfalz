@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.68,7.65] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Altenkirchen~Ww-city](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Altenkirchen~Westerwald/cities~Altenkirchen~Ww/Altenkirchen~Ww-city.md) 
+### #is_/same_as :: [Altenkirchen~Ww-city](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Altenkirchen~Westerwald/cities~Altenkirchen~Ww/Altenkirchen~Ww-city.md) 
 
-### [Altenkirchen~Ww-city.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Altenkirchen~Westerwald/cities~Altenkirchen~Ww/Altenkirchen~Ww-city.internal.md) 
+### #is_/same_as :: [Altenkirchen~Ww-city.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Altenkirchen~Westerwald/cities~Altenkirchen~Ww/Altenkirchen~Ww-city.public.md) 
 
-### [Altenkirchen~Ww-city.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Altenkirchen~Westerwald/cities~Altenkirchen~Ww/Altenkirchen~Ww-city.protect.md) 
+### #is_/same_as :: [Altenkirchen~Ww-city.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Altenkirchen~Westerwald/cities~Altenkirchen~Ww/Altenkirchen~Ww-city.internal.md) 
 
-### [Altenkirchen~Ww-city.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Altenkirchen~Westerwald/cities~Altenkirchen~Ww/Altenkirchen~Ww-city.private.md) 
+### #is_/same_as :: [Altenkirchen~Ww-city.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Altenkirchen~Westerwald/cities~Altenkirchen~Ww/Altenkirchen~Ww-city.protect.md) 
 
-### [Altenkirchen~Ww-city.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Altenkirchen~Westerwald/cities~Altenkirchen~Ww/Altenkirchen~Ww-city.personal.md) 
+### #is_/same_as :: [Altenkirchen~Ww-city.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Altenkirchen~Westerwald/cities~Altenkirchen~Ww/Altenkirchen~Ww-city.private.md) 
 
-### [Altenkirchen~Ww-city.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Altenkirchen~Westerwald/cities~Altenkirchen~Ww/Altenkirchen~Ww-city.secret.md) 
+### #is_/same_as :: [Altenkirchen~Ww-city.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Altenkirchen~Westerwald/cities~Altenkirchen~Ww/Altenkirchen~Ww-city.personal.md) 
+
+### #is_/same_as :: [Altenkirchen~Ww-city.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Altenkirchen~Westerwald/cities~Altenkirchen~Ww/Altenkirchen~Ww-city.secret.md)
+

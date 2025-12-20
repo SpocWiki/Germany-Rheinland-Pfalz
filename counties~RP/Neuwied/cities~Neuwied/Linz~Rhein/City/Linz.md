@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.57,7.28] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Linz](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Neuwied/cities~Neuwied/Linz~Rhein/City/Linz.md) 
+### #is_/same_as :: [Linz](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Neuwied/cities~Neuwied/Linz~Rhein/City/Linz.md) 
 
-### [Linz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Neuwied/cities~Neuwied/Linz~Rhein/City/Linz.internal.md) 
+### #is_/same_as :: [Linz.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Neuwied/cities~Neuwied/Linz~Rhein/City/Linz.public.md) 
 
-### [Linz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Neuwied/cities~Neuwied/Linz~Rhein/City/Linz.protect.md) 
+### #is_/same_as :: [Linz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Neuwied/cities~Neuwied/Linz~Rhein/City/Linz.internal.md) 
 
-### [Linz.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Neuwied/cities~Neuwied/Linz~Rhein/City/Linz.private.md) 
+### #is_/same_as :: [Linz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Neuwied/cities~Neuwied/Linz~Rhein/City/Linz.protect.md) 
 
-### [Linz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Neuwied/cities~Neuwied/Linz~Rhein/City/Linz.personal.md) 
+### #is_/same_as :: [Linz.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Neuwied/cities~Neuwied/Linz~Rhein/City/Linz.private.md) 
 
-### [Linz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Neuwied/cities~Neuwied/Linz~Rhein/City/Linz.secret.md) 
+### #is_/same_as :: [Linz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Neuwied/cities~Neuwied/Linz~Rhein/City/Linz.personal.md) 
+
+### #is_/same_as :: [Linz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Neuwied/cities~Neuwied/Linz~Rhein/City/Linz.secret.md)
+

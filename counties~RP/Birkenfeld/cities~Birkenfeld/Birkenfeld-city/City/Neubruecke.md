@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.6,7.18] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Neubruecke](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Birkenfeld/cities~Birkenfeld/Birkenfeld-city/City/Neubruecke.md) 
+### #is_/same_as :: [Neubruecke](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Birkenfeld/cities~Birkenfeld/Birkenfeld-city/City/Neubruecke.md) 
 
-### [Neubruecke.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Birkenfeld/cities~Birkenfeld/Birkenfeld-city/City/Neubruecke.internal.md) 
+### #is_/same_as :: [Neubruecke.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Birkenfeld/cities~Birkenfeld/Birkenfeld-city/City/Neubruecke.public.md) 
 
-### [Neubruecke.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Birkenfeld/cities~Birkenfeld/Birkenfeld-city/City/Neubruecke.protect.md) 
+### #is_/same_as :: [Neubruecke.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Birkenfeld/cities~Birkenfeld/Birkenfeld-city/City/Neubruecke.internal.md) 
 
-### [Neubruecke.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Birkenfeld/cities~Birkenfeld/Birkenfeld-city/City/Neubruecke.private.md) 
+### #is_/same_as :: [Neubruecke.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Birkenfeld/cities~Birkenfeld/Birkenfeld-city/City/Neubruecke.protect.md) 
 
-### [Neubruecke.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Birkenfeld/cities~Birkenfeld/Birkenfeld-city/City/Neubruecke.personal.md) 
+### #is_/same_as :: [Neubruecke.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Birkenfeld/cities~Birkenfeld/Birkenfeld-city/City/Neubruecke.private.md) 
 
-### [Neubruecke.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Birkenfeld/cities~Birkenfeld/Birkenfeld-city/City/Neubruecke.secret.md) 
+### #is_/same_as :: [Neubruecke.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Birkenfeld/cities~Birkenfeld/Birkenfeld-city/City/Neubruecke.personal.md) 
+
+### #is_/same_as :: [Neubruecke.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Birkenfeld/cities~Birkenfeld/Birkenfeld-city/City/Neubruecke.secret.md)
+

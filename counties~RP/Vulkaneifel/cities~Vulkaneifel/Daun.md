@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.2,6.83] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Daun](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Vulkaneifel/cities~Vulkaneifel/Daun.md) 
+### #is_/same_as :: [Daun](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Vulkaneifel/cities~Vulkaneifel/Daun.md) 
 
-### [Daun.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Vulkaneifel/cities~Vulkaneifel/Daun.internal.md) 
+### #is_/same_as :: [Daun.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Vulkaneifel/cities~Vulkaneifel/Daun.public.md) 
 
-### [Daun.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Vulkaneifel/cities~Vulkaneifel/Daun.protect.md) 
+### #is_/same_as :: [Daun.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Vulkaneifel/cities~Vulkaneifel/Daun.internal.md) 
 
-### [Daun.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Vulkaneifel/cities~Vulkaneifel/Daun.private.md) 
+### #is_/same_as :: [Daun.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Vulkaneifel/cities~Vulkaneifel/Daun.protect.md) 
 
-### [Daun.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Vulkaneifel/cities~Vulkaneifel/Daun.personal.md) 
+### #is_/same_as :: [Daun.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Vulkaneifel/cities~Vulkaneifel/Daun.private.md) 
 
-### [Daun.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Vulkaneifel/cities~Vulkaneifel/Daun.secret.md) 
+### #is_/same_as :: [Daun.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Vulkaneifel/cities~Vulkaneifel/Daun.personal.md) 
+
+### #is_/same_as :: [Daun.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Vulkaneifel/cities~Vulkaneifel/Daun.secret.md)
+

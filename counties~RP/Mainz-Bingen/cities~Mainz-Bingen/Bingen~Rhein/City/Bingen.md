@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.95,7.9] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -42,14 +42,17 @@ Oberes Mittelrheintal (2002) zwischen Koblenz und Bingen
 
 ## Confidential Links & Embeds: 
 
-### [Bingen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mainz-Bingen/cities~Mainz-Bingen/Bingen~Rhein/City/Bingen.md) 
+### #is_/same_as :: [Bingen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mainz-Bingen/cities~Mainz-Bingen/Bingen~Rhein/City/Bingen.md) 
 
-### [Bingen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mainz-Bingen/cities~Mainz-Bingen/Bingen~Rhein/City/Bingen.internal.md) 
+### #is_/same_as :: [Bingen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mainz-Bingen/cities~Mainz-Bingen/Bingen~Rhein/City/Bingen.public.md) 
 
-### [Bingen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mainz-Bingen/cities~Mainz-Bingen/Bingen~Rhein/City/Bingen.protect.md) 
+### #is_/same_as :: [Bingen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mainz-Bingen/cities~Mainz-Bingen/Bingen~Rhein/City/Bingen.internal.md) 
 
-### [Bingen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mainz-Bingen/cities~Mainz-Bingen/Bingen~Rhein/City/Bingen.private.md) 
+### #is_/same_as :: [Bingen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mainz-Bingen/cities~Mainz-Bingen/Bingen~Rhein/City/Bingen.protect.md) 
 
-### [Bingen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mainz-Bingen/cities~Mainz-Bingen/Bingen~Rhein/City/Bingen.personal.md) 
+### #is_/same_as :: [Bingen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mainz-Bingen/cities~Mainz-Bingen/Bingen~Rhein/City/Bingen.private.md) 
 
-### [Bingen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mainz-Bingen/cities~Mainz-Bingen/Bingen~Rhein/City/Bingen.secret.md) 
+### #is_/same_as :: [Bingen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mainz-Bingen/cities~Mainz-Bingen/Bingen~Rhein/City/Bingen.personal.md) 
+
+### #is_/same_as :: [Bingen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mainz-Bingen/cities~Mainz-Bingen/Bingen~Rhein/City/Bingen.secret.md)
+

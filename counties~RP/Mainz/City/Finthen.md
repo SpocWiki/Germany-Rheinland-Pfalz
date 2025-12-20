@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.98,8.18] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Finthen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mainz/City/Finthen.md) 
+### #is_/same_as :: [Finthen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mainz/City/Finthen.md) 
 
-### [Finthen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mainz/City/Finthen.internal.md) 
+### #is_/same_as :: [Finthen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mainz/City/Finthen.public.md) 
 
-### [Finthen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mainz/City/Finthen.protect.md) 
+### #is_/same_as :: [Finthen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mainz/City/Finthen.internal.md) 
 
-### [Finthen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mainz/City/Finthen.private.md) 
+### #is_/same_as :: [Finthen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mainz/City/Finthen.protect.md) 
 
-### [Finthen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mainz/City/Finthen.personal.md) 
+### #is_/same_as :: [Finthen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mainz/City/Finthen.private.md) 
 
-### [Finthen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mainz/City/Finthen.secret.md) 
+### #is_/same_as :: [Finthen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mainz/City/Finthen.personal.md) 
+
+### #is_/same_as :: [Finthen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mainz/City/Finthen.secret.md)
+

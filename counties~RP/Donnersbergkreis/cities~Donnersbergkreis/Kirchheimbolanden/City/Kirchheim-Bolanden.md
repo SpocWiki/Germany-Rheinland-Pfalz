@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.7,8] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kirchheim-Bolanden](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Donnersbergkreis/cities~Donnersbergkreis/Kirchheimbolanden/City/Kirchheim-Bolanden.md) 
+### #is_/same_as :: [Kirchheim-Bolanden](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Donnersbergkreis/cities~Donnersbergkreis/Kirchheimbolanden/City/Kirchheim-Bolanden.md) 
 
-### [Kirchheim-Bolanden.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Donnersbergkreis/cities~Donnersbergkreis/Kirchheimbolanden/City/Kirchheim-Bolanden.internal.md) 
+### #is_/same_as :: [Kirchheim-Bolanden.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Donnersbergkreis/cities~Donnersbergkreis/Kirchheimbolanden/City/Kirchheim-Bolanden.public.md) 
 
-### [Kirchheim-Bolanden.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Donnersbergkreis/cities~Donnersbergkreis/Kirchheimbolanden/City/Kirchheim-Bolanden.protect.md) 
+### #is_/same_as :: [Kirchheim-Bolanden.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Donnersbergkreis/cities~Donnersbergkreis/Kirchheimbolanden/City/Kirchheim-Bolanden.internal.md) 
 
-### [Kirchheim-Bolanden.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Donnersbergkreis/cities~Donnersbergkreis/Kirchheimbolanden/City/Kirchheim-Bolanden.private.md) 
+### #is_/same_as :: [Kirchheim-Bolanden.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Donnersbergkreis/cities~Donnersbergkreis/Kirchheimbolanden/City/Kirchheim-Bolanden.protect.md) 
 
-### [Kirchheim-Bolanden.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Donnersbergkreis/cities~Donnersbergkreis/Kirchheimbolanden/City/Kirchheim-Bolanden.personal.md) 
+### #is_/same_as :: [Kirchheim-Bolanden.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Donnersbergkreis/cities~Donnersbergkreis/Kirchheimbolanden/City/Kirchheim-Bolanden.private.md) 
 
-### [Kirchheim-Bolanden.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Donnersbergkreis/cities~Donnersbergkreis/Kirchheimbolanden/City/Kirchheim-Bolanden.secret.md) 
+### #is_/same_as :: [Kirchheim-Bolanden.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Donnersbergkreis/cities~Donnersbergkreis/Kirchheimbolanden/City/Kirchheim-Bolanden.personal.md) 
+
+### #is_/same_as :: [Kirchheim-Bolanden.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Donnersbergkreis/cities~Donnersbergkreis/Kirchheimbolanden/City/Kirchheim-Bolanden.secret.md)
+

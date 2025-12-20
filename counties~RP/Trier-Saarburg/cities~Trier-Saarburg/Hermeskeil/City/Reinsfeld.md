@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.68,6.88] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Reinsfeld](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier-Saarburg/cities~Trier-Saarburg/Hermeskeil/City/Reinsfeld.md) 
+### #is_/same_as :: [Reinsfeld](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier-Saarburg/cities~Trier-Saarburg/Hermeskeil/City/Reinsfeld.md) 
 
-### [Reinsfeld.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier-Saarburg/cities~Trier-Saarburg/Hermeskeil/City/Reinsfeld.internal.md) 
+### #is_/same_as :: [Reinsfeld.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier-Saarburg/cities~Trier-Saarburg/Hermeskeil/City/Reinsfeld.public.md) 
 
-### [Reinsfeld.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier-Saarburg/cities~Trier-Saarburg/Hermeskeil/City/Reinsfeld.protect.md) 
+### #is_/same_as :: [Reinsfeld.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier-Saarburg/cities~Trier-Saarburg/Hermeskeil/City/Reinsfeld.internal.md) 
 
-### [Reinsfeld.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier-Saarburg/cities~Trier-Saarburg/Hermeskeil/City/Reinsfeld.private.md) 
+### #is_/same_as :: [Reinsfeld.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier-Saarburg/cities~Trier-Saarburg/Hermeskeil/City/Reinsfeld.protect.md) 
 
-### [Reinsfeld.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier-Saarburg/cities~Trier-Saarburg/Hermeskeil/City/Reinsfeld.personal.md) 
+### #is_/same_as :: [Reinsfeld.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier-Saarburg/cities~Trier-Saarburg/Hermeskeil/City/Reinsfeld.private.md) 
 
-### [Reinsfeld.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier-Saarburg/cities~Trier-Saarburg/Hermeskeil/City/Reinsfeld.secret.md) 
+### #is_/same_as :: [Reinsfeld.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier-Saarburg/cities~Trier-Saarburg/Hermeskeil/City/Reinsfeld.personal.md) 
+
+### #is_/same_as :: [Reinsfeld.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier-Saarburg/cities~Trier-Saarburg/Hermeskeil/City/Reinsfeld.secret.md)
+

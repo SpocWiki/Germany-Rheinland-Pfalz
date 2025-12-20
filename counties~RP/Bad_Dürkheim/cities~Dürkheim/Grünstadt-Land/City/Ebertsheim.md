@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.57,8.1] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ebertsheim](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Dürkheim/cities~Dürkheim/Grünstadt-Land/City/Ebertsheim.md) 
+### #is_/same_as :: [Ebertsheim](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Dürkheim/cities~Dürkheim/Grünstadt-Land/City/Ebertsheim.md) 
 
-### [Ebertsheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Dürkheim/cities~Dürkheim/Grünstadt-Land/City/Ebertsheim.internal.md) 
+### #is_/same_as :: [Ebertsheim.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Dürkheim/cities~Dürkheim/Grünstadt-Land/City/Ebertsheim.public.md) 
 
-### [Ebertsheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Dürkheim/cities~Dürkheim/Grünstadt-Land/City/Ebertsheim.protect.md) 
+### #is_/same_as :: [Ebertsheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Dürkheim/cities~Dürkheim/Grünstadt-Land/City/Ebertsheim.internal.md) 
 
-### [Ebertsheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Dürkheim/cities~Dürkheim/Grünstadt-Land/City/Ebertsheim.private.md) 
+### #is_/same_as :: [Ebertsheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Dürkheim/cities~Dürkheim/Grünstadt-Land/City/Ebertsheim.protect.md) 
 
-### [Ebertsheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Dürkheim/cities~Dürkheim/Grünstadt-Land/City/Ebertsheim.personal.md) 
+### #is_/same_as :: [Ebertsheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Dürkheim/cities~Dürkheim/Grünstadt-Land/City/Ebertsheim.private.md) 
 
-### [Ebertsheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Dürkheim/cities~Dürkheim/Grünstadt-Land/City/Ebertsheim.secret.md) 
+### #is_/same_as :: [Ebertsheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Dürkheim/cities~Dürkheim/Grünstadt-Land/City/Ebertsheim.personal.md) 
+
+### #is_/same_as :: [Ebertsheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Dürkheim/cities~Dürkheim/Grünstadt-Land/City/Ebertsheim.secret.md)
+

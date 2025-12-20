@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.15,6.6] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Muerlenbach](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Vulkaneifel/cities~Vulkaneifel/Gerolstein/City/Muerlenbach.md) 
+### #is_/same_as :: [Muerlenbach](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Vulkaneifel/cities~Vulkaneifel/Gerolstein/City/Muerlenbach.md) 
 
-### [Muerlenbach.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Vulkaneifel/cities~Vulkaneifel/Gerolstein/City/Muerlenbach.internal.md) 
+### #is_/same_as :: [Muerlenbach.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Vulkaneifel/cities~Vulkaneifel/Gerolstein/City/Muerlenbach.public.md) 
 
-### [Muerlenbach.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Vulkaneifel/cities~Vulkaneifel/Gerolstein/City/Muerlenbach.protect.md) 
+### #is_/same_as :: [Muerlenbach.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Vulkaneifel/cities~Vulkaneifel/Gerolstein/City/Muerlenbach.internal.md) 
 
-### [Muerlenbach.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Vulkaneifel/cities~Vulkaneifel/Gerolstein/City/Muerlenbach.private.md) 
+### #is_/same_as :: [Muerlenbach.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Vulkaneifel/cities~Vulkaneifel/Gerolstein/City/Muerlenbach.protect.md) 
 
-### [Muerlenbach.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Vulkaneifel/cities~Vulkaneifel/Gerolstein/City/Muerlenbach.personal.md) 
+### #is_/same_as :: [Muerlenbach.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Vulkaneifel/cities~Vulkaneifel/Gerolstein/City/Muerlenbach.private.md) 
 
-### [Muerlenbach.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Vulkaneifel/cities~Vulkaneifel/Gerolstein/City/Muerlenbach.secret.md) 
+### #is_/same_as :: [Muerlenbach.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Vulkaneifel/cities~Vulkaneifel/Gerolstein/City/Muerlenbach.personal.md) 
+
+### #is_/same_as :: [Muerlenbach.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Vulkaneifel/cities~Vulkaneifel/Gerolstein/City/Muerlenbach.secret.md)
+

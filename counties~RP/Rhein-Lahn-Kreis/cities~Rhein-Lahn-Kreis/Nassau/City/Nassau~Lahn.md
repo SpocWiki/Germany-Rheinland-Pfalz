@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.32,7.78] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Nassau~Lahn](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Lahn-Kreis/cities~Rhein-Lahn-Kreis/Nassau/City/Nassau~Lahn.md) 
+### #is_/same_as :: [Nassau~Lahn](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Lahn-Kreis/cities~Rhein-Lahn-Kreis/Nassau/City/Nassau~Lahn.md) 
 
-### [Nassau~Lahn.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Lahn-Kreis/cities~Rhein-Lahn-Kreis/Nassau/City/Nassau~Lahn.internal.md) 
+### #is_/same_as :: [Nassau~Lahn.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Lahn-Kreis/cities~Rhein-Lahn-Kreis/Nassau/City/Nassau~Lahn.public.md) 
 
-### [Nassau~Lahn.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Lahn-Kreis/cities~Rhein-Lahn-Kreis/Nassau/City/Nassau~Lahn.protect.md) 
+### #is_/same_as :: [Nassau~Lahn.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Lahn-Kreis/cities~Rhein-Lahn-Kreis/Nassau/City/Nassau~Lahn.internal.md) 
 
-### [Nassau~Lahn.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Lahn-Kreis/cities~Rhein-Lahn-Kreis/Nassau/City/Nassau~Lahn.private.md) 
+### #is_/same_as :: [Nassau~Lahn.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Lahn-Kreis/cities~Rhein-Lahn-Kreis/Nassau/City/Nassau~Lahn.protect.md) 
 
-### [Nassau~Lahn.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Lahn-Kreis/cities~Rhein-Lahn-Kreis/Nassau/City/Nassau~Lahn.personal.md) 
+### #is_/same_as :: [Nassau~Lahn.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Lahn-Kreis/cities~Rhein-Lahn-Kreis/Nassau/City/Nassau~Lahn.private.md) 
 
-### [Nassau~Lahn.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Lahn-Kreis/cities~Rhein-Lahn-Kreis/Nassau/City/Nassau~Lahn.secret.md) 
+### #is_/same_as :: [Nassau~Lahn.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Lahn-Kreis/cities~Rhein-Lahn-Kreis/Nassau/City/Nassau~Lahn.personal.md) 
+
+### #is_/same_as :: [Nassau~Lahn.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Lahn-Kreis/cities~Rhein-Lahn-Kreis/Nassau/City/Nassau~Lahn.secret.md)
+

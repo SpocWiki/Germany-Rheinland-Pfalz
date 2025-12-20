@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.5,7.78] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Siershahn](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Westerwaldkreis/cities~Westerwaldkreis/Selters~Westerwald/City/Siershahn.md) 
+### #is_/same_as :: [Siershahn](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Westerwaldkreis/cities~Westerwaldkreis/Selters~Westerwald/City/Siershahn.md) 
 
-### [Siershahn.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Westerwaldkreis/cities~Westerwaldkreis/Selters~Westerwald/City/Siershahn.internal.md) 
+### #is_/same_as :: [Siershahn.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Westerwaldkreis/cities~Westerwaldkreis/Selters~Westerwald/City/Siershahn.public.md) 
 
-### [Siershahn.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Westerwaldkreis/cities~Westerwaldkreis/Selters~Westerwald/City/Siershahn.protect.md) 
+### #is_/same_as :: [Siershahn.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Westerwaldkreis/cities~Westerwaldkreis/Selters~Westerwald/City/Siershahn.internal.md) 
 
-### [Siershahn.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Westerwaldkreis/cities~Westerwaldkreis/Selters~Westerwald/City/Siershahn.private.md) 
+### #is_/same_as :: [Siershahn.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Westerwaldkreis/cities~Westerwaldkreis/Selters~Westerwald/City/Siershahn.protect.md) 
 
-### [Siershahn.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Westerwaldkreis/cities~Westerwaldkreis/Selters~Westerwald/City/Siershahn.personal.md) 
+### #is_/same_as :: [Siershahn.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Westerwaldkreis/cities~Westerwaldkreis/Selters~Westerwald/City/Siershahn.private.md) 
 
-### [Siershahn.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Westerwaldkreis/cities~Westerwaldkreis/Selters~Westerwald/City/Siershahn.secret.md) 
+### #is_/same_as :: [Siershahn.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Westerwaldkreis/cities~Westerwaldkreis/Selters~Westerwald/City/Siershahn.personal.md) 
+
+### #is_/same_as :: [Siershahn.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Westerwaldkreis/cities~Westerwaldkreis/Selters~Westerwald/City/Siershahn.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.2,7.63] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Pirmasens](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Pirmasens.md) 
+### #is_/same_as :: [Pirmasens](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Pirmasens.md) 
 
-### [Pirmasens.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Pirmasens.internal.md) 
+### #is_/same_as :: [Pirmasens.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Pirmasens.public.md) 
 
-### [Pirmasens.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Pirmasens.protect.md) 
+### #is_/same_as :: [Pirmasens.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Pirmasens.internal.md) 
 
-### [Pirmasens.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Pirmasens.private.md) 
+### #is_/same_as :: [Pirmasens.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Pirmasens.protect.md) 
 
-### [Pirmasens.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Pirmasens.personal.md) 
+### #is_/same_as :: [Pirmasens.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Pirmasens.private.md) 
 
-### [Pirmasens.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Pirmasens.secret.md) 
+### #is_/same_as :: [Pirmasens.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Pirmasens.personal.md) 
+
+### #is_/same_as :: [Pirmasens.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Pirmasens.secret.md)
+

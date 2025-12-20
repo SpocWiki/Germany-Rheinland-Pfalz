@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.8,6.83] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Mehring](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier-Saarburg/cities~Trier-Saarburg/Schweich~Römische_Weinstr/City/Mehring.md) 
+### #is_/same_as :: [Mehring](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier-Saarburg/cities~Trier-Saarburg/Schweich~Römische_Weinstr/City/Mehring.md) 
 
-### [Mehring.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier-Saarburg/cities~Trier-Saarburg/Schweich~Römische_Weinstr/City/Mehring.internal.md) 
+### #is_/same_as :: [Mehring.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier-Saarburg/cities~Trier-Saarburg/Schweich~Römische_Weinstr/City/Mehring.public.md) 
 
-### [Mehring.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier-Saarburg/cities~Trier-Saarburg/Schweich~Römische_Weinstr/City/Mehring.protect.md) 
+### #is_/same_as :: [Mehring.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier-Saarburg/cities~Trier-Saarburg/Schweich~Römische_Weinstr/City/Mehring.internal.md) 
 
-### [Mehring.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier-Saarburg/cities~Trier-Saarburg/Schweich~Römische_Weinstr/City/Mehring.private.md) 
+### #is_/same_as :: [Mehring.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier-Saarburg/cities~Trier-Saarburg/Schweich~Römische_Weinstr/City/Mehring.protect.md) 
 
-### [Mehring.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier-Saarburg/cities~Trier-Saarburg/Schweich~Römische_Weinstr/City/Mehring.personal.md) 
+### #is_/same_as :: [Mehring.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier-Saarburg/cities~Trier-Saarburg/Schweich~Römische_Weinstr/City/Mehring.private.md) 
 
-### [Mehring.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier-Saarburg/cities~Trier-Saarburg/Schweich~Römische_Weinstr/City/Mehring.secret.md) 
+### #is_/same_as :: [Mehring.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier-Saarburg/cities~Trier-Saarburg/Schweich~Römische_Weinstr/City/Mehring.personal.md) 
+
+### #is_/same_as :: [Mehring.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier-Saarburg/cities~Trier-Saarburg/Schweich~Römische_Weinstr/City/Mehring.secret.md)
+

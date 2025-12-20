@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.47,7.28] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Burgbrohl](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Ahrweiler/cities~Ahrweiler/Brohltal/City/Burgbrohl.md) 
+### #is_/same_as :: [Burgbrohl](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Ahrweiler/cities~Ahrweiler/Brohltal/City/Burgbrohl.md) 
 
-### [Burgbrohl.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Ahrweiler/cities~Ahrweiler/Brohltal/City/Burgbrohl.internal.md) 
+### #is_/same_as :: [Burgbrohl.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Ahrweiler/cities~Ahrweiler/Brohltal/City/Burgbrohl.public.md) 
 
-### [Burgbrohl.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Ahrweiler/cities~Ahrweiler/Brohltal/City/Burgbrohl.protect.md) 
+### #is_/same_as :: [Burgbrohl.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Ahrweiler/cities~Ahrweiler/Brohltal/City/Burgbrohl.internal.md) 
 
-### [Burgbrohl.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Ahrweiler/cities~Ahrweiler/Brohltal/City/Burgbrohl.private.md) 
+### #is_/same_as :: [Burgbrohl.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Ahrweiler/cities~Ahrweiler/Brohltal/City/Burgbrohl.protect.md) 
 
-### [Burgbrohl.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Ahrweiler/cities~Ahrweiler/Brohltal/City/Burgbrohl.personal.md) 
+### #is_/same_as :: [Burgbrohl.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Ahrweiler/cities~Ahrweiler/Brohltal/City/Burgbrohl.private.md) 
 
-### [Burgbrohl.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Ahrweiler/cities~Ahrweiler/Brohltal/City/Burgbrohl.secret.md) 
+### #is_/same_as :: [Burgbrohl.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Ahrweiler/cities~Ahrweiler/Brohltal/City/Burgbrohl.personal.md) 
+
+### #is_/same_as :: [Burgbrohl.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Ahrweiler/cities~Ahrweiler/Brohltal/City/Burgbrohl.secret.md)
+

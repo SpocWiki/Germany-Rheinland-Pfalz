@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.35,7.55] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Guels](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Koblenz/City/Guels.md) 
+### #is_/same_as :: [Guels](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Koblenz/City/Guels.md) 
 
-### [Guels.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Koblenz/City/Guels.internal.md) 
+### #is_/same_as :: [Guels.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Koblenz/City/Guels.public.md) 
 
-### [Guels.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Koblenz/City/Guels.protect.md) 
+### #is_/same_as :: [Guels.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Koblenz/City/Guels.internal.md) 
 
-### [Guels.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Koblenz/City/Guels.private.md) 
+### #is_/same_as :: [Guels.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Koblenz/City/Guels.protect.md) 
 
-### [Guels.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Koblenz/City/Guels.personal.md) 
+### #is_/same_as :: [Guels.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Koblenz/City/Guels.private.md) 
 
-### [Guels.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Koblenz/City/Guels.secret.md) 
+### #is_/same_as :: [Guels.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Koblenz/City/Guels.personal.md) 
+
+### #is_/same_as :: [Guels.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Koblenz/City/Guels.secret.md)
+

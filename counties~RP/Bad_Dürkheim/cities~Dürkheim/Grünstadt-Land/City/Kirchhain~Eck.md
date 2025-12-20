@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.53,8.2] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kirchhain~Eck](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Dürkheim/cities~Dürkheim/Grünstadt-Land/City/Kirchhain~Eck.md) 
+### #is_/same_as :: [Kirchhain~Eck](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Dürkheim/cities~Dürkheim/Grünstadt-Land/City/Kirchhain~Eck.md) 
 
-### [Kirchhain~Eck.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Dürkheim/cities~Dürkheim/Grünstadt-Land/City/Kirchhain~Eck.internal.md) 
+### #is_/same_as :: [Kirchhain~Eck.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Dürkheim/cities~Dürkheim/Grünstadt-Land/City/Kirchhain~Eck.public.md) 
 
-### [Kirchhain~Eck.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Dürkheim/cities~Dürkheim/Grünstadt-Land/City/Kirchhain~Eck.protect.md) 
+### #is_/same_as :: [Kirchhain~Eck.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Dürkheim/cities~Dürkheim/Grünstadt-Land/City/Kirchhain~Eck.internal.md) 
 
-### [Kirchhain~Eck.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Dürkheim/cities~Dürkheim/Grünstadt-Land/City/Kirchhain~Eck.private.md) 
+### #is_/same_as :: [Kirchhain~Eck.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Dürkheim/cities~Dürkheim/Grünstadt-Land/City/Kirchhain~Eck.protect.md) 
 
-### [Kirchhain~Eck.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Dürkheim/cities~Dürkheim/Grünstadt-Land/City/Kirchhain~Eck.personal.md) 
+### #is_/same_as :: [Kirchhain~Eck.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Dürkheim/cities~Dürkheim/Grünstadt-Land/City/Kirchhain~Eck.private.md) 
 
-### [Kirchhain~Eck.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Dürkheim/cities~Dürkheim/Grünstadt-Land/City/Kirchhain~Eck.secret.md) 
+### #is_/same_as :: [Kirchhain~Eck.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Dürkheim/cities~Dürkheim/Grünstadt-Land/City/Kirchhain~Eck.personal.md) 
+
+### #is_/same_as :: [Kirchhain~Eck.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Dürkheim/cities~Dürkheim/Grünstadt-Land/City/Kirchhain~Eck.secret.md)
+

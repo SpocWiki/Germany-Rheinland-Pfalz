@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.8,6.98] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Dronecken](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bernkastel-Wittlich/cities~Bernkastel-Wittlich/Thalfang~Erbeskopf/City/Dronecken.md) 
+### #is_/same_as :: [Dronecken](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bernkastel-Wittlich/cities~Bernkastel-Wittlich/Thalfang~Erbeskopf/City/Dronecken.md) 
 
-### [Dronecken.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bernkastel-Wittlich/cities~Bernkastel-Wittlich/Thalfang~Erbeskopf/City/Dronecken.internal.md) 
+### #is_/same_as :: [Dronecken.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bernkastel-Wittlich/cities~Bernkastel-Wittlich/Thalfang~Erbeskopf/City/Dronecken.public.md) 
 
-### [Dronecken.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bernkastel-Wittlich/cities~Bernkastel-Wittlich/Thalfang~Erbeskopf/City/Dronecken.protect.md) 
+### #is_/same_as :: [Dronecken.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bernkastel-Wittlich/cities~Bernkastel-Wittlich/Thalfang~Erbeskopf/City/Dronecken.internal.md) 
 
-### [Dronecken.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bernkastel-Wittlich/cities~Bernkastel-Wittlich/Thalfang~Erbeskopf/City/Dronecken.private.md) 
+### #is_/same_as :: [Dronecken.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bernkastel-Wittlich/cities~Bernkastel-Wittlich/Thalfang~Erbeskopf/City/Dronecken.protect.md) 
 
-### [Dronecken.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bernkastel-Wittlich/cities~Bernkastel-Wittlich/Thalfang~Erbeskopf/City/Dronecken.personal.md) 
+### #is_/same_as :: [Dronecken.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bernkastel-Wittlich/cities~Bernkastel-Wittlich/Thalfang~Erbeskopf/City/Dronecken.private.md) 
 
-### [Dronecken.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bernkastel-Wittlich/cities~Bernkastel-Wittlich/Thalfang~Erbeskopf/City/Dronecken.secret.md) 
+### #is_/same_as :: [Dronecken.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bernkastel-Wittlich/cities~Bernkastel-Wittlich/Thalfang~Erbeskopf/City/Dronecken.personal.md) 
+
+### #is_/same_as :: [Dronecken.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bernkastel-Wittlich/cities~Bernkastel-Wittlich/Thalfang~Erbeskopf/City/Dronecken.secret.md)
+

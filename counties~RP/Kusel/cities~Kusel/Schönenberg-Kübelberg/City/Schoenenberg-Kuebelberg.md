@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.42,7.35] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Schoenenberg-Kuebelberg](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Kusel/cities~Kusel/Schönenberg-Kübelberg/City/Schoenenberg-Kuebelberg.md) 
+### #is_/same_as :: [Schoenenberg-Kuebelberg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Kusel/cities~Kusel/Schönenberg-Kübelberg/City/Schoenenberg-Kuebelberg.md) 
 
-### [Schoenenberg-Kuebelberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Kusel/cities~Kusel/Schönenberg-Kübelberg/City/Schoenenberg-Kuebelberg.internal.md) 
+### #is_/same_as :: [Schoenenberg-Kuebelberg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Kusel/cities~Kusel/Schönenberg-Kübelberg/City/Schoenenberg-Kuebelberg.public.md) 
 
-### [Schoenenberg-Kuebelberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Kusel/cities~Kusel/Schönenberg-Kübelberg/City/Schoenenberg-Kuebelberg.protect.md) 
+### #is_/same_as :: [Schoenenberg-Kuebelberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Kusel/cities~Kusel/Schönenberg-Kübelberg/City/Schoenenberg-Kuebelberg.internal.md) 
 
-### [Schoenenberg-Kuebelberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Kusel/cities~Kusel/Schönenberg-Kübelberg/City/Schoenenberg-Kuebelberg.private.md) 
+### #is_/same_as :: [Schoenenberg-Kuebelberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Kusel/cities~Kusel/Schönenberg-Kübelberg/City/Schoenenberg-Kuebelberg.protect.md) 
 
-### [Schoenenberg-Kuebelberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Kusel/cities~Kusel/Schönenberg-Kübelberg/City/Schoenenberg-Kuebelberg.personal.md) 
+### #is_/same_as :: [Schoenenberg-Kuebelberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Kusel/cities~Kusel/Schönenberg-Kübelberg/City/Schoenenberg-Kuebelberg.private.md) 
 
-### [Schoenenberg-Kuebelberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Kusel/cities~Kusel/Schönenberg-Kübelberg/City/Schoenenberg-Kuebelberg.secret.md) 
+### #is_/same_as :: [Schoenenberg-Kuebelberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Kusel/cities~Kusel/Schönenberg-Kübelberg/City/Schoenenberg-Kuebelberg.personal.md) 
+
+### #is_/same_as :: [Schoenenberg-Kuebelberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Kusel/cities~Kusel/Schönenberg-Kübelberg/City/Schoenenberg-Kuebelberg.secret.md)
+

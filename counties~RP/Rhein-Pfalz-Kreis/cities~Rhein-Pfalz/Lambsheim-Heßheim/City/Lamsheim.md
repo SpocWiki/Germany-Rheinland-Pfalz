@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.52,8.28] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lamsheim](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Pfalz-Kreis/cities~Rhein-Pfalz/Lambsheim-Heßheim/City/Lamsheim.md) 
+### #is_/same_as :: [Lamsheim](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Pfalz-Kreis/cities~Rhein-Pfalz/Lambsheim-Heßheim/City/Lamsheim.md) 
 
-### [Lamsheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Pfalz-Kreis/cities~Rhein-Pfalz/Lambsheim-Heßheim/City/Lamsheim.internal.md) 
+### #is_/same_as :: [Lamsheim.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Pfalz-Kreis/cities~Rhein-Pfalz/Lambsheim-Heßheim/City/Lamsheim.public.md) 
 
-### [Lamsheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Pfalz-Kreis/cities~Rhein-Pfalz/Lambsheim-Heßheim/City/Lamsheim.protect.md) 
+### #is_/same_as :: [Lamsheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Pfalz-Kreis/cities~Rhein-Pfalz/Lambsheim-Heßheim/City/Lamsheim.internal.md) 
 
-### [Lamsheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Pfalz-Kreis/cities~Rhein-Pfalz/Lambsheim-Heßheim/City/Lamsheim.private.md) 
+### #is_/same_as :: [Lamsheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Pfalz-Kreis/cities~Rhein-Pfalz/Lambsheim-Heßheim/City/Lamsheim.protect.md) 
 
-### [Lamsheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Pfalz-Kreis/cities~Rhein-Pfalz/Lambsheim-Heßheim/City/Lamsheim.personal.md) 
+### #is_/same_as :: [Lamsheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Pfalz-Kreis/cities~Rhein-Pfalz/Lambsheim-Heßheim/City/Lamsheim.private.md) 
 
-### [Lamsheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Pfalz-Kreis/cities~Rhein-Pfalz/Lambsheim-Heßheim/City/Lamsheim.secret.md) 
+### #is_/same_as :: [Lamsheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Pfalz-Kreis/cities~Rhein-Pfalz/Lambsheim-Heßheim/City/Lamsheim.personal.md) 
+
+### #is_/same_as :: [Lamsheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Pfalz-Kreis/cities~Rhein-Pfalz/Lambsheim-Heßheim/City/Lamsheim.secret.md)
+

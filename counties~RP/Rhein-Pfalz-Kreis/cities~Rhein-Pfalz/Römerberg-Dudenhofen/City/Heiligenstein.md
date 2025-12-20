@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.28,8.4] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Heiligenstein](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Pfalz-Kreis/cities~Rhein-Pfalz/Römerberg-Dudenhofen/City/Heiligenstein.md) 
+### #is_/same_as :: [Heiligenstein](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Pfalz-Kreis/cities~Rhein-Pfalz/Römerberg-Dudenhofen/City/Heiligenstein.md) 
 
-### [Heiligenstein.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Pfalz-Kreis/cities~Rhein-Pfalz/Römerberg-Dudenhofen/City/Heiligenstein.internal.md) 
+### #is_/same_as :: [Heiligenstein.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Pfalz-Kreis/cities~Rhein-Pfalz/Römerberg-Dudenhofen/City/Heiligenstein.public.md) 
 
-### [Heiligenstein.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Pfalz-Kreis/cities~Rhein-Pfalz/Römerberg-Dudenhofen/City/Heiligenstein.protect.md) 
+### #is_/same_as :: [Heiligenstein.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Pfalz-Kreis/cities~Rhein-Pfalz/Römerberg-Dudenhofen/City/Heiligenstein.internal.md) 
 
-### [Heiligenstein.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Pfalz-Kreis/cities~Rhein-Pfalz/Römerberg-Dudenhofen/City/Heiligenstein.private.md) 
+### #is_/same_as :: [Heiligenstein.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Pfalz-Kreis/cities~Rhein-Pfalz/Römerberg-Dudenhofen/City/Heiligenstein.protect.md) 
 
-### [Heiligenstein.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Pfalz-Kreis/cities~Rhein-Pfalz/Römerberg-Dudenhofen/City/Heiligenstein.personal.md) 
+### #is_/same_as :: [Heiligenstein.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Pfalz-Kreis/cities~Rhein-Pfalz/Römerberg-Dudenhofen/City/Heiligenstein.private.md) 
 
-### [Heiligenstein.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Pfalz-Kreis/cities~Rhein-Pfalz/Römerberg-Dudenhofen/City/Heiligenstein.secret.md) 
+### #is_/same_as :: [Heiligenstein.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Pfalz-Kreis/cities~Rhein-Pfalz/Römerberg-Dudenhofen/City/Heiligenstein.personal.md) 
+
+### #is_/same_as :: [Heiligenstein.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Pfalz-Kreis/cities~Rhein-Pfalz/Römerberg-Dudenhofen/City/Heiligenstein.secret.md)
+

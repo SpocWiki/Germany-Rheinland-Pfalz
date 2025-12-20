@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.65,8.32] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Herrnsheim](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Worms/City/Herrnsheim.md) 
+### #is_/same_as :: [Herrnsheim](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Worms/City/Herrnsheim.md) 
 
-### [Herrnsheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Worms/City/Herrnsheim.internal.md) 
+### #is_/same_as :: [Herrnsheim.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Worms/City/Herrnsheim.public.md) 
 
-### [Herrnsheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Worms/City/Herrnsheim.protect.md) 
+### #is_/same_as :: [Herrnsheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Worms/City/Herrnsheim.internal.md) 
 
-### [Herrnsheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Worms/City/Herrnsheim.private.md) 
+### #is_/same_as :: [Herrnsheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Worms/City/Herrnsheim.protect.md) 
 
-### [Herrnsheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Worms/City/Herrnsheim.personal.md) 
+### #is_/same_as :: [Herrnsheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Worms/City/Herrnsheim.private.md) 
 
-### [Herrnsheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Worms/City/Herrnsheim.secret.md) 
+### #is_/same_as :: [Herrnsheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Worms/City/Herrnsheim.personal.md) 
+
+### #is_/same_as :: [Herrnsheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Worms/City/Herrnsheim.secret.md)
+

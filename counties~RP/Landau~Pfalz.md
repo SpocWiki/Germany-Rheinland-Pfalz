@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.19,8.11] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Landau~Pfalz](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Landau~Pfalz.md) 
+### #is_/same_as :: [Landau~Pfalz](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Landau~Pfalz.md) 
 
-### [Landau~Pfalz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Landau~Pfalz.internal.md) 
+### #is_/same_as :: [Landau~Pfalz.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Landau~Pfalz.public.md) 
 
-### [Landau~Pfalz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Landau~Pfalz.protect.md) 
+### #is_/same_as :: [Landau~Pfalz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Landau~Pfalz.internal.md) 
 
-### [Landau~Pfalz.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Landau~Pfalz.private.md) 
+### #is_/same_as :: [Landau~Pfalz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Landau~Pfalz.protect.md) 
 
-### [Landau~Pfalz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Landau~Pfalz.personal.md) 
+### #is_/same_as :: [Landau~Pfalz.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Landau~Pfalz.private.md) 
 
-### [Landau~Pfalz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Landau~Pfalz.secret.md) 
+### #is_/same_as :: [Landau~Pfalz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Landau~Pfalz.personal.md) 
+
+### #is_/same_as :: [Landau~Pfalz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Landau~Pfalz.secret.md)
+

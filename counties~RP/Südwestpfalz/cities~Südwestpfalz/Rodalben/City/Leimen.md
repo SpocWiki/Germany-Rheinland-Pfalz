@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.28,7.77] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Leimen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Südwestpfalz/cities~Südwestpfalz/Rodalben/City/Leimen.md) 
+### #is_/same_as :: [Leimen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Südwestpfalz/cities~Südwestpfalz/Rodalben/City/Leimen.md) 
 
-### [Leimen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Südwestpfalz/cities~Südwestpfalz/Rodalben/City/Leimen.internal.md) 
+### #is_/same_as :: [Leimen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Südwestpfalz/cities~Südwestpfalz/Rodalben/City/Leimen.public.md) 
 
-### [Leimen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Südwestpfalz/cities~Südwestpfalz/Rodalben/City/Leimen.protect.md) 
+### #is_/same_as :: [Leimen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Südwestpfalz/cities~Südwestpfalz/Rodalben/City/Leimen.internal.md) 
 
-### [Leimen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Südwestpfalz/cities~Südwestpfalz/Rodalben/City/Leimen.private.md) 
+### #is_/same_as :: [Leimen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Südwestpfalz/cities~Südwestpfalz/Rodalben/City/Leimen.protect.md) 
 
-### [Leimen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Südwestpfalz/cities~Südwestpfalz/Rodalben/City/Leimen.personal.md) 
+### #is_/same_as :: [Leimen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Südwestpfalz/cities~Südwestpfalz/Rodalben/City/Leimen.private.md) 
 
-### [Leimen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Südwestpfalz/cities~Südwestpfalz/Rodalben/City/Leimen.secret.md) 
+### #is_/same_as :: [Leimen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Südwestpfalz/cities~Südwestpfalz/Rodalben/City/Leimen.personal.md) 
+
+### #is_/same_as :: [Leimen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Südwestpfalz/cities~Südwestpfalz/Rodalben/City/Leimen.secret.md)
+

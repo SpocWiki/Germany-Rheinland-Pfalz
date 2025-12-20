@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.76,6.64] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -43,16 +43,20 @@ Bis heute lassen sich die Spuren der Römer in der ganzen Stadt wiederfinden.
 Neben dem Wahrzeichen der Stadt, der Porta Nigra, 
 sind die beschaulichen Gassen der Altstadt absolut sehenswert.
 
+
 ## Confidential Links & Embeds: 
 
-### [Trier](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier.md) 
+### #is_/same_as :: [Trier](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier.md) 
 
-### [Trier.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier.internal.md) 
+### #is_/same_as :: [Trier.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier.public.md) 
 
-### [Trier.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier.protect.md) 
+### #is_/same_as :: [Trier.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier.internal.md) 
 
-### [Trier.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier.private.md) 
+### #is_/same_as :: [Trier.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier.protect.md) 
 
-### [Trier.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier.personal.md) 
+### #is_/same_as :: [Trier.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier.private.md) 
 
-### [Trier.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier.secret.md) 
+### #is_/same_as :: [Trier.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier.personal.md) 
+
+### #is_/same_as :: [Trier.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier.secret.md)
+

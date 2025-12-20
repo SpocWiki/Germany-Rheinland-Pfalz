@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.4,7.53] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kaltenengers](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mayen-Koblenz/cities~Mayen-Koblenz/Weißenthurm/City/Kaltenengers.md) 
+### #is_/same_as :: [Kaltenengers](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mayen-Koblenz/cities~Mayen-Koblenz/Weißenthurm/City/Kaltenengers.md) 
 
-### [Kaltenengers.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mayen-Koblenz/cities~Mayen-Koblenz/Weißenthurm/City/Kaltenengers.internal.md) 
+### #is_/same_as :: [Kaltenengers.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mayen-Koblenz/cities~Mayen-Koblenz/Weißenthurm/City/Kaltenengers.public.md) 
 
-### [Kaltenengers.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mayen-Koblenz/cities~Mayen-Koblenz/Weißenthurm/City/Kaltenengers.protect.md) 
+### #is_/same_as :: [Kaltenengers.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mayen-Koblenz/cities~Mayen-Koblenz/Weißenthurm/City/Kaltenengers.internal.md) 
 
-### [Kaltenengers.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mayen-Koblenz/cities~Mayen-Koblenz/Weißenthurm/City/Kaltenengers.private.md) 
+### #is_/same_as :: [Kaltenengers.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mayen-Koblenz/cities~Mayen-Koblenz/Weißenthurm/City/Kaltenengers.protect.md) 
 
-### [Kaltenengers.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mayen-Koblenz/cities~Mayen-Koblenz/Weißenthurm/City/Kaltenengers.personal.md) 
+### #is_/same_as :: [Kaltenengers.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mayen-Koblenz/cities~Mayen-Koblenz/Weißenthurm/City/Kaltenengers.private.md) 
 
-### [Kaltenengers.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mayen-Koblenz/cities~Mayen-Koblenz/Weißenthurm/City/Kaltenengers.secret.md) 
+### #is_/same_as :: [Kaltenengers.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mayen-Koblenz/cities~Mayen-Koblenz/Weißenthurm/City/Kaltenengers.personal.md) 
+
+### #is_/same_as :: [Kaltenengers.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mayen-Koblenz/cities~Mayen-Koblenz/Weißenthurm/City/Kaltenengers.secret.md)
+

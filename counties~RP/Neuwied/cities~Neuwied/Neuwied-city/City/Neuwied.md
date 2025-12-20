@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.43,7.47] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Neuwied](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Neuwied/cities~Neuwied/Neuwied-city/City/Neuwied.md) 
+### #is_/same_as :: [Neuwied](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Neuwied/cities~Neuwied/Neuwied-city/City/Neuwied.md) 
 
-### [Neuwied.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Neuwied/cities~Neuwied/Neuwied-city/City/Neuwied.internal.md) 
+### #is_/same_as :: [Neuwied.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Neuwied/cities~Neuwied/Neuwied-city/City/Neuwied.public.md) 
 
-### [Neuwied.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Neuwied/cities~Neuwied/Neuwied-city/City/Neuwied.protect.md) 
+### #is_/same_as :: [Neuwied.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Neuwied/cities~Neuwied/Neuwied-city/City/Neuwied.internal.md) 
 
-### [Neuwied.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Neuwied/cities~Neuwied/Neuwied-city/City/Neuwied.private.md) 
+### #is_/same_as :: [Neuwied.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Neuwied/cities~Neuwied/Neuwied-city/City/Neuwied.protect.md) 
 
-### [Neuwied.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Neuwied/cities~Neuwied/Neuwied-city/City/Neuwied.personal.md) 
+### #is_/same_as :: [Neuwied.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Neuwied/cities~Neuwied/Neuwied-city/City/Neuwied.private.md) 
 
-### [Neuwied.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Neuwied/cities~Neuwied/Neuwied-city/City/Neuwied.secret.md) 
+### #is_/same_as :: [Neuwied.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Neuwied/cities~Neuwied/Neuwied-city/City/Neuwied.personal.md) 
+
+### #is_/same_as :: [Neuwied.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Neuwied/cities~Neuwied/Neuwied-city/City/Neuwied.secret.md)
+

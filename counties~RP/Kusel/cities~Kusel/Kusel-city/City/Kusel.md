@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.53,7.42] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kusel](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Kusel/cities~Kusel/Kusel-city/City/Kusel.md) 
+### #is_/same_as :: [Kusel](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Kusel/cities~Kusel/Kusel-city/City/Kusel.md) 
 
-### [Kusel.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Kusel/cities~Kusel/Kusel-city/City/Kusel.internal.md) 
+### #is_/same_as :: [Kusel.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Kusel/cities~Kusel/Kusel-city/City/Kusel.public.md) 
 
-### [Kusel.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Kusel/cities~Kusel/Kusel-city/City/Kusel.protect.md) 
+### #is_/same_as :: [Kusel.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Kusel/cities~Kusel/Kusel-city/City/Kusel.internal.md) 
 
-### [Kusel.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Kusel/cities~Kusel/Kusel-city/City/Kusel.private.md) 
+### #is_/same_as :: [Kusel.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Kusel/cities~Kusel/Kusel-city/City/Kusel.protect.md) 
 
-### [Kusel.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Kusel/cities~Kusel/Kusel-city/City/Kusel.personal.md) 
+### #is_/same_as :: [Kusel.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Kusel/cities~Kusel/Kusel-city/City/Kusel.private.md) 
 
-### [Kusel.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Kusel/cities~Kusel/Kusel-city/City/Kusel.secret.md) 
+### #is_/same_as :: [Kusel.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Kusel/cities~Kusel/Kusel-city/City/Kusel.personal.md) 
+
+### #is_/same_as :: [Kusel.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Kusel/cities~Kusel/Kusel-city/City/Kusel.secret.md)
+

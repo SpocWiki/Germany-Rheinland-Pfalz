@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.67,6.45] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -35,14 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Grevenmacher](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier-Saarburg/cities~Trier-Saarburg/Konz/City/Grevenmacher.md) 
+### #is_/same_as :: [Grevenmacher](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier-Saarburg/cities~Trier-Saarburg/Konz/City/Grevenmacher.md) 
 
-### [Grevenmacher.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier-Saarburg/cities~Trier-Saarburg/Konz/City/Grevenmacher.internal.md) 
+### #is_/same_as :: [Grevenmacher.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier-Saarburg/cities~Trier-Saarburg/Konz/City/Grevenmacher.public.md) 
 
-### [Grevenmacher.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier-Saarburg/cities~Trier-Saarburg/Konz/City/Grevenmacher.protect.md) 
+### #is_/same_as :: [Grevenmacher.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier-Saarburg/cities~Trier-Saarburg/Konz/City/Grevenmacher.internal.md) 
 
-### [Grevenmacher.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier-Saarburg/cities~Trier-Saarburg/Konz/City/Grevenmacher.private.md) 
+### #is_/same_as :: [Grevenmacher.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier-Saarburg/cities~Trier-Saarburg/Konz/City/Grevenmacher.protect.md) 
 
-### [Grevenmacher.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier-Saarburg/cities~Trier-Saarburg/Konz/City/Grevenmacher.personal.md) 
+### #is_/same_as :: [Grevenmacher.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier-Saarburg/cities~Trier-Saarburg/Konz/City/Grevenmacher.private.md) 
 
-### [Grevenmacher.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier-Saarburg/cities~Trier-Saarburg/Konz/City/Grevenmacher.secret.md) 
+### #is_/same_as :: [Grevenmacher.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier-Saarburg/cities~Trier-Saarburg/Konz/City/Grevenmacher.personal.md) 
+
+### #is_/same_as :: [Grevenmacher.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier-Saarburg/cities~Trier-Saarburg/Konz/City/Grevenmacher.secret.md)
+

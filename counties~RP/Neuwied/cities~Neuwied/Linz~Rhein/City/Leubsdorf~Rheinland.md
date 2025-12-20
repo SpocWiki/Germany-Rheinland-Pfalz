@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.55,7.32] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Leubsdorf~Rheinland](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Neuwied/cities~Neuwied/Linz~Rhein/City/Leubsdorf~Rheinland.md) 
+### #is_/same_as :: [Leubsdorf~Rheinland](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Neuwied/cities~Neuwied/Linz~Rhein/City/Leubsdorf~Rheinland.md) 
 
-### [Leubsdorf~Rheinland.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Neuwied/cities~Neuwied/Linz~Rhein/City/Leubsdorf~Rheinland.internal.md) 
+### #is_/same_as :: [Leubsdorf~Rheinland.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Neuwied/cities~Neuwied/Linz~Rhein/City/Leubsdorf~Rheinland.public.md) 
 
-### [Leubsdorf~Rheinland.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Neuwied/cities~Neuwied/Linz~Rhein/City/Leubsdorf~Rheinland.protect.md) 
+### #is_/same_as :: [Leubsdorf~Rheinland.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Neuwied/cities~Neuwied/Linz~Rhein/City/Leubsdorf~Rheinland.internal.md) 
 
-### [Leubsdorf~Rheinland.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Neuwied/cities~Neuwied/Linz~Rhein/City/Leubsdorf~Rheinland.private.md) 
+### #is_/same_as :: [Leubsdorf~Rheinland.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Neuwied/cities~Neuwied/Linz~Rhein/City/Leubsdorf~Rheinland.protect.md) 
 
-### [Leubsdorf~Rheinland.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Neuwied/cities~Neuwied/Linz~Rhein/City/Leubsdorf~Rheinland.personal.md) 
+### #is_/same_as :: [Leubsdorf~Rheinland.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Neuwied/cities~Neuwied/Linz~Rhein/City/Leubsdorf~Rheinland.private.md) 
 
-### [Leubsdorf~Rheinland.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Neuwied/cities~Neuwied/Linz~Rhein/City/Leubsdorf~Rheinland.secret.md) 
+### #is_/same_as :: [Leubsdorf~Rheinland.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Neuwied/cities~Neuwied/Linz~Rhein/City/Leubsdorf~Rheinland.personal.md) 
+
+### #is_/same_as :: [Leubsdorf~Rheinland.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Neuwied/cities~Neuwied/Linz~Rhein/City/Leubsdorf~Rheinland.secret.md)
+

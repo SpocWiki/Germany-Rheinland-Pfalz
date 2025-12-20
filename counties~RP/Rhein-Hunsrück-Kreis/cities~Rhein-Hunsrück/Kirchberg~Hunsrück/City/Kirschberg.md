@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.95,7.42] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kirschberg](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Hunsrück-Kreis/cities~Rhein-Hunsrück/Kirchberg~Hunsrück/City/Kirschberg.md) 
+### #is_/same_as :: [Kirschberg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Hunsrück-Kreis/cities~Rhein-Hunsrück/Kirchberg~Hunsrück/City/Kirschberg.md) 
 
-### [Kirschberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Hunsrück-Kreis/cities~Rhein-Hunsrück/Kirchberg~Hunsrück/City/Kirschberg.internal.md) 
+### #is_/same_as :: [Kirschberg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Hunsrück-Kreis/cities~Rhein-Hunsrück/Kirchberg~Hunsrück/City/Kirschberg.public.md) 
 
-### [Kirschberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Hunsrück-Kreis/cities~Rhein-Hunsrück/Kirchberg~Hunsrück/City/Kirschberg.protect.md) 
+### #is_/same_as :: [Kirschberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Hunsrück-Kreis/cities~Rhein-Hunsrück/Kirchberg~Hunsrück/City/Kirschberg.internal.md) 
 
-### [Kirschberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Hunsrück-Kreis/cities~Rhein-Hunsrück/Kirchberg~Hunsrück/City/Kirschberg.private.md) 
+### #is_/same_as :: [Kirschberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Hunsrück-Kreis/cities~Rhein-Hunsrück/Kirchberg~Hunsrück/City/Kirschberg.protect.md) 
 
-### [Kirschberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Hunsrück-Kreis/cities~Rhein-Hunsrück/Kirchberg~Hunsrück/City/Kirschberg.personal.md) 
+### #is_/same_as :: [Kirschberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Hunsrück-Kreis/cities~Rhein-Hunsrück/Kirchberg~Hunsrück/City/Kirschberg.private.md) 
 
-### [Kirschberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Hunsrück-Kreis/cities~Rhein-Hunsrück/Kirchberg~Hunsrück/City/Kirschberg.secret.md) 
+### #is_/same_as :: [Kirschberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Hunsrück-Kreis/cities~Rhein-Hunsrück/Kirchberg~Hunsrück/City/Kirschberg.personal.md) 
+
+### #is_/same_as :: [Kirschberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Hunsrück-Kreis/cities~Rhein-Hunsrück/Kirchberg~Hunsrück/City/Kirschberg.secret.md)
+
