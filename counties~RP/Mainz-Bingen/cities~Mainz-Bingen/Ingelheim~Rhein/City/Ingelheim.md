@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ingelheim](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mainz-Bingen/cities~Mainz-Bingen/Ingelheim~Rhein/City/Ingelheim.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mainz-Bingen/cities~Mainz-Bingen/Ingelheim~Rhein/City/Ingelheim|Ingelheim]] 
 
-### #is_/same_as :: [Ingelheim.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mainz-Bingen/cities~Mainz-Bingen/Ingelheim~Rhein/City/Ingelheim.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mainz-Bingen/cities~Mainz-Bingen/Ingelheim~Rhein/City/Ingelheim.public|Ingelheim.public]] 
 
-### #is_/same_as :: [Ingelheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mainz-Bingen/cities~Mainz-Bingen/Ingelheim~Rhein/City/Ingelheim.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mainz-Bingen/cities~Mainz-Bingen/Ingelheim~Rhein/City/Ingelheim.internal|Ingelheim.internal]] 
 
-### #is_/same_as :: [Ingelheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mainz-Bingen/cities~Mainz-Bingen/Ingelheim~Rhein/City/Ingelheim.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mainz-Bingen/cities~Mainz-Bingen/Ingelheim~Rhein/City/Ingelheim.protect|Ingelheim.protect]] 
 
-### #is_/same_as :: [Ingelheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mainz-Bingen/cities~Mainz-Bingen/Ingelheim~Rhein/City/Ingelheim.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mainz-Bingen/cities~Mainz-Bingen/Ingelheim~Rhein/City/Ingelheim.private|Ingelheim.private]] 
 
-### #is_/same_as :: [Ingelheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mainz-Bingen/cities~Mainz-Bingen/Ingelheim~Rhein/City/Ingelheim.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mainz-Bingen/cities~Mainz-Bingen/Ingelheim~Rhein/City/Ingelheim.personal|Ingelheim.personal]] 
 
-### #is_/same_as :: [Ingelheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mainz-Bingen/cities~Mainz-Bingen/Ingelheim~Rhein/City/Ingelheim.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mainz-Bingen/cities~Mainz-Bingen/Ingelheim~Rhein/City/Ingelheim.secret|Ingelheim.secret]] 
 

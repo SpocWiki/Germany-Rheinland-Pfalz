@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Duengenheim](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Cochem-Zell/cities~Cochem-Zell/Kaisersesch/City/Duengenheim.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Cochem-Zell/cities~Cochem-Zell/Kaisersesch/City/Duengenheim|Duengenheim]] 
 
-### #is_/same_as :: [Duengenheim.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Cochem-Zell/cities~Cochem-Zell/Kaisersesch/City/Duengenheim.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Cochem-Zell/cities~Cochem-Zell/Kaisersesch/City/Duengenheim.public|Duengenheim.public]] 
 
-### #is_/same_as :: [Duengenheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Cochem-Zell/cities~Cochem-Zell/Kaisersesch/City/Duengenheim.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Cochem-Zell/cities~Cochem-Zell/Kaisersesch/City/Duengenheim.internal|Duengenheim.internal]] 
 
-### #is_/same_as :: [Duengenheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Cochem-Zell/cities~Cochem-Zell/Kaisersesch/City/Duengenheim.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Cochem-Zell/cities~Cochem-Zell/Kaisersesch/City/Duengenheim.protect|Duengenheim.protect]] 
 
-### #is_/same_as :: [Duengenheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Cochem-Zell/cities~Cochem-Zell/Kaisersesch/City/Duengenheim.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Cochem-Zell/cities~Cochem-Zell/Kaisersesch/City/Duengenheim.private|Duengenheim.private]] 
 
-### #is_/same_as :: [Duengenheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Cochem-Zell/cities~Cochem-Zell/Kaisersesch/City/Duengenheim.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Cochem-Zell/cities~Cochem-Zell/Kaisersesch/City/Duengenheim.personal|Duengenheim.personal]] 
 
-### #is_/same_as :: [Duengenheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Cochem-Zell/cities~Cochem-Zell/Kaisersesch/City/Duengenheim.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Cochem-Zell/cities~Cochem-Zell/Kaisersesch/City/Duengenheim.secret|Duengenheim.secret]] 
 

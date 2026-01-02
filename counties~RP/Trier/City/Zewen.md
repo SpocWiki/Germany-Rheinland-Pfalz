@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Zewen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier/City/Zewen.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier/City/Zewen|Zewen]] 
 
-### #is_/same_as :: [Zewen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier/City/Zewen.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier/City/Zewen.public|Zewen.public]] 
 
-### #is_/same_as :: [Zewen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier/City/Zewen.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier/City/Zewen.internal|Zewen.internal]] 
 
-### #is_/same_as :: [Zewen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier/City/Zewen.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier/City/Zewen.protect|Zewen.protect]] 
 
-### #is_/same_as :: [Zewen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier/City/Zewen.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier/City/Zewen.private|Zewen.private]] 
 
-### #is_/same_as :: [Zewen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier/City/Zewen.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier/City/Zewen.personal|Zewen.personal]] 
 
-### #is_/same_as :: [Zewen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier/City/Zewen.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier/City/Zewen.secret|Zewen.secret]] 
 

@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Loeberg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier/City/Loeberg.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier/City/Loeberg|Loeberg]] 
 
-### #is_/same_as :: [Loeberg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier/City/Loeberg.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier/City/Loeberg.public|Loeberg.public]] 
 
-### #is_/same_as :: [Loeberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier/City/Loeberg.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier/City/Loeberg.internal|Loeberg.internal]] 
 
-### #is_/same_as :: [Loeberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier/City/Loeberg.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier/City/Loeberg.protect|Loeberg.protect]] 
 
-### #is_/same_as :: [Loeberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier/City/Loeberg.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier/City/Loeberg.private|Loeberg.private]] 
 
-### #is_/same_as :: [Loeberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier/City/Loeberg.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier/City/Loeberg.personal|Loeberg.personal]] 
 
-### #is_/same_as :: [Loeberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier/City/Loeberg.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier/City/Loeberg.secret|Loeberg.secret]] 
 

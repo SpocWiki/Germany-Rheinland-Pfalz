@@ -41,17 +41,17 @@ zum Barock und repräsentiert die traditionelle Baukunst an der Mosel
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bernkastel](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bernkastel-Wittlich/cities~Bernkastel-Wittlich/Bernkastel-Kues/City/Bernkastel.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bernkastel-Wittlich/cities~Bernkastel-Wittlich/Bernkastel-Kues/City/Bernkastel|Bernkastel]] 
 
-### #is_/same_as :: [Bernkastel.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bernkastel-Wittlich/cities~Bernkastel-Wittlich/Bernkastel-Kues/City/Bernkastel.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bernkastel-Wittlich/cities~Bernkastel-Wittlich/Bernkastel-Kues/City/Bernkastel.public|Bernkastel.public]] 
 
-### #is_/same_as :: [Bernkastel.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bernkastel-Wittlich/cities~Bernkastel-Wittlich/Bernkastel-Kues/City/Bernkastel.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bernkastel-Wittlich/cities~Bernkastel-Wittlich/Bernkastel-Kues/City/Bernkastel.internal|Bernkastel.internal]] 
 
-### #is_/same_as :: [Bernkastel.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bernkastel-Wittlich/cities~Bernkastel-Wittlich/Bernkastel-Kues/City/Bernkastel.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bernkastel-Wittlich/cities~Bernkastel-Wittlich/Bernkastel-Kues/City/Bernkastel.protect|Bernkastel.protect]] 
 
-### #is_/same_as :: [Bernkastel.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bernkastel-Wittlich/cities~Bernkastel-Wittlich/Bernkastel-Kues/City/Bernkastel.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bernkastel-Wittlich/cities~Bernkastel-Wittlich/Bernkastel-Kues/City/Bernkastel.private|Bernkastel.private]] 
 
-### #is_/same_as :: [Bernkastel.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bernkastel-Wittlich/cities~Bernkastel-Wittlich/Bernkastel-Kues/City/Bernkastel.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bernkastel-Wittlich/cities~Bernkastel-Wittlich/Bernkastel-Kues/City/Bernkastel.personal|Bernkastel.personal]] 
 
-### #is_/same_as :: [Bernkastel.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bernkastel-Wittlich/cities~Bernkastel-Wittlich/Bernkastel-Kues/City/Bernkastel.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bernkastel-Wittlich/cities~Bernkastel-Wittlich/Bernkastel-Kues/City/Bernkastel.secret|Bernkastel.secret]] 
 

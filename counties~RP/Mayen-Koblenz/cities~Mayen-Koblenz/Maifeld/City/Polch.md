@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Polch](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mayen-Koblenz/cities~Mayen-Koblenz/Maifeld/City/Polch.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mayen-Koblenz/cities~Mayen-Koblenz/Maifeld/City/Polch|Polch]] 
 
-### #is_/same_as :: [Polch.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mayen-Koblenz/cities~Mayen-Koblenz/Maifeld/City/Polch.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mayen-Koblenz/cities~Mayen-Koblenz/Maifeld/City/Polch.public|Polch.public]] 
 
-### #is_/same_as :: [Polch.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mayen-Koblenz/cities~Mayen-Koblenz/Maifeld/City/Polch.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mayen-Koblenz/cities~Mayen-Koblenz/Maifeld/City/Polch.internal|Polch.internal]] 
 
-### #is_/same_as :: [Polch.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mayen-Koblenz/cities~Mayen-Koblenz/Maifeld/City/Polch.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mayen-Koblenz/cities~Mayen-Koblenz/Maifeld/City/Polch.protect|Polch.protect]] 
 
-### #is_/same_as :: [Polch.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mayen-Koblenz/cities~Mayen-Koblenz/Maifeld/City/Polch.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mayen-Koblenz/cities~Mayen-Koblenz/Maifeld/City/Polch.private|Polch.private]] 
 
-### #is_/same_as :: [Polch.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mayen-Koblenz/cities~Mayen-Koblenz/Maifeld/City/Polch.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mayen-Koblenz/cities~Mayen-Koblenz/Maifeld/City/Polch.personal|Polch.personal]] 
 
-### #is_/same_as :: [Polch.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mayen-Koblenz/cities~Mayen-Koblenz/Maifeld/City/Polch.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mayen-Koblenz/cities~Mayen-Koblenz/Maifeld/City/Polch.secret|Polch.secret]] 
 

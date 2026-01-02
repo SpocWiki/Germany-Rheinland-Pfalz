@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ober-Ingelheim](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mainz-Bingen/cities~Mainz-Bingen/Ingelheim~Rhein/City/Ober-Ingelheim.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mainz-Bingen/cities~Mainz-Bingen/Ingelheim~Rhein/City/Ober-Ingelheim|Ober-Ingelheim]] 
 
-### #is_/same_as :: [Ober-Ingelheim.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mainz-Bingen/cities~Mainz-Bingen/Ingelheim~Rhein/City/Ober-Ingelheim.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mainz-Bingen/cities~Mainz-Bingen/Ingelheim~Rhein/City/Ober-Ingelheim.public|Ober-Ingelheim.public]] 
 
-### #is_/same_as :: [Ober-Ingelheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mainz-Bingen/cities~Mainz-Bingen/Ingelheim~Rhein/City/Ober-Ingelheim.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mainz-Bingen/cities~Mainz-Bingen/Ingelheim~Rhein/City/Ober-Ingelheim.internal|Ober-Ingelheim.internal]] 
 
-### #is_/same_as :: [Ober-Ingelheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mainz-Bingen/cities~Mainz-Bingen/Ingelheim~Rhein/City/Ober-Ingelheim.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mainz-Bingen/cities~Mainz-Bingen/Ingelheim~Rhein/City/Ober-Ingelheim.protect|Ober-Ingelheim.protect]] 
 
-### #is_/same_as :: [Ober-Ingelheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mainz-Bingen/cities~Mainz-Bingen/Ingelheim~Rhein/City/Ober-Ingelheim.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mainz-Bingen/cities~Mainz-Bingen/Ingelheim~Rhein/City/Ober-Ingelheim.private|Ober-Ingelheim.private]] 
 
-### #is_/same_as :: [Ober-Ingelheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mainz-Bingen/cities~Mainz-Bingen/Ingelheim~Rhein/City/Ober-Ingelheim.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mainz-Bingen/cities~Mainz-Bingen/Ingelheim~Rhein/City/Ober-Ingelheim.personal|Ober-Ingelheim.personal]] 
 
-### #is_/same_as :: [Ober-Ingelheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mainz-Bingen/cities~Mainz-Bingen/Ingelheim~Rhein/City/Ober-Ingelheim.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mainz-Bingen/cities~Mainz-Bingen/Ingelheim~Rhein/City/Ober-Ingelheim.secret|Ober-Ingelheim.secret]] 
 

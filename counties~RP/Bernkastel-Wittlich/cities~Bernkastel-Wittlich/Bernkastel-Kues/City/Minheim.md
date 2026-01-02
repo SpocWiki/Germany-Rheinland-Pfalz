@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Minheim](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bernkastel-Wittlich/cities~Bernkastel-Wittlich/Bernkastel-Kues/City/Minheim.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bernkastel-Wittlich/cities~Bernkastel-Wittlich/Bernkastel-Kues/City/Minheim|Minheim]] 
 
-### #is_/same_as :: [Minheim.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bernkastel-Wittlich/cities~Bernkastel-Wittlich/Bernkastel-Kues/City/Minheim.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bernkastel-Wittlich/cities~Bernkastel-Wittlich/Bernkastel-Kues/City/Minheim.public|Minheim.public]] 
 
-### #is_/same_as :: [Minheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bernkastel-Wittlich/cities~Bernkastel-Wittlich/Bernkastel-Kues/City/Minheim.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bernkastel-Wittlich/cities~Bernkastel-Wittlich/Bernkastel-Kues/City/Minheim.internal|Minheim.internal]] 
 
-### #is_/same_as :: [Minheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bernkastel-Wittlich/cities~Bernkastel-Wittlich/Bernkastel-Kues/City/Minheim.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bernkastel-Wittlich/cities~Bernkastel-Wittlich/Bernkastel-Kues/City/Minheim.protect|Minheim.protect]] 
 
-### #is_/same_as :: [Minheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bernkastel-Wittlich/cities~Bernkastel-Wittlich/Bernkastel-Kues/City/Minheim.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bernkastel-Wittlich/cities~Bernkastel-Wittlich/Bernkastel-Kues/City/Minheim.private|Minheim.private]] 
 
-### #is_/same_as :: [Minheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bernkastel-Wittlich/cities~Bernkastel-Wittlich/Bernkastel-Kues/City/Minheim.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bernkastel-Wittlich/cities~Bernkastel-Wittlich/Bernkastel-Kues/City/Minheim.personal|Minheim.personal]] 
 
-### #is_/same_as :: [Minheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bernkastel-Wittlich/cities~Bernkastel-Wittlich/Bernkastel-Kues/City/Minheim.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bernkastel-Wittlich/cities~Bernkastel-Wittlich/Bernkastel-Kues/City/Minheim.secret|Minheim.secret]] 
 

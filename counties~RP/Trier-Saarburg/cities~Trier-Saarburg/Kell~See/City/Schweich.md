@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Schweich](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier-Saarburg/cities~Trier-Saarburg/Kell~See/City/Schweich.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier-Saarburg/cities~Trier-Saarburg/Kell~See/City/Schweich|Schweich]] 
 
-### #is_/same_as :: [Schweich.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier-Saarburg/cities~Trier-Saarburg/Kell~See/City/Schweich.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier-Saarburg/cities~Trier-Saarburg/Kell~See/City/Schweich.public|Schweich.public]] 
 
-### #is_/same_as :: [Schweich.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier-Saarburg/cities~Trier-Saarburg/Kell~See/City/Schweich.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier-Saarburg/cities~Trier-Saarburg/Kell~See/City/Schweich.internal|Schweich.internal]] 
 
-### #is_/same_as :: [Schweich.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier-Saarburg/cities~Trier-Saarburg/Kell~See/City/Schweich.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier-Saarburg/cities~Trier-Saarburg/Kell~See/City/Schweich.protect|Schweich.protect]] 
 
-### #is_/same_as :: [Schweich.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier-Saarburg/cities~Trier-Saarburg/Kell~See/City/Schweich.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier-Saarburg/cities~Trier-Saarburg/Kell~See/City/Schweich.private|Schweich.private]] 
 
-### #is_/same_as :: [Schweich.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier-Saarburg/cities~Trier-Saarburg/Kell~See/City/Schweich.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier-Saarburg/cities~Trier-Saarburg/Kell~See/City/Schweich.personal|Schweich.personal]] 
 
-### #is_/same_as :: [Schweich.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier-Saarburg/cities~Trier-Saarburg/Kell~See/City/Schweich.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier-Saarburg/cities~Trier-Saarburg/Kell~See/City/Schweich.secret|Schweich.secret]] 
 

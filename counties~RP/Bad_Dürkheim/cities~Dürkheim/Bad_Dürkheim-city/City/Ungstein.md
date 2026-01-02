@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ungstein](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Dürkheim/cities~Dürkheim/Bad_Dürkheim-city/City/Ungstein.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Dürkheim/cities~Dürkheim/Bad_Dürkheim-city/City/Ungstein|Ungstein]] 
 
-### #is_/same_as :: [Ungstein.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Dürkheim/cities~Dürkheim/Bad_Dürkheim-city/City/Ungstein.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Dürkheim/cities~Dürkheim/Bad_Dürkheim-city/City/Ungstein.public|Ungstein.public]] 
 
-### #is_/same_as :: [Ungstein.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Dürkheim/cities~Dürkheim/Bad_Dürkheim-city/City/Ungstein.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Dürkheim/cities~Dürkheim/Bad_Dürkheim-city/City/Ungstein.internal|Ungstein.internal]] 
 
-### #is_/same_as :: [Ungstein.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Dürkheim/cities~Dürkheim/Bad_Dürkheim-city/City/Ungstein.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Dürkheim/cities~Dürkheim/Bad_Dürkheim-city/City/Ungstein.protect|Ungstein.protect]] 
 
-### #is_/same_as :: [Ungstein.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Dürkheim/cities~Dürkheim/Bad_Dürkheim-city/City/Ungstein.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Dürkheim/cities~Dürkheim/Bad_Dürkheim-city/City/Ungstein.private|Ungstein.private]] 
 
-### #is_/same_as :: [Ungstein.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Dürkheim/cities~Dürkheim/Bad_Dürkheim-city/City/Ungstein.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Dürkheim/cities~Dürkheim/Bad_Dürkheim-city/City/Ungstein.personal|Ungstein.personal]] 
 
-### #is_/same_as :: [Ungstein.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Dürkheim/cities~Dürkheim/Bad_Dürkheim-city/City/Ungstein.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Dürkheim/cities~Dürkheim/Bad_Dürkheim-city/City/Ungstein.secret|Ungstein.secret]] 
 

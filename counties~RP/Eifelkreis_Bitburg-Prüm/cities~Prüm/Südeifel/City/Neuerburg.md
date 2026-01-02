@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Neuerburg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Eifelkreis_Bitburg-Prüm/cities~Prüm/Südeifel/City/Neuerburg.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Eifelkreis_Bitburg-Prüm/cities~Prüm/Südeifel/City/Neuerburg|Neuerburg]] 
 
-### #is_/same_as :: [Neuerburg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Eifelkreis_Bitburg-Prüm/cities~Prüm/Südeifel/City/Neuerburg.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Eifelkreis_Bitburg-Prüm/cities~Prüm/Südeifel/City/Neuerburg.public|Neuerburg.public]] 
 
-### #is_/same_as :: [Neuerburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Eifelkreis_Bitburg-Prüm/cities~Prüm/Südeifel/City/Neuerburg.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Eifelkreis_Bitburg-Prüm/cities~Prüm/Südeifel/City/Neuerburg.internal|Neuerburg.internal]] 
 
-### #is_/same_as :: [Neuerburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Eifelkreis_Bitburg-Prüm/cities~Prüm/Südeifel/City/Neuerburg.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Eifelkreis_Bitburg-Prüm/cities~Prüm/Südeifel/City/Neuerburg.protect|Neuerburg.protect]] 
 
-### #is_/same_as :: [Neuerburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Eifelkreis_Bitburg-Prüm/cities~Prüm/Südeifel/City/Neuerburg.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Eifelkreis_Bitburg-Prüm/cities~Prüm/Südeifel/City/Neuerburg.private|Neuerburg.private]] 
 
-### #is_/same_as :: [Neuerburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Eifelkreis_Bitburg-Prüm/cities~Prüm/Südeifel/City/Neuerburg.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Eifelkreis_Bitburg-Prüm/cities~Prüm/Südeifel/City/Neuerburg.personal|Neuerburg.personal]] 
 
-### #is_/same_as :: [Neuerburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Eifelkreis_Bitburg-Prüm/cities~Prüm/Südeifel/City/Neuerburg.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Eifelkreis_Bitburg-Prüm/cities~Prüm/Südeifel/City/Neuerburg.secret|Neuerburg.secret]] 
 

@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Niederheimbach](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mainz-Bingen/cities~Mainz-Bingen/Rhein-Nahe/City/Niederheimbach.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mainz-Bingen/cities~Mainz-Bingen/Rhein-Nahe/City/Niederheimbach|Niederheimbach]] 
 
-### #is_/same_as :: [Niederheimbach.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mainz-Bingen/cities~Mainz-Bingen/Rhein-Nahe/City/Niederheimbach.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mainz-Bingen/cities~Mainz-Bingen/Rhein-Nahe/City/Niederheimbach.public|Niederheimbach.public]] 
 
-### #is_/same_as :: [Niederheimbach.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mainz-Bingen/cities~Mainz-Bingen/Rhein-Nahe/City/Niederheimbach.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mainz-Bingen/cities~Mainz-Bingen/Rhein-Nahe/City/Niederheimbach.internal|Niederheimbach.internal]] 
 
-### #is_/same_as :: [Niederheimbach.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mainz-Bingen/cities~Mainz-Bingen/Rhein-Nahe/City/Niederheimbach.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mainz-Bingen/cities~Mainz-Bingen/Rhein-Nahe/City/Niederheimbach.protect|Niederheimbach.protect]] 
 
-### #is_/same_as :: [Niederheimbach.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mainz-Bingen/cities~Mainz-Bingen/Rhein-Nahe/City/Niederheimbach.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mainz-Bingen/cities~Mainz-Bingen/Rhein-Nahe/City/Niederheimbach.private|Niederheimbach.private]] 
 
-### #is_/same_as :: [Niederheimbach.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mainz-Bingen/cities~Mainz-Bingen/Rhein-Nahe/City/Niederheimbach.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mainz-Bingen/cities~Mainz-Bingen/Rhein-Nahe/City/Niederheimbach.personal|Niederheimbach.personal]] 
 
-### #is_/same_as :: [Niederheimbach.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mainz-Bingen/cities~Mainz-Bingen/Rhein-Nahe/City/Niederheimbach.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mainz-Bingen/cities~Mainz-Bingen/Rhein-Nahe/City/Niederheimbach.secret|Niederheimbach.secret]] 
 

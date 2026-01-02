@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Oppenheim](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mainz-Bingen/cities~Mainz-Bingen/Rhein-Selz/City/Oppenheim.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mainz-Bingen/cities~Mainz-Bingen/Rhein-Selz/City/Oppenheim|Oppenheim]] 
 
-### #is_/same_as :: [Oppenheim.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mainz-Bingen/cities~Mainz-Bingen/Rhein-Selz/City/Oppenheim.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mainz-Bingen/cities~Mainz-Bingen/Rhein-Selz/City/Oppenheim.public|Oppenheim.public]] 
 
-### #is_/same_as :: [Oppenheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mainz-Bingen/cities~Mainz-Bingen/Rhein-Selz/City/Oppenheim.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mainz-Bingen/cities~Mainz-Bingen/Rhein-Selz/City/Oppenheim.internal|Oppenheim.internal]] 
 
-### #is_/same_as :: [Oppenheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mainz-Bingen/cities~Mainz-Bingen/Rhein-Selz/City/Oppenheim.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mainz-Bingen/cities~Mainz-Bingen/Rhein-Selz/City/Oppenheim.protect|Oppenheim.protect]] 
 
-### #is_/same_as :: [Oppenheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mainz-Bingen/cities~Mainz-Bingen/Rhein-Selz/City/Oppenheim.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mainz-Bingen/cities~Mainz-Bingen/Rhein-Selz/City/Oppenheim.private|Oppenheim.private]] 
 
-### #is_/same_as :: [Oppenheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mainz-Bingen/cities~Mainz-Bingen/Rhein-Selz/City/Oppenheim.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mainz-Bingen/cities~Mainz-Bingen/Rhein-Selz/City/Oppenheim.personal|Oppenheim.personal]] 
 
-### #is_/same_as :: [Oppenheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mainz-Bingen/cities~Mainz-Bingen/Rhein-Selz/City/Oppenheim.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mainz-Bingen/cities~Mainz-Bingen/Rhein-Selz/City/Oppenheim.secret|Oppenheim.secret]] 
 

@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sobernheim](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Kreuznach/cities~Kreuznach/Bad_Sobernheim/City/Sobernheim.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Kreuznach/cities~Kreuznach/Bad_Sobernheim/City/Sobernheim|Sobernheim]] 
 
-### #is_/same_as :: [Sobernheim.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Kreuznach/cities~Kreuznach/Bad_Sobernheim/City/Sobernheim.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Kreuznach/cities~Kreuznach/Bad_Sobernheim/City/Sobernheim.public|Sobernheim.public]] 
 
-### #is_/same_as :: [Sobernheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Kreuznach/cities~Kreuznach/Bad_Sobernheim/City/Sobernheim.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Kreuznach/cities~Kreuznach/Bad_Sobernheim/City/Sobernheim.internal|Sobernheim.internal]] 
 
-### #is_/same_as :: [Sobernheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Kreuznach/cities~Kreuznach/Bad_Sobernheim/City/Sobernheim.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Kreuznach/cities~Kreuznach/Bad_Sobernheim/City/Sobernheim.protect|Sobernheim.protect]] 
 
-### #is_/same_as :: [Sobernheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Kreuznach/cities~Kreuznach/Bad_Sobernheim/City/Sobernheim.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Kreuznach/cities~Kreuznach/Bad_Sobernheim/City/Sobernheim.private|Sobernheim.private]] 
 
-### #is_/same_as :: [Sobernheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Kreuznach/cities~Kreuznach/Bad_Sobernheim/City/Sobernheim.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Kreuznach/cities~Kreuznach/Bad_Sobernheim/City/Sobernheim.personal|Sobernheim.personal]] 
 
-### #is_/same_as :: [Sobernheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Kreuznach/cities~Kreuznach/Bad_Sobernheim/City/Sobernheim.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Kreuznach/cities~Kreuznach/Bad_Sobernheim/City/Sobernheim.secret|Sobernheim.secret]] 
 

@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Burscheid](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Eifelkreis_Bitburg-Prüm/cities~Prüm/Südeifel/City/Burscheid.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Eifelkreis_Bitburg-Prüm/cities~Prüm/Südeifel/City/Burscheid|Burscheid]] 
 
-### #is_/same_as :: [Burscheid.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Eifelkreis_Bitburg-Prüm/cities~Prüm/Südeifel/City/Burscheid.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Eifelkreis_Bitburg-Prüm/cities~Prüm/Südeifel/City/Burscheid.public|Burscheid.public]] 
 
-### #is_/same_as :: [Burscheid.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Eifelkreis_Bitburg-Prüm/cities~Prüm/Südeifel/City/Burscheid.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Eifelkreis_Bitburg-Prüm/cities~Prüm/Südeifel/City/Burscheid.internal|Burscheid.internal]] 
 
-### #is_/same_as :: [Burscheid.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Eifelkreis_Bitburg-Prüm/cities~Prüm/Südeifel/City/Burscheid.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Eifelkreis_Bitburg-Prüm/cities~Prüm/Südeifel/City/Burscheid.protect|Burscheid.protect]] 
 
-### #is_/same_as :: [Burscheid.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Eifelkreis_Bitburg-Prüm/cities~Prüm/Südeifel/City/Burscheid.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Eifelkreis_Bitburg-Prüm/cities~Prüm/Südeifel/City/Burscheid.private|Burscheid.private]] 
 
-### #is_/same_as :: [Burscheid.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Eifelkreis_Bitburg-Prüm/cities~Prüm/Südeifel/City/Burscheid.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Eifelkreis_Bitburg-Prüm/cities~Prüm/Südeifel/City/Burscheid.personal|Burscheid.personal]] 
 
-### #is_/same_as :: [Burscheid.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Eifelkreis_Bitburg-Prüm/cities~Prüm/Südeifel/City/Burscheid.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Eifelkreis_Bitburg-Prüm/cities~Prüm/Südeifel/City/Burscheid.secret|Burscheid.secret]] 
 

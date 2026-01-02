@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fuerfeld](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Kreuznach/cities~Kreuznach/Fuerfeld.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Kreuznach/cities~Kreuznach/Fuerfeld|Fuerfeld]] 
 
-### #is_/same_as :: [Fuerfeld.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Kreuznach/cities~Kreuznach/Fuerfeld.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Kreuznach/cities~Kreuznach/Fuerfeld.public|Fuerfeld.public]] 
 
-### #is_/same_as :: [Fuerfeld.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Kreuznach/cities~Kreuznach/Fuerfeld.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Kreuznach/cities~Kreuznach/Fuerfeld.internal|Fuerfeld.internal]] 
 
-### #is_/same_as :: [Fuerfeld.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Kreuznach/cities~Kreuznach/Fuerfeld.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Kreuznach/cities~Kreuznach/Fuerfeld.protect|Fuerfeld.protect]] 
 
-### #is_/same_as :: [Fuerfeld.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Kreuznach/cities~Kreuznach/Fuerfeld.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Kreuznach/cities~Kreuznach/Fuerfeld.private|Fuerfeld.private]] 
 
-### #is_/same_as :: [Fuerfeld.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Kreuznach/cities~Kreuznach/Fuerfeld.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Kreuznach/cities~Kreuznach/Fuerfeld.personal|Fuerfeld.personal]] 
 
-### #is_/same_as :: [Fuerfeld.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Kreuznach/cities~Kreuznach/Fuerfeld.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Kreuznach/cities~Kreuznach/Fuerfeld.secret|Fuerfeld.secret]] 
 

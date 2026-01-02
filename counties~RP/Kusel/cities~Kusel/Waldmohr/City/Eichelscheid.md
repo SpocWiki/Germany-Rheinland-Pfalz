@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Eichelscheid](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Kusel/cities~Kusel/Waldmohr/City/Eichelscheid.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Kusel/cities~Kusel/Waldmohr/City/Eichelscheid|Eichelscheid]] 
 
-### #is_/same_as :: [Eichelscheid.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Kusel/cities~Kusel/Waldmohr/City/Eichelscheid.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Kusel/cities~Kusel/Waldmohr/City/Eichelscheid.public|Eichelscheid.public]] 
 
-### #is_/same_as :: [Eichelscheid.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Kusel/cities~Kusel/Waldmohr/City/Eichelscheid.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Kusel/cities~Kusel/Waldmohr/City/Eichelscheid.internal|Eichelscheid.internal]] 
 
-### #is_/same_as :: [Eichelscheid.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Kusel/cities~Kusel/Waldmohr/City/Eichelscheid.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Kusel/cities~Kusel/Waldmohr/City/Eichelscheid.protect|Eichelscheid.protect]] 
 
-### #is_/same_as :: [Eichelscheid.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Kusel/cities~Kusel/Waldmohr/City/Eichelscheid.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Kusel/cities~Kusel/Waldmohr/City/Eichelscheid.private|Eichelscheid.private]] 
 
-### #is_/same_as :: [Eichelscheid.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Kusel/cities~Kusel/Waldmohr/City/Eichelscheid.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Kusel/cities~Kusel/Waldmohr/City/Eichelscheid.personal|Eichelscheid.personal]] 
 
-### #is_/same_as :: [Eichelscheid.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Kusel/cities~Kusel/Waldmohr/City/Eichelscheid.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Kusel/cities~Kusel/Waldmohr/City/Eichelscheid.secret|Eichelscheid.secret]] 
 

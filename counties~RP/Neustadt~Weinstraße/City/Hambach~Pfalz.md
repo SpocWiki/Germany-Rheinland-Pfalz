@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hambach~Pfalz](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Neustadt~Weinstraße/City/Hambach~Pfalz.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Neustadt~Weinstraße/City/Hambach~Pfalz|Hambach~Pfalz]] 
 
-### #is_/same_as :: [Hambach~Pfalz.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Neustadt~Weinstraße/City/Hambach~Pfalz.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Neustadt~Weinstraße/City/Hambach~Pfalz.public|Hambach~Pfalz.public]] 
 
-### #is_/same_as :: [Hambach~Pfalz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Neustadt~Weinstraße/City/Hambach~Pfalz.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Neustadt~Weinstraße/City/Hambach~Pfalz.internal|Hambach~Pfalz.internal]] 
 
-### #is_/same_as :: [Hambach~Pfalz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Neustadt~Weinstraße/City/Hambach~Pfalz.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Neustadt~Weinstraße/City/Hambach~Pfalz.protect|Hambach~Pfalz.protect]] 
 
-### #is_/same_as :: [Hambach~Pfalz.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Neustadt~Weinstraße/City/Hambach~Pfalz.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Neustadt~Weinstraße/City/Hambach~Pfalz.private|Hambach~Pfalz.private]] 
 
-### #is_/same_as :: [Hambach~Pfalz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Neustadt~Weinstraße/City/Hambach~Pfalz.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Neustadt~Weinstraße/City/Hambach~Pfalz.personal|Hambach~Pfalz.personal]] 
 
-### #is_/same_as :: [Hambach~Pfalz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Neustadt~Weinstraße/City/Hambach~Pfalz.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Neustadt~Weinstraße/City/Hambach~Pfalz.secret|Hambach~Pfalz.secret]] 
 

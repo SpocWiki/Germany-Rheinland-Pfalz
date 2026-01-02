@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Duerkheim](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Dürkheim/cities~Dürkheim/Deidesheim/City/Duerkheim.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Dürkheim/cities~Dürkheim/Deidesheim/City/Duerkheim|Duerkheim]] 
 
-### #is_/same_as :: [Duerkheim.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Dürkheim/cities~Dürkheim/Deidesheim/City/Duerkheim.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Dürkheim/cities~Dürkheim/Deidesheim/City/Duerkheim.public|Duerkheim.public]] 
 
-### #is_/same_as :: [Duerkheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Dürkheim/cities~Dürkheim/Deidesheim/City/Duerkheim.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Dürkheim/cities~Dürkheim/Deidesheim/City/Duerkheim.internal|Duerkheim.internal]] 
 
-### #is_/same_as :: [Duerkheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Dürkheim/cities~Dürkheim/Deidesheim/City/Duerkheim.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Dürkheim/cities~Dürkheim/Deidesheim/City/Duerkheim.protect|Duerkheim.protect]] 
 
-### #is_/same_as :: [Duerkheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Dürkheim/cities~Dürkheim/Deidesheim/City/Duerkheim.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Dürkheim/cities~Dürkheim/Deidesheim/City/Duerkheim.private|Duerkheim.private]] 
 
-### #is_/same_as :: [Duerkheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Dürkheim/cities~Dürkheim/Deidesheim/City/Duerkheim.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Dürkheim/cities~Dürkheim/Deidesheim/City/Duerkheim.personal|Duerkheim.personal]] 
 
-### #is_/same_as :: [Duerkheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Dürkheim/cities~Dürkheim/Deidesheim/City/Duerkheim.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Dürkheim/cities~Dürkheim/Deidesheim/City/Duerkheim.secret|Duerkheim.secret]] 
 

@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Weissenthurm](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Neuwied/cities~Neuwied/Neuwied-city/City/Weissenthurm.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Neuwied/cities~Neuwied/Neuwied-city/City/Weissenthurm|Weissenthurm]] 
 
-### #is_/same_as :: [Weissenthurm.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Neuwied/cities~Neuwied/Neuwied-city/City/Weissenthurm.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Neuwied/cities~Neuwied/Neuwied-city/City/Weissenthurm.public|Weissenthurm.public]] 
 
-### #is_/same_as :: [Weissenthurm.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Neuwied/cities~Neuwied/Neuwied-city/City/Weissenthurm.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Neuwied/cities~Neuwied/Neuwied-city/City/Weissenthurm.internal|Weissenthurm.internal]] 
 
-### #is_/same_as :: [Weissenthurm.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Neuwied/cities~Neuwied/Neuwied-city/City/Weissenthurm.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Neuwied/cities~Neuwied/Neuwied-city/City/Weissenthurm.protect|Weissenthurm.protect]] 
 
-### #is_/same_as :: [Weissenthurm.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Neuwied/cities~Neuwied/Neuwied-city/City/Weissenthurm.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Neuwied/cities~Neuwied/Neuwied-city/City/Weissenthurm.private|Weissenthurm.private]] 
 
-### #is_/same_as :: [Weissenthurm.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Neuwied/cities~Neuwied/Neuwied-city/City/Weissenthurm.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Neuwied/cities~Neuwied/Neuwied-city/City/Weissenthurm.personal|Weissenthurm.personal]] 
 
-### #is_/same_as :: [Weissenthurm.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Neuwied/cities~Neuwied/Neuwied-city/City/Weissenthurm.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Neuwied/cities~Neuwied/Neuwied-city/City/Weissenthurm.secret|Weissenthurm.secret]] 
 

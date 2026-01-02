@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Zweibruecken](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Zweibrücken/City/Zweibruecken.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Zweibrücken/City/Zweibruecken|Zweibruecken]] 
 
-### #is_/same_as :: [Zweibruecken.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Zweibrücken/City/Zweibruecken.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Zweibrücken/City/Zweibruecken.public|Zweibruecken.public]] 
 
-### #is_/same_as :: [Zweibruecken.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Zweibrücken/City/Zweibruecken.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Zweibrücken/City/Zweibruecken.internal|Zweibruecken.internal]] 
 
-### #is_/same_as :: [Zweibruecken.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Zweibrücken/City/Zweibruecken.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Zweibrücken/City/Zweibruecken.protect|Zweibruecken.protect]] 
 
-### #is_/same_as :: [Zweibruecken.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Zweibrücken/City/Zweibruecken.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Zweibrücken/City/Zweibruecken.private|Zweibruecken.private]] 
 
-### #is_/same_as :: [Zweibruecken.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Zweibrücken/City/Zweibruecken.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Zweibrücken/City/Zweibruecken.personal|Zweibruecken.personal]] 
 
-### #is_/same_as :: [Zweibruecken.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Zweibrücken/City/Zweibruecken.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Zweibrücken/City/Zweibruecken.secret|Zweibruecken.secret]] 
 

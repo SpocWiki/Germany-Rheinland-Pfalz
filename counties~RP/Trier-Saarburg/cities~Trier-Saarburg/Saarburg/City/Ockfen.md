@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ockfen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier-Saarburg/cities~Trier-Saarburg/Saarburg/City/Ockfen.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier-Saarburg/cities~Trier-Saarburg/Saarburg/City/Ockfen|Ockfen]] 
 
-### #is_/same_as :: [Ockfen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier-Saarburg/cities~Trier-Saarburg/Saarburg/City/Ockfen.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier-Saarburg/cities~Trier-Saarburg/Saarburg/City/Ockfen.public|Ockfen.public]] 
 
-### #is_/same_as :: [Ockfen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier-Saarburg/cities~Trier-Saarburg/Saarburg/City/Ockfen.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier-Saarburg/cities~Trier-Saarburg/Saarburg/City/Ockfen.internal|Ockfen.internal]] 
 
-### #is_/same_as :: [Ockfen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier-Saarburg/cities~Trier-Saarburg/Saarburg/City/Ockfen.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier-Saarburg/cities~Trier-Saarburg/Saarburg/City/Ockfen.protect|Ockfen.protect]] 
 
-### #is_/same_as :: [Ockfen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier-Saarburg/cities~Trier-Saarburg/Saarburg/City/Ockfen.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier-Saarburg/cities~Trier-Saarburg/Saarburg/City/Ockfen.private|Ockfen.private]] 
 
-### #is_/same_as :: [Ockfen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier-Saarburg/cities~Trier-Saarburg/Saarburg/City/Ockfen.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier-Saarburg/cities~Trier-Saarburg/Saarburg/City/Ockfen.personal|Ockfen.personal]] 
 
-### #is_/same_as :: [Ockfen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier-Saarburg/cities~Trier-Saarburg/Saarburg/City/Ockfen.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier-Saarburg/cities~Trier-Saarburg/Saarburg/City/Ockfen.secret|Ockfen.secret]] 
 

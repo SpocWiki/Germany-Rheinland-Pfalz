@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bad_Kreuznach-City](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Kreuznach/cities~Kreuznach/Bad_Kreuznach-City.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Kreuznach/cities~Kreuznach/Bad_Kreuznach-City|Bad_Kreuznach-City]] 
 
-### #is_/same_as :: [Bad_Kreuznach-City.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Kreuznach/cities~Kreuznach/Bad_Kreuznach-City.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Kreuznach/cities~Kreuznach/Bad_Kreuznach-City.public|Bad_Kreuznach-City.public]] 
 
-### #is_/same_as :: [Bad_Kreuznach-City.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Kreuznach/cities~Kreuznach/Bad_Kreuznach-City.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Kreuznach/cities~Kreuznach/Bad_Kreuznach-City.internal|Bad_Kreuznach-City.internal]] 
 
-### #is_/same_as :: [Bad_Kreuznach-City.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Kreuznach/cities~Kreuznach/Bad_Kreuznach-City.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Kreuznach/cities~Kreuznach/Bad_Kreuznach-City.protect|Bad_Kreuznach-City.protect]] 
 
-### #is_/same_as :: [Bad_Kreuznach-City.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Kreuznach/cities~Kreuznach/Bad_Kreuznach-City.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Kreuznach/cities~Kreuznach/Bad_Kreuznach-City.private|Bad_Kreuznach-City.private]] 
 
-### #is_/same_as :: [Bad_Kreuznach-City.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Kreuznach/cities~Kreuznach/Bad_Kreuznach-City.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Kreuznach/cities~Kreuznach/Bad_Kreuznach-City.personal|Bad_Kreuznach-City.personal]] 
 
-### #is_/same_as :: [Bad_Kreuznach-City.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Kreuznach/cities~Kreuznach/Bad_Kreuznach-City.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Kreuznach/cities~Kreuznach/Bad_Kreuznach-City.secret|Bad_Kreuznach-City.secret]] 
 

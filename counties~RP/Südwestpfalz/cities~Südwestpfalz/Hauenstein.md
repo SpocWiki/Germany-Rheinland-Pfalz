@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hauenstein](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Südwestpfalz/cities~Südwestpfalz/Hauenstein.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Südwestpfalz/cities~Südwestpfalz/Hauenstein|Hauenstein]] 
 
-### #is_/same_as :: [Hauenstein.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Südwestpfalz/cities~Südwestpfalz/Hauenstein.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Südwestpfalz/cities~Südwestpfalz/Hauenstein.public|Hauenstein.public]] 
 
-### #is_/same_as :: [Hauenstein.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Südwestpfalz/cities~Südwestpfalz/Hauenstein.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Südwestpfalz/cities~Südwestpfalz/Hauenstein.internal|Hauenstein.internal]] 
 
-### #is_/same_as :: [Hauenstein.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Südwestpfalz/cities~Südwestpfalz/Hauenstein.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Südwestpfalz/cities~Südwestpfalz/Hauenstein.protect|Hauenstein.protect]] 
 
-### #is_/same_as :: [Hauenstein.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Südwestpfalz/cities~Südwestpfalz/Hauenstein.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Südwestpfalz/cities~Südwestpfalz/Hauenstein.private|Hauenstein.private]] 
 
-### #is_/same_as :: [Hauenstein.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Südwestpfalz/cities~Südwestpfalz/Hauenstein.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Südwestpfalz/cities~Südwestpfalz/Hauenstein.personal|Hauenstein.personal]] 
 
-### #is_/same_as :: [Hauenstein.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Südwestpfalz/cities~Südwestpfalz/Hauenstein.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Südwestpfalz/cities~Südwestpfalz/Hauenstein.secret|Hauenstein.secret]] 
 

@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Wolfsfeld](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Eifelkreis_Bitburg-Prüm/cities~Prüm/Bitburger_Land/City/Wolfsfeld.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Eifelkreis_Bitburg-Prüm/cities~Prüm/Bitburger_Land/City/Wolfsfeld|Wolfsfeld]] 
 
-### #is_/same_as :: [Wolfsfeld.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Eifelkreis_Bitburg-Prüm/cities~Prüm/Bitburger_Land/City/Wolfsfeld.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Eifelkreis_Bitburg-Prüm/cities~Prüm/Bitburger_Land/City/Wolfsfeld.public|Wolfsfeld.public]] 
 
-### #is_/same_as :: [Wolfsfeld.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Eifelkreis_Bitburg-Prüm/cities~Prüm/Bitburger_Land/City/Wolfsfeld.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Eifelkreis_Bitburg-Prüm/cities~Prüm/Bitburger_Land/City/Wolfsfeld.internal|Wolfsfeld.internal]] 
 
-### #is_/same_as :: [Wolfsfeld.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Eifelkreis_Bitburg-Prüm/cities~Prüm/Bitburger_Land/City/Wolfsfeld.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Eifelkreis_Bitburg-Prüm/cities~Prüm/Bitburger_Land/City/Wolfsfeld.protect|Wolfsfeld.protect]] 
 
-### #is_/same_as :: [Wolfsfeld.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Eifelkreis_Bitburg-Prüm/cities~Prüm/Bitburger_Land/City/Wolfsfeld.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Eifelkreis_Bitburg-Prüm/cities~Prüm/Bitburger_Land/City/Wolfsfeld.private|Wolfsfeld.private]] 
 
-### #is_/same_as :: [Wolfsfeld.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Eifelkreis_Bitburg-Prüm/cities~Prüm/Bitburger_Land/City/Wolfsfeld.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Eifelkreis_Bitburg-Prüm/cities~Prüm/Bitburger_Land/City/Wolfsfeld.personal|Wolfsfeld.personal]] 
 
-### #is_/same_as :: [Wolfsfeld.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Eifelkreis_Bitburg-Prüm/cities~Prüm/Bitburger_Land/City/Wolfsfeld.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Eifelkreis_Bitburg-Prüm/cities~Prüm/Bitburger_Land/City/Wolfsfeld.secret|Wolfsfeld.secret]] 
 

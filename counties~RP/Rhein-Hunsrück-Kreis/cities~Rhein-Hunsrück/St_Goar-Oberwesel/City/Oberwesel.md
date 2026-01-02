@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Oberwesel](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Hunsrück-Kreis/cities~Rhein-Hunsrück/St_Goar-Oberwesel/City/Oberwesel.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Hunsrück-Kreis/cities~Rhein-Hunsrück/St_Goar-Oberwesel/City/Oberwesel|Oberwesel]] 
 
-### #is_/same_as :: [Oberwesel.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Hunsrück-Kreis/cities~Rhein-Hunsrück/St_Goar-Oberwesel/City/Oberwesel.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Hunsrück-Kreis/cities~Rhein-Hunsrück/St_Goar-Oberwesel/City/Oberwesel.public|Oberwesel.public]] 
 
-### #is_/same_as :: [Oberwesel.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Hunsrück-Kreis/cities~Rhein-Hunsrück/St_Goar-Oberwesel/City/Oberwesel.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Hunsrück-Kreis/cities~Rhein-Hunsrück/St_Goar-Oberwesel/City/Oberwesel.internal|Oberwesel.internal]] 
 
-### #is_/same_as :: [Oberwesel.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Hunsrück-Kreis/cities~Rhein-Hunsrück/St_Goar-Oberwesel/City/Oberwesel.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Hunsrück-Kreis/cities~Rhein-Hunsrück/St_Goar-Oberwesel/City/Oberwesel.protect|Oberwesel.protect]] 
 
-### #is_/same_as :: [Oberwesel.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Hunsrück-Kreis/cities~Rhein-Hunsrück/St_Goar-Oberwesel/City/Oberwesel.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Hunsrück-Kreis/cities~Rhein-Hunsrück/St_Goar-Oberwesel/City/Oberwesel.private|Oberwesel.private]] 
 
-### #is_/same_as :: [Oberwesel.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Hunsrück-Kreis/cities~Rhein-Hunsrück/St_Goar-Oberwesel/City/Oberwesel.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Hunsrück-Kreis/cities~Rhein-Hunsrück/St_Goar-Oberwesel/City/Oberwesel.personal|Oberwesel.personal]] 
 
-### #is_/same_as :: [Oberwesel.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Hunsrück-Kreis/cities~Rhein-Hunsrück/St_Goar-Oberwesel/City/Oberwesel.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Hunsrück-Kreis/cities~Rhein-Hunsrück/St_Goar-Oberwesel/City/Oberwesel.secret|Oberwesel.secret]] 
 

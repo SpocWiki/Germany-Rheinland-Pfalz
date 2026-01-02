@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Landstuhl](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Kaiserslautern/cities~Kaiserslautern/Ramstein-Miesenbach/City/Landstuhl.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Kaiserslautern/cities~Kaiserslautern/Ramstein-Miesenbach/City/Landstuhl|Landstuhl]] 
 
-### #is_/same_as :: [Landstuhl.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Kaiserslautern/cities~Kaiserslautern/Ramstein-Miesenbach/City/Landstuhl.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Kaiserslautern/cities~Kaiserslautern/Ramstein-Miesenbach/City/Landstuhl.public|Landstuhl.public]] 
 
-### #is_/same_as :: [Landstuhl.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Kaiserslautern/cities~Kaiserslautern/Ramstein-Miesenbach/City/Landstuhl.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Kaiserslautern/cities~Kaiserslautern/Ramstein-Miesenbach/City/Landstuhl.internal|Landstuhl.internal]] 
 
-### #is_/same_as :: [Landstuhl.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Kaiserslautern/cities~Kaiserslautern/Ramstein-Miesenbach/City/Landstuhl.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Kaiserslautern/cities~Kaiserslautern/Ramstein-Miesenbach/City/Landstuhl.protect|Landstuhl.protect]] 
 
-### #is_/same_as :: [Landstuhl.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Kaiserslautern/cities~Kaiserslautern/Ramstein-Miesenbach/City/Landstuhl.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Kaiserslautern/cities~Kaiserslautern/Ramstein-Miesenbach/City/Landstuhl.private|Landstuhl.private]] 
 
-### #is_/same_as :: [Landstuhl.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Kaiserslautern/cities~Kaiserslautern/Ramstein-Miesenbach/City/Landstuhl.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Kaiserslautern/cities~Kaiserslautern/Ramstein-Miesenbach/City/Landstuhl.personal|Landstuhl.personal]] 
 
-### #is_/same_as :: [Landstuhl.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Kaiserslautern/cities~Kaiserslautern/Ramstein-Miesenbach/City/Landstuhl.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Kaiserslautern/cities~Kaiserslautern/Ramstein-Miesenbach/City/Landstuhl.secret|Landstuhl.secret]] 
 

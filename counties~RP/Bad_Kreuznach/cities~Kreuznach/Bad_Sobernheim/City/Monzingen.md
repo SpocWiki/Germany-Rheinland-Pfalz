@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Monzingen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Kreuznach/cities~Kreuznach/Bad_Sobernheim/City/Monzingen.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Kreuznach/cities~Kreuznach/Bad_Sobernheim/City/Monzingen|Monzingen]] 
 
-### #is_/same_as :: [Monzingen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Kreuznach/cities~Kreuznach/Bad_Sobernheim/City/Monzingen.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Kreuznach/cities~Kreuznach/Bad_Sobernheim/City/Monzingen.public|Monzingen.public]] 
 
-### #is_/same_as :: [Monzingen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Kreuznach/cities~Kreuznach/Bad_Sobernheim/City/Monzingen.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Kreuznach/cities~Kreuznach/Bad_Sobernheim/City/Monzingen.internal|Monzingen.internal]] 
 
-### #is_/same_as :: [Monzingen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Kreuznach/cities~Kreuznach/Bad_Sobernheim/City/Monzingen.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Kreuznach/cities~Kreuznach/Bad_Sobernheim/City/Monzingen.protect|Monzingen.protect]] 
 
-### #is_/same_as :: [Monzingen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Kreuznach/cities~Kreuznach/Bad_Sobernheim/City/Monzingen.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Kreuznach/cities~Kreuznach/Bad_Sobernheim/City/Monzingen.private|Monzingen.private]] 
 
-### #is_/same_as :: [Monzingen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Kreuznach/cities~Kreuznach/Bad_Sobernheim/City/Monzingen.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Kreuznach/cities~Kreuznach/Bad_Sobernheim/City/Monzingen.personal|Monzingen.personal]] 
 
-### #is_/same_as :: [Monzingen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Kreuznach/cities~Kreuznach/Bad_Sobernheim/City/Monzingen.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Kreuznach/cities~Kreuznach/Bad_Sobernheim/City/Monzingen.secret|Monzingen.secret]] 
 

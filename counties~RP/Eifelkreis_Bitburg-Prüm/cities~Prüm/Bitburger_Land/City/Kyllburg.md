@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kyllburg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Eifelkreis_Bitburg-Prüm/cities~Prüm/Bitburger_Land/City/Kyllburg.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Eifelkreis_Bitburg-Prüm/cities~Prüm/Bitburger_Land/City/Kyllburg|Kyllburg]] 
 
-### #is_/same_as :: [Kyllburg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Eifelkreis_Bitburg-Prüm/cities~Prüm/Bitburger_Land/City/Kyllburg.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Eifelkreis_Bitburg-Prüm/cities~Prüm/Bitburger_Land/City/Kyllburg.public|Kyllburg.public]] 
 
-### #is_/same_as :: [Kyllburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Eifelkreis_Bitburg-Prüm/cities~Prüm/Bitburger_Land/City/Kyllburg.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Eifelkreis_Bitburg-Prüm/cities~Prüm/Bitburger_Land/City/Kyllburg.internal|Kyllburg.internal]] 
 
-### #is_/same_as :: [Kyllburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Eifelkreis_Bitburg-Prüm/cities~Prüm/Bitburger_Land/City/Kyllburg.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Eifelkreis_Bitburg-Prüm/cities~Prüm/Bitburger_Land/City/Kyllburg.protect|Kyllburg.protect]] 
 
-### #is_/same_as :: [Kyllburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Eifelkreis_Bitburg-Prüm/cities~Prüm/Bitburger_Land/City/Kyllburg.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Eifelkreis_Bitburg-Prüm/cities~Prüm/Bitburger_Land/City/Kyllburg.private|Kyllburg.private]] 
 
-### #is_/same_as :: [Kyllburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Eifelkreis_Bitburg-Prüm/cities~Prüm/Bitburger_Land/City/Kyllburg.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Eifelkreis_Bitburg-Prüm/cities~Prüm/Bitburger_Land/City/Kyllburg.personal|Kyllburg.personal]] 
 
-### #is_/same_as :: [Kyllburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Eifelkreis_Bitburg-Prüm/cities~Prüm/Bitburger_Land/City/Kyllburg.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Eifelkreis_Bitburg-Prüm/cities~Prüm/Bitburger_Land/City/Kyllburg.secret|Kyllburg.secret]] 
 

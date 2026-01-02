@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kaisersesch](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Cochem-Zell/cities~Cochem-Zell/Kaisersesch.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Cochem-Zell/cities~Cochem-Zell/Kaisersesch|Kaisersesch]] 
 
-### #is_/same_as :: [Kaisersesch.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Cochem-Zell/cities~Cochem-Zell/Kaisersesch.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Cochem-Zell/cities~Cochem-Zell/Kaisersesch.public|Kaisersesch.public]] 
 
-### #is_/same_as :: [Kaisersesch.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Cochem-Zell/cities~Cochem-Zell/Kaisersesch.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Cochem-Zell/cities~Cochem-Zell/Kaisersesch.internal|Kaisersesch.internal]] 
 
-### #is_/same_as :: [Kaisersesch.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Cochem-Zell/cities~Cochem-Zell/Kaisersesch.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Cochem-Zell/cities~Cochem-Zell/Kaisersesch.protect|Kaisersesch.protect]] 
 
-### #is_/same_as :: [Kaisersesch.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Cochem-Zell/cities~Cochem-Zell/Kaisersesch.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Cochem-Zell/cities~Cochem-Zell/Kaisersesch.private|Kaisersesch.private]] 
 
-### #is_/same_as :: [Kaisersesch.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Cochem-Zell/cities~Cochem-Zell/Kaisersesch.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Cochem-Zell/cities~Cochem-Zell/Kaisersesch.personal|Kaisersesch.personal]] 
 
-### #is_/same_as :: [Kaisersesch.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Cochem-Zell/cities~Cochem-Zell/Kaisersesch.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Cochem-Zell/cities~Cochem-Zell/Kaisersesch.secret|Kaisersesch.secret]] 
 

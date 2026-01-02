@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Marienfels](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Lahn-Kreis/cities~Rhein-Lahn-Kreis/Nastätten/City/Marienfels.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Lahn-Kreis/cities~Rhein-Lahn-Kreis/Nastätten/City/Marienfels|Marienfels]] 
 
-### #is_/same_as :: [Marienfels.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Lahn-Kreis/cities~Rhein-Lahn-Kreis/Nastätten/City/Marienfels.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Lahn-Kreis/cities~Rhein-Lahn-Kreis/Nastätten/City/Marienfels.public|Marienfels.public]] 
 
-### #is_/same_as :: [Marienfels.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Lahn-Kreis/cities~Rhein-Lahn-Kreis/Nastätten/City/Marienfels.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Lahn-Kreis/cities~Rhein-Lahn-Kreis/Nastätten/City/Marienfels.internal|Marienfels.internal]] 
 
-### #is_/same_as :: [Marienfels.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Lahn-Kreis/cities~Rhein-Lahn-Kreis/Nastätten/City/Marienfels.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Lahn-Kreis/cities~Rhein-Lahn-Kreis/Nastätten/City/Marienfels.protect|Marienfels.protect]] 
 
-### #is_/same_as :: [Marienfels.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Lahn-Kreis/cities~Rhein-Lahn-Kreis/Nastätten/City/Marienfels.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Lahn-Kreis/cities~Rhein-Lahn-Kreis/Nastätten/City/Marienfels.private|Marienfels.private]] 
 
-### #is_/same_as :: [Marienfels.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Lahn-Kreis/cities~Rhein-Lahn-Kreis/Nastätten/City/Marienfels.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Lahn-Kreis/cities~Rhein-Lahn-Kreis/Nastätten/City/Marienfels.personal|Marienfels.personal]] 
 
-### #is_/same_as :: [Marienfels.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Lahn-Kreis/cities~Rhein-Lahn-Kreis/Nastätten/City/Marienfels.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Lahn-Kreis/cities~Rhein-Lahn-Kreis/Nastätten/City/Marienfels.secret|Marienfels.secret]] 
 

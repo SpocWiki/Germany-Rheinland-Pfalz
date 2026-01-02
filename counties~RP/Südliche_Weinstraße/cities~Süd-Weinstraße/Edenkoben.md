@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Edenkoben](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Südliche_Weinstraße/cities~Süd-Weinstraße/Edenkoben.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Südliche_Weinstraße/cities~Süd-Weinstraße/Edenkoben|Edenkoben]] 
 
-### #is_/same_as :: [Edenkoben.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Südliche_Weinstraße/cities~Süd-Weinstraße/Edenkoben.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Südliche_Weinstraße/cities~Süd-Weinstraße/Edenkoben.public|Edenkoben.public]] 
 
-### #is_/same_as :: [Edenkoben.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Südliche_Weinstraße/cities~Süd-Weinstraße/Edenkoben.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Südliche_Weinstraße/cities~Süd-Weinstraße/Edenkoben.internal|Edenkoben.internal]] 
 
-### #is_/same_as :: [Edenkoben.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Südliche_Weinstraße/cities~Süd-Weinstraße/Edenkoben.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Südliche_Weinstraße/cities~Süd-Weinstraße/Edenkoben.protect|Edenkoben.protect]] 
 
-### #is_/same_as :: [Edenkoben.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Südliche_Weinstraße/cities~Süd-Weinstraße/Edenkoben.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Südliche_Weinstraße/cities~Süd-Weinstraße/Edenkoben.private|Edenkoben.private]] 
 
-### #is_/same_as :: [Edenkoben.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Südliche_Weinstraße/cities~Süd-Weinstraße/Edenkoben.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Südliche_Weinstraße/cities~Süd-Weinstraße/Edenkoben.personal|Edenkoben.personal]] 
 
-### #is_/same_as :: [Edenkoben.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Südliche_Weinstraße/cities~Süd-Weinstraße/Edenkoben.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Südliche_Weinstraße/cities~Süd-Weinstraße/Edenkoben.secret|Edenkoben.secret]] 
 

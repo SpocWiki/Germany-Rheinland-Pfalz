@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Saarburg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier-Saarburg/cities~Trier-Saarburg/Saarburg.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier-Saarburg/cities~Trier-Saarburg/Saarburg|Saarburg]] 
 
-### #is_/same_as :: [Saarburg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier-Saarburg/cities~Trier-Saarburg/Saarburg.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier-Saarburg/cities~Trier-Saarburg/Saarburg.public|Saarburg.public]] 
 
-### #is_/same_as :: [Saarburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier-Saarburg/cities~Trier-Saarburg/Saarburg.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier-Saarburg/cities~Trier-Saarburg/Saarburg.internal|Saarburg.internal]] 
 
-### #is_/same_as :: [Saarburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier-Saarburg/cities~Trier-Saarburg/Saarburg.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier-Saarburg/cities~Trier-Saarburg/Saarburg.protect|Saarburg.protect]] 
 
-### #is_/same_as :: [Saarburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier-Saarburg/cities~Trier-Saarburg/Saarburg.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier-Saarburg/cities~Trier-Saarburg/Saarburg.private|Saarburg.private]] 
 
-### #is_/same_as :: [Saarburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier-Saarburg/cities~Trier-Saarburg/Saarburg.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier-Saarburg/cities~Trier-Saarburg/Saarburg.personal|Saarburg.personal]] 
 
-### #is_/same_as :: [Saarburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier-Saarburg/cities~Trier-Saarburg/Saarburg.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier-Saarburg/cities~Trier-Saarburg/Saarburg.secret|Saarburg.secret]] 
 

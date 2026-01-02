@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dieblich](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mayen-Koblenz/cities~Mayen-Koblenz/Rhein-Mosel/City/Dieblich.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mayen-Koblenz/cities~Mayen-Koblenz/Rhein-Mosel/City/Dieblich|Dieblich]] 
 
-### #is_/same_as :: [Dieblich.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mayen-Koblenz/cities~Mayen-Koblenz/Rhein-Mosel/City/Dieblich.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mayen-Koblenz/cities~Mayen-Koblenz/Rhein-Mosel/City/Dieblich.public|Dieblich.public]] 
 
-### #is_/same_as :: [Dieblich.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mayen-Koblenz/cities~Mayen-Koblenz/Rhein-Mosel/City/Dieblich.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mayen-Koblenz/cities~Mayen-Koblenz/Rhein-Mosel/City/Dieblich.internal|Dieblich.internal]] 
 
-### #is_/same_as :: [Dieblich.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mayen-Koblenz/cities~Mayen-Koblenz/Rhein-Mosel/City/Dieblich.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mayen-Koblenz/cities~Mayen-Koblenz/Rhein-Mosel/City/Dieblich.protect|Dieblich.protect]] 
 
-### #is_/same_as :: [Dieblich.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mayen-Koblenz/cities~Mayen-Koblenz/Rhein-Mosel/City/Dieblich.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mayen-Koblenz/cities~Mayen-Koblenz/Rhein-Mosel/City/Dieblich.private|Dieblich.private]] 
 
-### #is_/same_as :: [Dieblich.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mayen-Koblenz/cities~Mayen-Koblenz/Rhein-Mosel/City/Dieblich.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mayen-Koblenz/cities~Mayen-Koblenz/Rhein-Mosel/City/Dieblich.personal|Dieblich.personal]] 
 
-### #is_/same_as :: [Dieblich.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mayen-Koblenz/cities~Mayen-Koblenz/Rhein-Mosel/City/Dieblich.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mayen-Koblenz/cities~Mayen-Koblenz/Rhein-Mosel/City/Dieblich.secret|Dieblich.secret]] 
 

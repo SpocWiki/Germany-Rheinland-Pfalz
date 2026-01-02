@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hirschfeld](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Hunsrück-Kreis/cities~Rhein-Hunsrück/Kirchberg~Hunsrück/City/Hirschfeld.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Hunsrück-Kreis/cities~Rhein-Hunsrück/Kirchberg~Hunsrück/City/Hirschfeld|Hirschfeld]] 
 
-### #is_/same_as :: [Hirschfeld.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Hunsrück-Kreis/cities~Rhein-Hunsrück/Kirchberg~Hunsrück/City/Hirschfeld.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Hunsrück-Kreis/cities~Rhein-Hunsrück/Kirchberg~Hunsrück/City/Hirschfeld.public|Hirschfeld.public]] 
 
-### #is_/same_as :: [Hirschfeld.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Hunsrück-Kreis/cities~Rhein-Hunsrück/Kirchberg~Hunsrück/City/Hirschfeld.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Hunsrück-Kreis/cities~Rhein-Hunsrück/Kirchberg~Hunsrück/City/Hirschfeld.internal|Hirschfeld.internal]] 
 
-### #is_/same_as :: [Hirschfeld.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Hunsrück-Kreis/cities~Rhein-Hunsrück/Kirchberg~Hunsrück/City/Hirschfeld.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Hunsrück-Kreis/cities~Rhein-Hunsrück/Kirchberg~Hunsrück/City/Hirschfeld.protect|Hirschfeld.protect]] 
 
-### #is_/same_as :: [Hirschfeld.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Hunsrück-Kreis/cities~Rhein-Hunsrück/Kirchberg~Hunsrück/City/Hirschfeld.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Hunsrück-Kreis/cities~Rhein-Hunsrück/Kirchberg~Hunsrück/City/Hirschfeld.private|Hirschfeld.private]] 
 
-### #is_/same_as :: [Hirschfeld.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Hunsrück-Kreis/cities~Rhein-Hunsrück/Kirchberg~Hunsrück/City/Hirschfeld.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Hunsrück-Kreis/cities~Rhein-Hunsrück/Kirchberg~Hunsrück/City/Hirschfeld.personal|Hirschfeld.personal]] 
 
-### #is_/same_as :: [Hirschfeld.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Hunsrück-Kreis/cities~Rhein-Hunsrück/Kirchberg~Hunsrück/City/Hirschfeld.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Hunsrück-Kreis/cities~Rhein-Hunsrück/Kirchberg~Hunsrück/City/Hirschfeld.secret|Hirschfeld.secret]] 
 

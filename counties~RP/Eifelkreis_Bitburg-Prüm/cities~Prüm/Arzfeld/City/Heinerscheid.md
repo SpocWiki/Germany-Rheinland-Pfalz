@@ -35,17 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Heinerscheid](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Eifelkreis_Bitburg-Prüm/cities~Prüm/Arzfeld/City/Heinerscheid.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Eifelkreis_Bitburg-Prüm/cities~Prüm/Arzfeld/City/Heinerscheid|Heinerscheid]] 
 
-### #is_/same_as :: [Heinerscheid.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Eifelkreis_Bitburg-Prüm/cities~Prüm/Arzfeld/City/Heinerscheid.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Eifelkreis_Bitburg-Prüm/cities~Prüm/Arzfeld/City/Heinerscheid.public|Heinerscheid.public]] 
 
-### #is_/same_as :: [Heinerscheid.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Eifelkreis_Bitburg-Prüm/cities~Prüm/Arzfeld/City/Heinerscheid.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Eifelkreis_Bitburg-Prüm/cities~Prüm/Arzfeld/City/Heinerscheid.internal|Heinerscheid.internal]] 
 
-### #is_/same_as :: [Heinerscheid.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Eifelkreis_Bitburg-Prüm/cities~Prüm/Arzfeld/City/Heinerscheid.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Eifelkreis_Bitburg-Prüm/cities~Prüm/Arzfeld/City/Heinerscheid.protect|Heinerscheid.protect]] 
 
-### #is_/same_as :: [Heinerscheid.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Eifelkreis_Bitburg-Prüm/cities~Prüm/Arzfeld/City/Heinerscheid.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Eifelkreis_Bitburg-Prüm/cities~Prüm/Arzfeld/City/Heinerscheid.private|Heinerscheid.private]] 
 
-### #is_/same_as :: [Heinerscheid.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Eifelkreis_Bitburg-Prüm/cities~Prüm/Arzfeld/City/Heinerscheid.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Eifelkreis_Bitburg-Prüm/cities~Prüm/Arzfeld/City/Heinerscheid.personal|Heinerscheid.personal]] 
 
-### #is_/same_as :: [Heinerscheid.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Eifelkreis_Bitburg-Prüm/cities~Prüm/Arzfeld/City/Heinerscheid.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Eifelkreis_Bitburg-Prüm/cities~Prüm/Arzfeld/City/Heinerscheid.secret|Heinerscheid.secret]] 
 

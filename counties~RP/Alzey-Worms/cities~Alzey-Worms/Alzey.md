@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Alzey](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Alzey-Worms/cities~Alzey-Worms/Alzey.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Alzey-Worms/cities~Alzey-Worms/Alzey|Alzey]] 
 
-### #is_/same_as :: [Alzey.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Alzey-Worms/cities~Alzey-Worms/Alzey.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Alzey-Worms/cities~Alzey-Worms/Alzey.public|Alzey.public]] 
 
-### #is_/same_as :: [Alzey.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Alzey-Worms/cities~Alzey-Worms/Alzey.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Alzey-Worms/cities~Alzey-Worms/Alzey.internal|Alzey.internal]] 
 
-### #is_/same_as :: [Alzey.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Alzey-Worms/cities~Alzey-Worms/Alzey.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Alzey-Worms/cities~Alzey-Worms/Alzey.protect|Alzey.protect]] 
 
-### #is_/same_as :: [Alzey.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Alzey-Worms/cities~Alzey-Worms/Alzey.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Alzey-Worms/cities~Alzey-Worms/Alzey.private|Alzey.private]] 
 
-### #is_/same_as :: [Alzey.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Alzey-Worms/cities~Alzey-Worms/Alzey.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Alzey-Worms/cities~Alzey-Worms/Alzey.personal|Alzey.personal]] 
 
-### #is_/same_as :: [Alzey.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Alzey-Worms/cities~Alzey-Worms/Alzey.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Alzey-Worms/cities~Alzey-Worms/Alzey.secret|Alzey.secret]] 
 

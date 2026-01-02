@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Weisenheim](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Dürkheim/cities~Dürkheim/Freinsheim/City/Weisenheim.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Dürkheim/cities~Dürkheim/Freinsheim/City/Weisenheim|Weisenheim]] 
 
-### #is_/same_as :: [Weisenheim.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Dürkheim/cities~Dürkheim/Freinsheim/City/Weisenheim.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Dürkheim/cities~Dürkheim/Freinsheim/City/Weisenheim.public|Weisenheim.public]] 
 
-### #is_/same_as :: [Weisenheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Dürkheim/cities~Dürkheim/Freinsheim/City/Weisenheim.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Dürkheim/cities~Dürkheim/Freinsheim/City/Weisenheim.internal|Weisenheim.internal]] 
 
-### #is_/same_as :: [Weisenheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Dürkheim/cities~Dürkheim/Freinsheim/City/Weisenheim.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Dürkheim/cities~Dürkheim/Freinsheim/City/Weisenheim.protect|Weisenheim.protect]] 
 
-### #is_/same_as :: [Weisenheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Dürkheim/cities~Dürkheim/Freinsheim/City/Weisenheim.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Dürkheim/cities~Dürkheim/Freinsheim/City/Weisenheim.private|Weisenheim.private]] 
 
-### #is_/same_as :: [Weisenheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Dürkheim/cities~Dürkheim/Freinsheim/City/Weisenheim.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Dürkheim/cities~Dürkheim/Freinsheim/City/Weisenheim.personal|Weisenheim.personal]] 
 
-### #is_/same_as :: [Weisenheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Dürkheim/cities~Dürkheim/Freinsheim/City/Weisenheim.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Dürkheim/cities~Dürkheim/Freinsheim/City/Weisenheim.secret|Weisenheim.secret]] 
 

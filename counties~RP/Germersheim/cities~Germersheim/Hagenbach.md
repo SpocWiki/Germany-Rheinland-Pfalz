@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hagenbach](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Germersheim/cities~Germersheim/Hagenbach.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Germersheim/cities~Germersheim/Hagenbach|Hagenbach]] 
 
-### #is_/same_as :: [Hagenbach.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Germersheim/cities~Germersheim/Hagenbach.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Germersheim/cities~Germersheim/Hagenbach.public|Hagenbach.public]] 
 
-### #is_/same_as :: [Hagenbach.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Germersheim/cities~Germersheim/Hagenbach.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Germersheim/cities~Germersheim/Hagenbach.internal|Hagenbach.internal]] 
 
-### #is_/same_as :: [Hagenbach.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Germersheim/cities~Germersheim/Hagenbach.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Germersheim/cities~Germersheim/Hagenbach.protect|Hagenbach.protect]] 
 
-### #is_/same_as :: [Hagenbach.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Germersheim/cities~Germersheim/Hagenbach.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Germersheim/cities~Germersheim/Hagenbach.private|Hagenbach.private]] 
 
-### #is_/same_as :: [Hagenbach.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Germersheim/cities~Germersheim/Hagenbach.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Germersheim/cities~Germersheim/Hagenbach.personal|Hagenbach.personal]] 
 
-### #is_/same_as :: [Hagenbach.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Germersheim/cities~Germersheim/Hagenbach.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Germersheim/cities~Germersheim/Hagenbach.secret|Hagenbach.secret]] 
 

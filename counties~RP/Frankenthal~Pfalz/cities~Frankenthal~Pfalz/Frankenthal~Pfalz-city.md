@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Frankenthal~Pfalz-city](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Frankenthal~Pfalz/cities~Frankenthal~Pfalz/Frankenthal~Pfalz-city.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Frankenthal~Pfalz/cities~Frankenthal~Pfalz/Frankenthal~Pfalz-city|Frankenthal~Pfalz-city]] 
 
-### #is_/same_as :: [Frankenthal~Pfalz-city.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Frankenthal~Pfalz/cities~Frankenthal~Pfalz/Frankenthal~Pfalz-city.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Frankenthal~Pfalz/cities~Frankenthal~Pfalz/Frankenthal~Pfalz-city.public|Frankenthal~Pfalz-city.public]] 
 
-### #is_/same_as :: [Frankenthal~Pfalz-city.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Frankenthal~Pfalz/cities~Frankenthal~Pfalz/Frankenthal~Pfalz-city.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Frankenthal~Pfalz/cities~Frankenthal~Pfalz/Frankenthal~Pfalz-city.internal|Frankenthal~Pfalz-city.internal]] 
 
-### #is_/same_as :: [Frankenthal~Pfalz-city.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Frankenthal~Pfalz/cities~Frankenthal~Pfalz/Frankenthal~Pfalz-city.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Frankenthal~Pfalz/cities~Frankenthal~Pfalz/Frankenthal~Pfalz-city.protect|Frankenthal~Pfalz-city.protect]] 
 
-### #is_/same_as :: [Frankenthal~Pfalz-city.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Frankenthal~Pfalz/cities~Frankenthal~Pfalz/Frankenthal~Pfalz-city.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Frankenthal~Pfalz/cities~Frankenthal~Pfalz/Frankenthal~Pfalz-city.private|Frankenthal~Pfalz-city.private]] 
 
-### #is_/same_as :: [Frankenthal~Pfalz-city.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Frankenthal~Pfalz/cities~Frankenthal~Pfalz/Frankenthal~Pfalz-city.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Frankenthal~Pfalz/cities~Frankenthal~Pfalz/Frankenthal~Pfalz-city.personal|Frankenthal~Pfalz-city.personal]] 
 
-### #is_/same_as :: [Frankenthal~Pfalz-city.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Frankenthal~Pfalz/cities~Frankenthal~Pfalz/Frankenthal~Pfalz-city.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Frankenthal~Pfalz/cities~Frankenthal~Pfalz/Frankenthal~Pfalz-city.secret|Frankenthal~Pfalz-city.secret]] 
 

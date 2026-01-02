@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kaub](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Lahn-Kreis/cities~Rhein-Lahn-Kreis/Loreley/City/Kaub.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Lahn-Kreis/cities~Rhein-Lahn-Kreis/Loreley/City/Kaub|Kaub]] 
 
-### #is_/same_as :: [Kaub.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Lahn-Kreis/cities~Rhein-Lahn-Kreis/Loreley/City/Kaub.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Lahn-Kreis/cities~Rhein-Lahn-Kreis/Loreley/City/Kaub.public|Kaub.public]] 
 
-### #is_/same_as :: [Kaub.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Lahn-Kreis/cities~Rhein-Lahn-Kreis/Loreley/City/Kaub.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Lahn-Kreis/cities~Rhein-Lahn-Kreis/Loreley/City/Kaub.internal|Kaub.internal]] 
 
-### #is_/same_as :: [Kaub.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Lahn-Kreis/cities~Rhein-Lahn-Kreis/Loreley/City/Kaub.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Lahn-Kreis/cities~Rhein-Lahn-Kreis/Loreley/City/Kaub.protect|Kaub.protect]] 
 
-### #is_/same_as :: [Kaub.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Lahn-Kreis/cities~Rhein-Lahn-Kreis/Loreley/City/Kaub.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Lahn-Kreis/cities~Rhein-Lahn-Kreis/Loreley/City/Kaub.private|Kaub.private]] 
 
-### #is_/same_as :: [Kaub.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Lahn-Kreis/cities~Rhein-Lahn-Kreis/Loreley/City/Kaub.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Lahn-Kreis/cities~Rhein-Lahn-Kreis/Loreley/City/Kaub.personal|Kaub.personal]] 
 
-### #is_/same_as :: [Kaub.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Lahn-Kreis/cities~Rhein-Lahn-Kreis/Loreley/City/Kaub.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Lahn-Kreis/cities~Rhein-Lahn-Kreis/Loreley/City/Kaub.secret|Kaub.secret]] 
 

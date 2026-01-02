@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dierdorf](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Hunsrück-Kreis/cities~Rhein-Hunsrück/St_Goar-Oberwesel/City/Dierdorf.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Hunsrück-Kreis/cities~Rhein-Hunsrück/St_Goar-Oberwesel/City/Dierdorf|Dierdorf]] 
 
-### #is_/same_as :: [Dierdorf.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Hunsrück-Kreis/cities~Rhein-Hunsrück/St_Goar-Oberwesel/City/Dierdorf.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Hunsrück-Kreis/cities~Rhein-Hunsrück/St_Goar-Oberwesel/City/Dierdorf.public|Dierdorf.public]] 
 
-### #is_/same_as :: [Dierdorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Hunsrück-Kreis/cities~Rhein-Hunsrück/St_Goar-Oberwesel/City/Dierdorf.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Hunsrück-Kreis/cities~Rhein-Hunsrück/St_Goar-Oberwesel/City/Dierdorf.internal|Dierdorf.internal]] 
 
-### #is_/same_as :: [Dierdorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Hunsrück-Kreis/cities~Rhein-Hunsrück/St_Goar-Oberwesel/City/Dierdorf.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Hunsrück-Kreis/cities~Rhein-Hunsrück/St_Goar-Oberwesel/City/Dierdorf.protect|Dierdorf.protect]] 
 
-### #is_/same_as :: [Dierdorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Hunsrück-Kreis/cities~Rhein-Hunsrück/St_Goar-Oberwesel/City/Dierdorf.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Hunsrück-Kreis/cities~Rhein-Hunsrück/St_Goar-Oberwesel/City/Dierdorf.private|Dierdorf.private]] 
 
-### #is_/same_as :: [Dierdorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Hunsrück-Kreis/cities~Rhein-Hunsrück/St_Goar-Oberwesel/City/Dierdorf.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Hunsrück-Kreis/cities~Rhein-Hunsrück/St_Goar-Oberwesel/City/Dierdorf.personal|Dierdorf.personal]] 
 
-### #is_/same_as :: [Dierdorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Hunsrück-Kreis/cities~Rhein-Hunsrück/St_Goar-Oberwesel/City/Dierdorf.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Hunsrück-Kreis/cities~Rhein-Hunsrück/St_Goar-Oberwesel/City/Dierdorf.secret|Dierdorf.secret]] 
 

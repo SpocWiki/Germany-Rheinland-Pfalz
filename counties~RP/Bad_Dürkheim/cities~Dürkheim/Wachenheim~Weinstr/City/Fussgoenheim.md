@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fussgoenheim](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Dürkheim/cities~Dürkheim/Wachenheim~Weinstr/City/Fussgoenheim.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Dürkheim/cities~Dürkheim/Wachenheim~Weinstr/City/Fussgoenheim|Fussgoenheim]] 
 
-### #is_/same_as :: [Fussgoenheim.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Dürkheim/cities~Dürkheim/Wachenheim~Weinstr/City/Fussgoenheim.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Dürkheim/cities~Dürkheim/Wachenheim~Weinstr/City/Fussgoenheim.public|Fussgoenheim.public]] 
 
-### #is_/same_as :: [Fussgoenheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Dürkheim/cities~Dürkheim/Wachenheim~Weinstr/City/Fussgoenheim.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Dürkheim/cities~Dürkheim/Wachenheim~Weinstr/City/Fussgoenheim.internal|Fussgoenheim.internal]] 
 
-### #is_/same_as :: [Fussgoenheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Dürkheim/cities~Dürkheim/Wachenheim~Weinstr/City/Fussgoenheim.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Dürkheim/cities~Dürkheim/Wachenheim~Weinstr/City/Fussgoenheim.protect|Fussgoenheim.protect]] 
 
-### #is_/same_as :: [Fussgoenheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Dürkheim/cities~Dürkheim/Wachenheim~Weinstr/City/Fussgoenheim.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Dürkheim/cities~Dürkheim/Wachenheim~Weinstr/City/Fussgoenheim.private|Fussgoenheim.private]] 
 
-### #is_/same_as :: [Fussgoenheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Dürkheim/cities~Dürkheim/Wachenheim~Weinstr/City/Fussgoenheim.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Dürkheim/cities~Dürkheim/Wachenheim~Weinstr/City/Fussgoenheim.personal|Fussgoenheim.personal]] 
 
-### #is_/same_as :: [Fussgoenheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Dürkheim/cities~Dürkheim/Wachenheim~Weinstr/City/Fussgoenheim.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Dürkheim/cities~Dürkheim/Wachenheim~Weinstr/City/Fussgoenheim.secret|Fussgoenheim.secret]] 
 

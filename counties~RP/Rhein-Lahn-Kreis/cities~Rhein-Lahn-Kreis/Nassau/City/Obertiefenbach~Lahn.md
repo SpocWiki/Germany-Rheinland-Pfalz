@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Obertiefenbach~Lahn](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Lahn-Kreis/cities~Rhein-Lahn-Kreis/Nassau/City/Obertiefenbach~Lahn.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Lahn-Kreis/cities~Rhein-Lahn-Kreis/Nassau/City/Obertiefenbach~Lahn|Obertiefenbach~Lahn]] 
 
-### #is_/same_as :: [Obertiefenbach~Lahn.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Lahn-Kreis/cities~Rhein-Lahn-Kreis/Nassau/City/Obertiefenbach~Lahn.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Lahn-Kreis/cities~Rhein-Lahn-Kreis/Nassau/City/Obertiefenbach~Lahn.public|Obertiefenbach~Lahn.public]] 
 
-### #is_/same_as :: [Obertiefenbach~Lahn.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Lahn-Kreis/cities~Rhein-Lahn-Kreis/Nassau/City/Obertiefenbach~Lahn.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Lahn-Kreis/cities~Rhein-Lahn-Kreis/Nassau/City/Obertiefenbach~Lahn.internal|Obertiefenbach~Lahn.internal]] 
 
-### #is_/same_as :: [Obertiefenbach~Lahn.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Lahn-Kreis/cities~Rhein-Lahn-Kreis/Nassau/City/Obertiefenbach~Lahn.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Lahn-Kreis/cities~Rhein-Lahn-Kreis/Nassau/City/Obertiefenbach~Lahn.protect|Obertiefenbach~Lahn.protect]] 
 
-### #is_/same_as :: [Obertiefenbach~Lahn.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Lahn-Kreis/cities~Rhein-Lahn-Kreis/Nassau/City/Obertiefenbach~Lahn.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Lahn-Kreis/cities~Rhein-Lahn-Kreis/Nassau/City/Obertiefenbach~Lahn.private|Obertiefenbach~Lahn.private]] 
 
-### #is_/same_as :: [Obertiefenbach~Lahn.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Lahn-Kreis/cities~Rhein-Lahn-Kreis/Nassau/City/Obertiefenbach~Lahn.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Lahn-Kreis/cities~Rhein-Lahn-Kreis/Nassau/City/Obertiefenbach~Lahn.personal|Obertiefenbach~Lahn.personal]] 
 
-### #is_/same_as :: [Obertiefenbach~Lahn.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Lahn-Kreis/cities~Rhein-Lahn-Kreis/Nassau/City/Obertiefenbach~Lahn.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Lahn-Kreis/cities~Rhein-Lahn-Kreis/Nassau/City/Obertiefenbach~Lahn.secret|Obertiefenbach~Lahn.secret]] 
 

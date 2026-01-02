@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Koenigsbach~Pfalz](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Dürkheim/cities~Dürkheim/Deidesheim/City/Koenigsbach~Pfalz.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Dürkheim/cities~Dürkheim/Deidesheim/City/Koenigsbach~Pfalz|Koenigsbach~Pfalz]] 
 
-### #is_/same_as :: [Koenigsbach~Pfalz.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Dürkheim/cities~Dürkheim/Deidesheim/City/Koenigsbach~Pfalz.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Dürkheim/cities~Dürkheim/Deidesheim/City/Koenigsbach~Pfalz.public|Koenigsbach~Pfalz.public]] 
 
-### #is_/same_as :: [Koenigsbach~Pfalz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Dürkheim/cities~Dürkheim/Deidesheim/City/Koenigsbach~Pfalz.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Dürkheim/cities~Dürkheim/Deidesheim/City/Koenigsbach~Pfalz.internal|Koenigsbach~Pfalz.internal]] 
 
-### #is_/same_as :: [Koenigsbach~Pfalz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Dürkheim/cities~Dürkheim/Deidesheim/City/Koenigsbach~Pfalz.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Dürkheim/cities~Dürkheim/Deidesheim/City/Koenigsbach~Pfalz.protect|Koenigsbach~Pfalz.protect]] 
 
-### #is_/same_as :: [Koenigsbach~Pfalz.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Dürkheim/cities~Dürkheim/Deidesheim/City/Koenigsbach~Pfalz.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Dürkheim/cities~Dürkheim/Deidesheim/City/Koenigsbach~Pfalz.private|Koenigsbach~Pfalz.private]] 
 
-### #is_/same_as :: [Koenigsbach~Pfalz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Dürkheim/cities~Dürkheim/Deidesheim/City/Koenigsbach~Pfalz.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Dürkheim/cities~Dürkheim/Deidesheim/City/Koenigsbach~Pfalz.personal|Koenigsbach~Pfalz.personal]] 
 
-### #is_/same_as :: [Koenigsbach~Pfalz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Dürkheim/cities~Dürkheim/Deidesheim/City/Koenigsbach~Pfalz.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bad_Dürkheim/cities~Dürkheim/Deidesheim/City/Koenigsbach~Pfalz.secret|Koenigsbach~Pfalz.secret]] 
 

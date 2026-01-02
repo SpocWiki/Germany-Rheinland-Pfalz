@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Doerscheid](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Lahn-Kreis/cities~Rhein-Lahn-Kreis/Loreley/City/Doerscheid.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Lahn-Kreis/cities~Rhein-Lahn-Kreis/Loreley/City/Doerscheid|Doerscheid]] 
 
-### #is_/same_as :: [Doerscheid.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Lahn-Kreis/cities~Rhein-Lahn-Kreis/Loreley/City/Doerscheid.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Lahn-Kreis/cities~Rhein-Lahn-Kreis/Loreley/City/Doerscheid.public|Doerscheid.public]] 
 
-### #is_/same_as :: [Doerscheid.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Lahn-Kreis/cities~Rhein-Lahn-Kreis/Loreley/City/Doerscheid.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Lahn-Kreis/cities~Rhein-Lahn-Kreis/Loreley/City/Doerscheid.internal|Doerscheid.internal]] 
 
-### #is_/same_as :: [Doerscheid.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Lahn-Kreis/cities~Rhein-Lahn-Kreis/Loreley/City/Doerscheid.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Lahn-Kreis/cities~Rhein-Lahn-Kreis/Loreley/City/Doerscheid.protect|Doerscheid.protect]] 
 
-### #is_/same_as :: [Doerscheid.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Lahn-Kreis/cities~Rhein-Lahn-Kreis/Loreley/City/Doerscheid.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Lahn-Kreis/cities~Rhein-Lahn-Kreis/Loreley/City/Doerscheid.private|Doerscheid.private]] 
 
-### #is_/same_as :: [Doerscheid.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Lahn-Kreis/cities~Rhein-Lahn-Kreis/Loreley/City/Doerscheid.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Lahn-Kreis/cities~Rhein-Lahn-Kreis/Loreley/City/Doerscheid.personal|Doerscheid.personal]] 
 
-### #is_/same_as :: [Doerscheid.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Lahn-Kreis/cities~Rhein-Lahn-Kreis/Loreley/City/Doerscheid.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Lahn-Kreis/cities~Rhein-Lahn-Kreis/Loreley/City/Doerscheid.secret|Doerscheid.secret]] 
 

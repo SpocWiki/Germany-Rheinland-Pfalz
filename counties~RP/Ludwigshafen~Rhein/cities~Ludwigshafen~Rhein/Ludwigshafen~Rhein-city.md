@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ludwigshafen~Rhein-city](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Ludwigshafen~Rhein/cities~Ludwigshafen~Rhein/Ludwigshafen~Rhein-city.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Ludwigshafen~Rhein/cities~Ludwigshafen~Rhein/Ludwigshafen~Rhein-city|Ludwigshafen~Rhein-city]] 
 
-### #is_/same_as :: [Ludwigshafen~Rhein-city.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Ludwigshafen~Rhein/cities~Ludwigshafen~Rhein/Ludwigshafen~Rhein-city.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Ludwigshafen~Rhein/cities~Ludwigshafen~Rhein/Ludwigshafen~Rhein-city.public|Ludwigshafen~Rhein-city.public]] 
 
-### #is_/same_as :: [Ludwigshafen~Rhein-city.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Ludwigshafen~Rhein/cities~Ludwigshafen~Rhein/Ludwigshafen~Rhein-city.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Ludwigshafen~Rhein/cities~Ludwigshafen~Rhein/Ludwigshafen~Rhein-city.internal|Ludwigshafen~Rhein-city.internal]] 
 
-### #is_/same_as :: [Ludwigshafen~Rhein-city.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Ludwigshafen~Rhein/cities~Ludwigshafen~Rhein/Ludwigshafen~Rhein-city.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Ludwigshafen~Rhein/cities~Ludwigshafen~Rhein/Ludwigshafen~Rhein-city.protect|Ludwigshafen~Rhein-city.protect]] 
 
-### #is_/same_as :: [Ludwigshafen~Rhein-city.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Ludwigshafen~Rhein/cities~Ludwigshafen~Rhein/Ludwigshafen~Rhein-city.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Ludwigshafen~Rhein/cities~Ludwigshafen~Rhein/Ludwigshafen~Rhein-city.private|Ludwigshafen~Rhein-city.private]] 
 
-### #is_/same_as :: [Ludwigshafen~Rhein-city.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Ludwigshafen~Rhein/cities~Ludwigshafen~Rhein/Ludwigshafen~Rhein-city.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Ludwigshafen~Rhein/cities~Ludwigshafen~Rhein/Ludwigshafen~Rhein-city.personal|Ludwigshafen~Rhein-city.personal]] 
 
-### #is_/same_as :: [Ludwigshafen~Rhein-city.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Ludwigshafen~Rhein/cities~Ludwigshafen~Rhein/Ludwigshafen~Rhein-city.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Ludwigshafen~Rhein/cities~Ludwigshafen~Rhein/Ludwigshafen~Rhein-city.secret|Ludwigshafen~Rhein-city.secret]] 
 

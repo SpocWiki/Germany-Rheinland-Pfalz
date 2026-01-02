@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Oberstein](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Birkenfeld/cities~Birkenfeld/Idar-Oberstein/City/Oberstein.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Birkenfeld/cities~Birkenfeld/Idar-Oberstein/City/Oberstein|Oberstein]] 
 
-### #is_/same_as :: [Oberstein.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Birkenfeld/cities~Birkenfeld/Idar-Oberstein/City/Oberstein.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Birkenfeld/cities~Birkenfeld/Idar-Oberstein/City/Oberstein.public|Oberstein.public]] 
 
-### #is_/same_as :: [Oberstein.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Birkenfeld/cities~Birkenfeld/Idar-Oberstein/City/Oberstein.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Birkenfeld/cities~Birkenfeld/Idar-Oberstein/City/Oberstein.internal|Oberstein.internal]] 
 
-### #is_/same_as :: [Oberstein.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Birkenfeld/cities~Birkenfeld/Idar-Oberstein/City/Oberstein.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Birkenfeld/cities~Birkenfeld/Idar-Oberstein/City/Oberstein.protect|Oberstein.protect]] 
 
-### #is_/same_as :: [Oberstein.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Birkenfeld/cities~Birkenfeld/Idar-Oberstein/City/Oberstein.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Birkenfeld/cities~Birkenfeld/Idar-Oberstein/City/Oberstein.private|Oberstein.private]] 
 
-### #is_/same_as :: [Oberstein.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Birkenfeld/cities~Birkenfeld/Idar-Oberstein/City/Oberstein.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Birkenfeld/cities~Birkenfeld/Idar-Oberstein/City/Oberstein.personal|Oberstein.personal]] 
 
-### #is_/same_as :: [Oberstein.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Birkenfeld/cities~Birkenfeld/Idar-Oberstein/City/Oberstein.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Birkenfeld/cities~Birkenfeld/Idar-Oberstein/City/Oberstein.secret|Oberstein.secret]] 
 

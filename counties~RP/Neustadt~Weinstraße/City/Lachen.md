@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lachen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Neustadt~Weinstraße/City/Lachen.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Neustadt~Weinstraße/City/Lachen|Lachen]] 
 
-### #is_/same_as :: [Lachen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Neustadt~Weinstraße/City/Lachen.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Neustadt~Weinstraße/City/Lachen.public|Lachen.public]] 
 
-### #is_/same_as :: [Lachen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Neustadt~Weinstraße/City/Lachen.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Neustadt~Weinstraße/City/Lachen.internal|Lachen.internal]] 
 
-### #is_/same_as :: [Lachen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Neustadt~Weinstraße/City/Lachen.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Neustadt~Weinstraße/City/Lachen.protect|Lachen.protect]] 
 
-### #is_/same_as :: [Lachen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Neustadt~Weinstraße/City/Lachen.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Neustadt~Weinstraße/City/Lachen.private|Lachen.private]] 
 
-### #is_/same_as :: [Lachen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Neustadt~Weinstraße/City/Lachen.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Neustadt~Weinstraße/City/Lachen.personal|Lachen.personal]] 
 
-### #is_/same_as :: [Lachen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Neustadt~Weinstraße/City/Lachen.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Neustadt~Weinstraße/City/Lachen.secret|Lachen.secret]] 
 

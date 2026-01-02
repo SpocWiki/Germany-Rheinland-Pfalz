@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Klingenmuenster](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Südliche_Weinstraße/cities~Süd-Weinstraße/Annweiler~Trifels/City/Klingenmuenster.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Südliche_Weinstraße/cities~Süd-Weinstraße/Annweiler~Trifels/City/Klingenmuenster|Klingenmuenster]] 
 
-### #is_/same_as :: [Klingenmuenster.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Südliche_Weinstraße/cities~Süd-Weinstraße/Annweiler~Trifels/City/Klingenmuenster.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Südliche_Weinstraße/cities~Süd-Weinstraße/Annweiler~Trifels/City/Klingenmuenster.public|Klingenmuenster.public]] 
 
-### #is_/same_as :: [Klingenmuenster.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Südliche_Weinstraße/cities~Süd-Weinstraße/Annweiler~Trifels/City/Klingenmuenster.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Südliche_Weinstraße/cities~Süd-Weinstraße/Annweiler~Trifels/City/Klingenmuenster.internal|Klingenmuenster.internal]] 
 
-### #is_/same_as :: [Klingenmuenster.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Südliche_Weinstraße/cities~Süd-Weinstraße/Annweiler~Trifels/City/Klingenmuenster.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Südliche_Weinstraße/cities~Süd-Weinstraße/Annweiler~Trifels/City/Klingenmuenster.protect|Klingenmuenster.protect]] 
 
-### #is_/same_as :: [Klingenmuenster.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Südliche_Weinstraße/cities~Süd-Weinstraße/Annweiler~Trifels/City/Klingenmuenster.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Südliche_Weinstraße/cities~Süd-Weinstraße/Annweiler~Trifels/City/Klingenmuenster.private|Klingenmuenster.private]] 
 
-### #is_/same_as :: [Klingenmuenster.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Südliche_Weinstraße/cities~Süd-Weinstraße/Annweiler~Trifels/City/Klingenmuenster.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Südliche_Weinstraße/cities~Süd-Weinstraße/Annweiler~Trifels/City/Klingenmuenster.personal|Klingenmuenster.personal]] 
 
-### #is_/same_as :: [Klingenmuenster.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Südliche_Weinstraße/cities~Süd-Weinstraße/Annweiler~Trifels/City/Klingenmuenster.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Südliche_Weinstraße/cities~Süd-Weinstraße/Annweiler~Trifels/City/Klingenmuenster.secret|Klingenmuenster.secret]] 
 

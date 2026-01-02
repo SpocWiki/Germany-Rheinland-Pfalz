@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Germersheim](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Germersheim/cities~Germersheim/Germersheim-city/City/Germersheim.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Germersheim/cities~Germersheim/Germersheim-city/City/Germersheim|Germersheim]] 
 
-### #is_/same_as :: [Germersheim.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Germersheim/cities~Germersheim/Germersheim-city/City/Germersheim.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Germersheim/cities~Germersheim/Germersheim-city/City/Germersheim.public|Germersheim.public]] 
 
-### #is_/same_as :: [Germersheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Germersheim/cities~Germersheim/Germersheim-city/City/Germersheim.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Germersheim/cities~Germersheim/Germersheim-city/City/Germersheim.internal|Germersheim.internal]] 
 
-### #is_/same_as :: [Germersheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Germersheim/cities~Germersheim/Germersheim-city/City/Germersheim.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Germersheim/cities~Germersheim/Germersheim-city/City/Germersheim.protect|Germersheim.protect]] 
 
-### #is_/same_as :: [Germersheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Germersheim/cities~Germersheim/Germersheim-city/City/Germersheim.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Germersheim/cities~Germersheim/Germersheim-city/City/Germersheim.private|Germersheim.private]] 
 
-### #is_/same_as :: [Germersheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Germersheim/cities~Germersheim/Germersheim-city/City/Germersheim.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Germersheim/cities~Germersheim/Germersheim-city/City/Germersheim.personal|Germersheim.personal]] 
 
-### #is_/same_as :: [Germersheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Germersheim/cities~Germersheim/Germersheim-city/City/Germersheim.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Germersheim/cities~Germersheim/Germersheim-city/City/Germersheim.secret|Germersheim.secret]] 
 

@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kastellaun](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Hunsrück-Kreis/cities~Rhein-Hunsrück/Kastellaun.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Hunsrück-Kreis/cities~Rhein-Hunsrück/Kastellaun|Kastellaun]] 
 
-### #is_/same_as :: [Kastellaun.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Hunsrück-Kreis/cities~Rhein-Hunsrück/Kastellaun.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Hunsrück-Kreis/cities~Rhein-Hunsrück/Kastellaun.public|Kastellaun.public]] 
 
-### #is_/same_as :: [Kastellaun.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Hunsrück-Kreis/cities~Rhein-Hunsrück/Kastellaun.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Hunsrück-Kreis/cities~Rhein-Hunsrück/Kastellaun.internal|Kastellaun.internal]] 
 
-### #is_/same_as :: [Kastellaun.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Hunsrück-Kreis/cities~Rhein-Hunsrück/Kastellaun.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Hunsrück-Kreis/cities~Rhein-Hunsrück/Kastellaun.protect|Kastellaun.protect]] 
 
-### #is_/same_as :: [Kastellaun.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Hunsrück-Kreis/cities~Rhein-Hunsrück/Kastellaun.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Hunsrück-Kreis/cities~Rhein-Hunsrück/Kastellaun.private|Kastellaun.private]] 
 
-### #is_/same_as :: [Kastellaun.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Hunsrück-Kreis/cities~Rhein-Hunsrück/Kastellaun.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Hunsrück-Kreis/cities~Rhein-Hunsrück/Kastellaun.personal|Kastellaun.personal]] 
 
-### #is_/same_as :: [Kastellaun.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Hunsrück-Kreis/cities~Rhein-Hunsrück/Kastellaun.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Hunsrück-Kreis/cities~Rhein-Hunsrück/Kastellaun.secret|Kastellaun.secret]] 
 

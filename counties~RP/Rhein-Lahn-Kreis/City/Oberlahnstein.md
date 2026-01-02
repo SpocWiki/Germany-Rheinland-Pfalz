@@ -36,17 +36,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Oberlahnstein](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Lahn-Kreis/City/Oberlahnstein.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Lahn-Kreis/City/Oberlahnstein|Oberlahnstein]] 
 
-### #is_/same_as :: [Oberlahnstein.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Lahn-Kreis/City/Oberlahnstein.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Lahn-Kreis/City/Oberlahnstein.public|Oberlahnstein.public]] 
 
-### #is_/same_as :: [Oberlahnstein.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Lahn-Kreis/City/Oberlahnstein.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Lahn-Kreis/City/Oberlahnstein.internal|Oberlahnstein.internal]] 
 
-### #is_/same_as :: [Oberlahnstein.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Lahn-Kreis/City/Oberlahnstein.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Lahn-Kreis/City/Oberlahnstein.protect|Oberlahnstein.protect]] 
 
-### #is_/same_as :: [Oberlahnstein.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Lahn-Kreis/City/Oberlahnstein.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Lahn-Kreis/City/Oberlahnstein.private|Oberlahnstein.private]] 
 
-### #is_/same_as :: [Oberlahnstein.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Lahn-Kreis/City/Oberlahnstein.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Lahn-Kreis/City/Oberlahnstein.personal|Oberlahnstein.personal]] 
 
-### #is_/same_as :: [Oberlahnstein.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Lahn-Kreis/City/Oberlahnstein.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Lahn-Kreis/City/Oberlahnstein.secret|Oberlahnstein.secret]] 
 

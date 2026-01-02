@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kruft](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mayen-Koblenz/cities~Mayen-Koblenz/Pellenz/City/Kruft.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mayen-Koblenz/cities~Mayen-Koblenz/Pellenz/City/Kruft|Kruft]] 
 
-### #is_/same_as :: [Kruft.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mayen-Koblenz/cities~Mayen-Koblenz/Pellenz/City/Kruft.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mayen-Koblenz/cities~Mayen-Koblenz/Pellenz/City/Kruft.public|Kruft.public]] 
 
-### #is_/same_as :: [Kruft.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mayen-Koblenz/cities~Mayen-Koblenz/Pellenz/City/Kruft.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mayen-Koblenz/cities~Mayen-Koblenz/Pellenz/City/Kruft.internal|Kruft.internal]] 
 
-### #is_/same_as :: [Kruft.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mayen-Koblenz/cities~Mayen-Koblenz/Pellenz/City/Kruft.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mayen-Koblenz/cities~Mayen-Koblenz/Pellenz/City/Kruft.protect|Kruft.protect]] 
 
-### #is_/same_as :: [Kruft.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mayen-Koblenz/cities~Mayen-Koblenz/Pellenz/City/Kruft.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mayen-Koblenz/cities~Mayen-Koblenz/Pellenz/City/Kruft.private|Kruft.private]] 
 
-### #is_/same_as :: [Kruft.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mayen-Koblenz/cities~Mayen-Koblenz/Pellenz/City/Kruft.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mayen-Koblenz/cities~Mayen-Koblenz/Pellenz/City/Kruft.personal|Kruft.personal]] 
 
-### #is_/same_as :: [Kruft.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mayen-Koblenz/cities~Mayen-Koblenz/Pellenz/City/Kruft.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Mayen-Koblenz/cities~Mayen-Koblenz/Pellenz/City/Kruft.secret|Kruft.secret]] 
 

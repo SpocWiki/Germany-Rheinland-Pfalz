@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hofkopf](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Birkenfeld/cities~Birkenfeld/Idar-Oberstein/City/Hofkopf.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Birkenfeld/cities~Birkenfeld/Idar-Oberstein/City/Hofkopf|Hofkopf]] 
 
-### #is_/same_as :: [Hofkopf.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Birkenfeld/cities~Birkenfeld/Idar-Oberstein/City/Hofkopf.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Birkenfeld/cities~Birkenfeld/Idar-Oberstein/City/Hofkopf.public|Hofkopf.public]] 
 
-### #is_/same_as :: [Hofkopf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Birkenfeld/cities~Birkenfeld/Idar-Oberstein/City/Hofkopf.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Birkenfeld/cities~Birkenfeld/Idar-Oberstein/City/Hofkopf.internal|Hofkopf.internal]] 
 
-### #is_/same_as :: [Hofkopf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Birkenfeld/cities~Birkenfeld/Idar-Oberstein/City/Hofkopf.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Birkenfeld/cities~Birkenfeld/Idar-Oberstein/City/Hofkopf.protect|Hofkopf.protect]] 
 
-### #is_/same_as :: [Hofkopf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Birkenfeld/cities~Birkenfeld/Idar-Oberstein/City/Hofkopf.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Birkenfeld/cities~Birkenfeld/Idar-Oberstein/City/Hofkopf.private|Hofkopf.private]] 
 
-### #is_/same_as :: [Hofkopf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Birkenfeld/cities~Birkenfeld/Idar-Oberstein/City/Hofkopf.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Birkenfeld/cities~Birkenfeld/Idar-Oberstein/City/Hofkopf.personal|Hofkopf.personal]] 
 
-### #is_/same_as :: [Hofkopf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Birkenfeld/cities~Birkenfeld/Idar-Oberstein/City/Hofkopf.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Birkenfeld/cities~Birkenfeld/Idar-Oberstein/City/Hofkopf.secret|Hofkopf.secret]] 
 

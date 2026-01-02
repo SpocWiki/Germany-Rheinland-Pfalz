@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Obererbach](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Altenkirchen~Westerwald/cities~Altenkirchen~Ww/Obererbach.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Altenkirchen~Westerwald/cities~Altenkirchen~Ww/Obererbach|Obererbach]] 
 
-### #is_/same_as :: [Obererbach.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Altenkirchen~Westerwald/cities~Altenkirchen~Ww/Obererbach.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Altenkirchen~Westerwald/cities~Altenkirchen~Ww/Obererbach.public|Obererbach.public]] 
 
-### #is_/same_as :: [Obererbach.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Altenkirchen~Westerwald/cities~Altenkirchen~Ww/Obererbach.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Altenkirchen~Westerwald/cities~Altenkirchen~Ww/Obererbach.internal|Obererbach.internal]] 
 
-### #is_/same_as :: [Obererbach.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Altenkirchen~Westerwald/cities~Altenkirchen~Ww/Obererbach.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Altenkirchen~Westerwald/cities~Altenkirchen~Ww/Obererbach.protect|Obererbach.protect]] 
 
-### #is_/same_as :: [Obererbach.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Altenkirchen~Westerwald/cities~Altenkirchen~Ww/Obererbach.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Altenkirchen~Westerwald/cities~Altenkirchen~Ww/Obererbach.private|Obererbach.private]] 
 
-### #is_/same_as :: [Obererbach.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Altenkirchen~Westerwald/cities~Altenkirchen~Ww/Obererbach.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Altenkirchen~Westerwald/cities~Altenkirchen~Ww/Obererbach.personal|Obererbach.personal]] 
 
-### #is_/same_as :: [Obererbach.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Altenkirchen~Westerwald/cities~Altenkirchen~Ww/Obererbach.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Altenkirchen~Westerwald/cities~Altenkirchen~Ww/Obererbach.secret|Obererbach.secret]] 
 

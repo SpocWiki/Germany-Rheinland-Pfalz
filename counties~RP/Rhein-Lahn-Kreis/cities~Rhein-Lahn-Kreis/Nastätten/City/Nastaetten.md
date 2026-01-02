@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nastaetten](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Lahn-Kreis/cities~Rhein-Lahn-Kreis/Nastätten/City/Nastaetten.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Lahn-Kreis/cities~Rhein-Lahn-Kreis/Nastätten/City/Nastaetten|Nastaetten]] 
 
-### #is_/same_as :: [Nastaetten.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Lahn-Kreis/cities~Rhein-Lahn-Kreis/Nastätten/City/Nastaetten.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Lahn-Kreis/cities~Rhein-Lahn-Kreis/Nastätten/City/Nastaetten.public|Nastaetten.public]] 
 
-### #is_/same_as :: [Nastaetten.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Lahn-Kreis/cities~Rhein-Lahn-Kreis/Nastätten/City/Nastaetten.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Lahn-Kreis/cities~Rhein-Lahn-Kreis/Nastätten/City/Nastaetten.internal|Nastaetten.internal]] 
 
-### #is_/same_as :: [Nastaetten.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Lahn-Kreis/cities~Rhein-Lahn-Kreis/Nastätten/City/Nastaetten.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Lahn-Kreis/cities~Rhein-Lahn-Kreis/Nastätten/City/Nastaetten.protect|Nastaetten.protect]] 
 
-### #is_/same_as :: [Nastaetten.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Lahn-Kreis/cities~Rhein-Lahn-Kreis/Nastätten/City/Nastaetten.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Lahn-Kreis/cities~Rhein-Lahn-Kreis/Nastätten/City/Nastaetten.private|Nastaetten.private]] 
 
-### #is_/same_as :: [Nastaetten.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Lahn-Kreis/cities~Rhein-Lahn-Kreis/Nastätten/City/Nastaetten.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Lahn-Kreis/cities~Rhein-Lahn-Kreis/Nastätten/City/Nastaetten.personal|Nastaetten.personal]] 
 
-### #is_/same_as :: [Nastaetten.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Lahn-Kreis/cities~Rhein-Lahn-Kreis/Nastätten/City/Nastaetten.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Lahn-Kreis/cities~Rhein-Lahn-Kreis/Nastätten/City/Nastaetten.secret|Nastaetten.secret]] 
 

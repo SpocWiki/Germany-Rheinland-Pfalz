@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Oggersheim](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Ludwigshafen~Rhein/cities~Ludwigshafen~Rhein/Oggersheim.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Ludwigshafen~Rhein/cities~Ludwigshafen~Rhein/Oggersheim|Oggersheim]] 
 
-### #is_/same_as :: [Oggersheim.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Ludwigshafen~Rhein/cities~Ludwigshafen~Rhein/Oggersheim.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Ludwigshafen~Rhein/cities~Ludwigshafen~Rhein/Oggersheim.public|Oggersheim.public]] 
 
-### #is_/same_as :: [Oggersheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Ludwigshafen~Rhein/cities~Ludwigshafen~Rhein/Oggersheim.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Ludwigshafen~Rhein/cities~Ludwigshafen~Rhein/Oggersheim.internal|Oggersheim.internal]] 
 
-### #is_/same_as :: [Oggersheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Ludwigshafen~Rhein/cities~Ludwigshafen~Rhein/Oggersheim.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Ludwigshafen~Rhein/cities~Ludwigshafen~Rhein/Oggersheim.protect|Oggersheim.protect]] 
 
-### #is_/same_as :: [Oggersheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Ludwigshafen~Rhein/cities~Ludwigshafen~Rhein/Oggersheim.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Ludwigshafen~Rhein/cities~Ludwigshafen~Rhein/Oggersheim.private|Oggersheim.private]] 
 
-### #is_/same_as :: [Oggersheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Ludwigshafen~Rhein/cities~Ludwigshafen~Rhein/Oggersheim.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Ludwigshafen~Rhein/cities~Ludwigshafen~Rhein/Oggersheim.personal|Oggersheim.personal]] 
 
-### #is_/same_as :: [Oggersheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Ludwigshafen~Rhein/cities~Ludwigshafen~Rhein/Oggersheim.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Ludwigshafen~Rhein/cities~Ludwigshafen~Rhein/Oggersheim.secret|Oggersheim.secret]] 
 

@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sinzig](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Ahrweiler/cities~Ahrweiler/Sinzig.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Ahrweiler/cities~Ahrweiler/Sinzig|Sinzig]] 
 
-### #is_/same_as :: [Sinzig.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Ahrweiler/cities~Ahrweiler/Sinzig.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Ahrweiler/cities~Ahrweiler/Sinzig.public|Sinzig.public]] 
 
-### #is_/same_as :: [Sinzig.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Ahrweiler/cities~Ahrweiler/Sinzig.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Ahrweiler/cities~Ahrweiler/Sinzig.internal|Sinzig.internal]] 
 
-### #is_/same_as :: [Sinzig.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Ahrweiler/cities~Ahrweiler/Sinzig.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Ahrweiler/cities~Ahrweiler/Sinzig.protect|Sinzig.protect]] 
 
-### #is_/same_as :: [Sinzig.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Ahrweiler/cities~Ahrweiler/Sinzig.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Ahrweiler/cities~Ahrweiler/Sinzig.private|Sinzig.private]] 
 
-### #is_/same_as :: [Sinzig.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Ahrweiler/cities~Ahrweiler/Sinzig.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Ahrweiler/cities~Ahrweiler/Sinzig.personal|Sinzig.personal]] 
 
-### #is_/same_as :: [Sinzig.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Ahrweiler/cities~Ahrweiler/Sinzig.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Ahrweiler/cities~Ahrweiler/Sinzig.secret|Sinzig.secret]] 
 

@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Serrig](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier-Saarburg/cities~Trier-Saarburg/Saarburg/City/Serrig.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier-Saarburg/cities~Trier-Saarburg/Saarburg/City/Serrig|Serrig]] 
 
-### #is_/same_as :: [Serrig.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier-Saarburg/cities~Trier-Saarburg/Saarburg/City/Serrig.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier-Saarburg/cities~Trier-Saarburg/Saarburg/City/Serrig.public|Serrig.public]] 
 
-### #is_/same_as :: [Serrig.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier-Saarburg/cities~Trier-Saarburg/Saarburg/City/Serrig.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier-Saarburg/cities~Trier-Saarburg/Saarburg/City/Serrig.internal|Serrig.internal]] 
 
-### #is_/same_as :: [Serrig.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier-Saarburg/cities~Trier-Saarburg/Saarburg/City/Serrig.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier-Saarburg/cities~Trier-Saarburg/Saarburg/City/Serrig.protect|Serrig.protect]] 
 
-### #is_/same_as :: [Serrig.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier-Saarburg/cities~Trier-Saarburg/Saarburg/City/Serrig.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier-Saarburg/cities~Trier-Saarburg/Saarburg/City/Serrig.private|Serrig.private]] 
 
-### #is_/same_as :: [Serrig.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier-Saarburg/cities~Trier-Saarburg/Saarburg/City/Serrig.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier-Saarburg/cities~Trier-Saarburg/Saarburg/City/Serrig.personal|Serrig.personal]] 
 
-### #is_/same_as :: [Serrig.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier-Saarburg/cities~Trier-Saarburg/Saarburg/City/Serrig.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Trier-Saarburg/cities~Trier-Saarburg/Saarburg/City/Serrig.secret|Serrig.secret]] 
 

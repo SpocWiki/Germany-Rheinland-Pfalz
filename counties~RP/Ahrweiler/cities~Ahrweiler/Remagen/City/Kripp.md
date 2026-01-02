@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kripp](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Ahrweiler/cities~Ahrweiler/Remagen/City/Kripp.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Ahrweiler/cities~Ahrweiler/Remagen/City/Kripp|Kripp]] 
 
-### #is_/same_as :: [Kripp.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Ahrweiler/cities~Ahrweiler/Remagen/City/Kripp.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Ahrweiler/cities~Ahrweiler/Remagen/City/Kripp.public|Kripp.public]] 
 
-### #is_/same_as :: [Kripp.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Ahrweiler/cities~Ahrweiler/Remagen/City/Kripp.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Ahrweiler/cities~Ahrweiler/Remagen/City/Kripp.internal|Kripp.internal]] 
 
-### #is_/same_as :: [Kripp.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Ahrweiler/cities~Ahrweiler/Remagen/City/Kripp.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Ahrweiler/cities~Ahrweiler/Remagen/City/Kripp.protect|Kripp.protect]] 
 
-### #is_/same_as :: [Kripp.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Ahrweiler/cities~Ahrweiler/Remagen/City/Kripp.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Ahrweiler/cities~Ahrweiler/Remagen/City/Kripp.private|Kripp.private]] 
 
-### #is_/same_as :: [Kripp.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Ahrweiler/cities~Ahrweiler/Remagen/City/Kripp.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Ahrweiler/cities~Ahrweiler/Remagen/City/Kripp.personal|Kripp.personal]] 
 
-### #is_/same_as :: [Kripp.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Ahrweiler/cities~Ahrweiler/Remagen/City/Kripp.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Ahrweiler/cities~Ahrweiler/Remagen/City/Kripp.secret|Kripp.secret]] 
 

@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Herxheim](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Südliche_Weinstraße/cities~Süd-Weinstraße/Edenkoben/City/Herxheim.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Südliche_Weinstraße/cities~Süd-Weinstraße/Edenkoben/City/Herxheim|Herxheim]] 
 
-### #is_/same_as :: [Herxheim.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Südliche_Weinstraße/cities~Süd-Weinstraße/Edenkoben/City/Herxheim.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Südliche_Weinstraße/cities~Süd-Weinstraße/Edenkoben/City/Herxheim.public|Herxheim.public]] 
 
-### #is_/same_as :: [Herxheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Südliche_Weinstraße/cities~Süd-Weinstraße/Edenkoben/City/Herxheim.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Südliche_Weinstraße/cities~Süd-Weinstraße/Edenkoben/City/Herxheim.internal|Herxheim.internal]] 
 
-### #is_/same_as :: [Herxheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Südliche_Weinstraße/cities~Süd-Weinstraße/Edenkoben/City/Herxheim.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Südliche_Weinstraße/cities~Süd-Weinstraße/Edenkoben/City/Herxheim.protect|Herxheim.protect]] 
 
-### #is_/same_as :: [Herxheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Südliche_Weinstraße/cities~Süd-Weinstraße/Edenkoben/City/Herxheim.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Südliche_Weinstraße/cities~Süd-Weinstraße/Edenkoben/City/Herxheim.private|Herxheim.private]] 
 
-### #is_/same_as :: [Herxheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Südliche_Weinstraße/cities~Süd-Weinstraße/Edenkoben/City/Herxheim.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Südliche_Weinstraße/cities~Süd-Weinstraße/Edenkoben/City/Herxheim.personal|Herxheim.personal]] 
 
-### #is_/same_as :: [Herxheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Südliche_Weinstraße/cities~Süd-Weinstraße/Edenkoben/City/Herxheim.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Südliche_Weinstraße/cities~Süd-Weinstraße/Edenkoben/City/Herxheim.secret|Herxheim.secret]] 
 

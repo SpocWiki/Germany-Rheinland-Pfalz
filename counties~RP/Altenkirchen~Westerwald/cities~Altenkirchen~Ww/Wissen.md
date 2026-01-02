@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Wissen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Altenkirchen~Westerwald/cities~Altenkirchen~Ww/Wissen.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Altenkirchen~Westerwald/cities~Altenkirchen~Ww/Wissen|Wissen]] 
 
-### #is_/same_as :: [Wissen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Altenkirchen~Westerwald/cities~Altenkirchen~Ww/Wissen.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Altenkirchen~Westerwald/cities~Altenkirchen~Ww/Wissen.public|Wissen.public]] 
 
-### #is_/same_as :: [Wissen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Altenkirchen~Westerwald/cities~Altenkirchen~Ww/Wissen.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Altenkirchen~Westerwald/cities~Altenkirchen~Ww/Wissen.internal|Wissen.internal]] 
 
-### #is_/same_as :: [Wissen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Altenkirchen~Westerwald/cities~Altenkirchen~Ww/Wissen.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Altenkirchen~Westerwald/cities~Altenkirchen~Ww/Wissen.protect|Wissen.protect]] 
 
-### #is_/same_as :: [Wissen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Altenkirchen~Westerwald/cities~Altenkirchen~Ww/Wissen.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Altenkirchen~Westerwald/cities~Altenkirchen~Ww/Wissen.private|Wissen.private]] 
 
-### #is_/same_as :: [Wissen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Altenkirchen~Westerwald/cities~Altenkirchen~Ww/Wissen.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Altenkirchen~Westerwald/cities~Altenkirchen~Ww/Wissen.personal|Wissen.personal]] 
 
-### #is_/same_as :: [Wissen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Altenkirchen~Westerwald/cities~Altenkirchen~Ww/Wissen.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Altenkirchen~Westerwald/cities~Altenkirchen~Ww/Wissen.secret|Wissen.secret]] 
 

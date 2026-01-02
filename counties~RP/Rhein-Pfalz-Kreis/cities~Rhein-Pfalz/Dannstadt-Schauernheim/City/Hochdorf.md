@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hochdorf](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Pfalz-Kreis/cities~Rhein-Pfalz/Dannstadt-Schauernheim/City/Hochdorf.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Pfalz-Kreis/cities~Rhein-Pfalz/Dannstadt-Schauernheim/City/Hochdorf|Hochdorf]] 
 
-### #is_/same_as :: [Hochdorf.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Pfalz-Kreis/cities~Rhein-Pfalz/Dannstadt-Schauernheim/City/Hochdorf.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Pfalz-Kreis/cities~Rhein-Pfalz/Dannstadt-Schauernheim/City/Hochdorf.public|Hochdorf.public]] 
 
-### #is_/same_as :: [Hochdorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Pfalz-Kreis/cities~Rhein-Pfalz/Dannstadt-Schauernheim/City/Hochdorf.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Pfalz-Kreis/cities~Rhein-Pfalz/Dannstadt-Schauernheim/City/Hochdorf.internal|Hochdorf.internal]] 
 
-### #is_/same_as :: [Hochdorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Pfalz-Kreis/cities~Rhein-Pfalz/Dannstadt-Schauernheim/City/Hochdorf.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Pfalz-Kreis/cities~Rhein-Pfalz/Dannstadt-Schauernheim/City/Hochdorf.protect|Hochdorf.protect]] 
 
-### #is_/same_as :: [Hochdorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Pfalz-Kreis/cities~Rhein-Pfalz/Dannstadt-Schauernheim/City/Hochdorf.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Pfalz-Kreis/cities~Rhein-Pfalz/Dannstadt-Schauernheim/City/Hochdorf.private|Hochdorf.private]] 
 
-### #is_/same_as :: [Hochdorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Pfalz-Kreis/cities~Rhein-Pfalz/Dannstadt-Schauernheim/City/Hochdorf.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Pfalz-Kreis/cities~Rhein-Pfalz/Dannstadt-Schauernheim/City/Hochdorf.personal|Hochdorf.personal]] 
 
-### #is_/same_as :: [Hochdorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Pfalz-Kreis/cities~Rhein-Pfalz/Dannstadt-Schauernheim/City/Hochdorf.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Pfalz-Kreis/cities~Rhein-Pfalz/Dannstadt-Schauernheim/City/Hochdorf.secret|Hochdorf.secret]] 
 

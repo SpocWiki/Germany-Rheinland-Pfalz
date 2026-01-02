@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Boppard](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Hunsrück-Kreis/cities~Rhein-Hunsrück/Boppard.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Hunsrück-Kreis/cities~Rhein-Hunsrück/Boppard|Boppard]] 
 
-### #is_/same_as :: [Boppard.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Hunsrück-Kreis/cities~Rhein-Hunsrück/Boppard.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Hunsrück-Kreis/cities~Rhein-Hunsrück/Boppard.public|Boppard.public]] 
 
-### #is_/same_as :: [Boppard.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Hunsrück-Kreis/cities~Rhein-Hunsrück/Boppard.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Hunsrück-Kreis/cities~Rhein-Hunsrück/Boppard.internal|Boppard.internal]] 
 
-### #is_/same_as :: [Boppard.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Hunsrück-Kreis/cities~Rhein-Hunsrück/Boppard.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Hunsrück-Kreis/cities~Rhein-Hunsrück/Boppard.protect|Boppard.protect]] 
 
-### #is_/same_as :: [Boppard.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Hunsrück-Kreis/cities~Rhein-Hunsrück/Boppard.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Hunsrück-Kreis/cities~Rhein-Hunsrück/Boppard.private|Boppard.private]] 
 
-### #is_/same_as :: [Boppard.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Hunsrück-Kreis/cities~Rhein-Hunsrück/Boppard.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Hunsrück-Kreis/cities~Rhein-Hunsrück/Boppard.personal|Boppard.personal]] 
 
-### #is_/same_as :: [Boppard.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Hunsrück-Kreis/cities~Rhein-Hunsrück/Boppard.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Rhein-Hunsrück-Kreis/cities~Rhein-Hunsrück/Boppard.secret|Boppard.secret]] 
 

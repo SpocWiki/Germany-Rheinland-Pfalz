@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Zeltingen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bernkastel-Wittlich/cities~Bernkastel-Wittlich/Bernkastel-Kues/City/Zeltingen.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bernkastel-Wittlich/cities~Bernkastel-Wittlich/Bernkastel-Kues/City/Zeltingen|Zeltingen]] 
 
-### #is_/same_as :: [Zeltingen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bernkastel-Wittlich/cities~Bernkastel-Wittlich/Bernkastel-Kues/City/Zeltingen.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bernkastel-Wittlich/cities~Bernkastel-Wittlich/Bernkastel-Kues/City/Zeltingen.public|Zeltingen.public]] 
 
-### #is_/same_as :: [Zeltingen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bernkastel-Wittlich/cities~Bernkastel-Wittlich/Bernkastel-Kues/City/Zeltingen.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bernkastel-Wittlich/cities~Bernkastel-Wittlich/Bernkastel-Kues/City/Zeltingen.internal|Zeltingen.internal]] 
 
-### #is_/same_as :: [Zeltingen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bernkastel-Wittlich/cities~Bernkastel-Wittlich/Bernkastel-Kues/City/Zeltingen.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bernkastel-Wittlich/cities~Bernkastel-Wittlich/Bernkastel-Kues/City/Zeltingen.protect|Zeltingen.protect]] 
 
-### #is_/same_as :: [Zeltingen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bernkastel-Wittlich/cities~Bernkastel-Wittlich/Bernkastel-Kues/City/Zeltingen.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bernkastel-Wittlich/cities~Bernkastel-Wittlich/Bernkastel-Kues/City/Zeltingen.private|Zeltingen.private]] 
 
-### #is_/same_as :: [Zeltingen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bernkastel-Wittlich/cities~Bernkastel-Wittlich/Bernkastel-Kues/City/Zeltingen.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bernkastel-Wittlich/cities~Bernkastel-Wittlich/Bernkastel-Kues/City/Zeltingen.personal|Zeltingen.personal]] 
 
-### #is_/same_as :: [Zeltingen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bernkastel-Wittlich/cities~Bernkastel-Wittlich/Bernkastel-Kues/City/Zeltingen.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bernkastel-Wittlich/cities~Bernkastel-Wittlich/Bernkastel-Kues/City/Zeltingen.secret|Zeltingen.secret]] 
 

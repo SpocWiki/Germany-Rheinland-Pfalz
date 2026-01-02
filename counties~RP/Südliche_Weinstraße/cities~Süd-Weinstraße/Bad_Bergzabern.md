@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bad_Bergzabern](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Südliche_Weinstraße/cities~Süd-Weinstraße/Bad_Bergzabern.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Südliche_Weinstraße/cities~Süd-Weinstraße/Bad_Bergzabern|Bad_Bergzabern]] 
 
-### #is_/same_as :: [Bad_Bergzabern.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Südliche_Weinstraße/cities~Süd-Weinstraße/Bad_Bergzabern.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Südliche_Weinstraße/cities~Süd-Weinstraße/Bad_Bergzabern.public|Bad_Bergzabern.public]] 
 
-### #is_/same_as :: [Bad_Bergzabern.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Südliche_Weinstraße/cities~Süd-Weinstraße/Bad_Bergzabern.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Südliche_Weinstraße/cities~Süd-Weinstraße/Bad_Bergzabern.internal|Bad_Bergzabern.internal]] 
 
-### #is_/same_as :: [Bad_Bergzabern.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Südliche_Weinstraße/cities~Süd-Weinstraße/Bad_Bergzabern.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Südliche_Weinstraße/cities~Süd-Weinstraße/Bad_Bergzabern.protect|Bad_Bergzabern.protect]] 
 
-### #is_/same_as :: [Bad_Bergzabern.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Südliche_Weinstraße/cities~Süd-Weinstraße/Bad_Bergzabern.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Südliche_Weinstraße/cities~Süd-Weinstraße/Bad_Bergzabern.private|Bad_Bergzabern.private]] 
 
-### #is_/same_as :: [Bad_Bergzabern.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Südliche_Weinstraße/cities~Süd-Weinstraße/Bad_Bergzabern.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Südliche_Weinstraße/cities~Süd-Weinstraße/Bad_Bergzabern.personal|Bad_Bergzabern.personal]] 
 
-### #is_/same_as :: [Bad_Bergzabern.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Südliche_Weinstraße/cities~Süd-Weinstraße/Bad_Bergzabern.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Südliche_Weinstraße/cities~Süd-Weinstraße/Bad_Bergzabern.secret|Bad_Bergzabern.secret]] 
 

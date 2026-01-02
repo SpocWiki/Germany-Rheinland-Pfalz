@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hamm~Sieg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Altenkirchen~Westerwald/cities~Altenkirchen~Ww/Wissen/City/Hamm~Sieg.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Altenkirchen~Westerwald/cities~Altenkirchen~Ww/Wissen/City/Hamm~Sieg|Hamm~Sieg]] 
 
-### #is_/same_as :: [Hamm~Sieg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Altenkirchen~Westerwald/cities~Altenkirchen~Ww/Wissen/City/Hamm~Sieg.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Altenkirchen~Westerwald/cities~Altenkirchen~Ww/Wissen/City/Hamm~Sieg.public|Hamm~Sieg.public]] 
 
-### #is_/same_as :: [Hamm~Sieg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Altenkirchen~Westerwald/cities~Altenkirchen~Ww/Wissen/City/Hamm~Sieg.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Altenkirchen~Westerwald/cities~Altenkirchen~Ww/Wissen/City/Hamm~Sieg.internal|Hamm~Sieg.internal]] 
 
-### #is_/same_as :: [Hamm~Sieg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Altenkirchen~Westerwald/cities~Altenkirchen~Ww/Wissen/City/Hamm~Sieg.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Altenkirchen~Westerwald/cities~Altenkirchen~Ww/Wissen/City/Hamm~Sieg.protect|Hamm~Sieg.protect]] 
 
-### #is_/same_as :: [Hamm~Sieg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Altenkirchen~Westerwald/cities~Altenkirchen~Ww/Wissen/City/Hamm~Sieg.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Altenkirchen~Westerwald/cities~Altenkirchen~Ww/Wissen/City/Hamm~Sieg.private|Hamm~Sieg.private]] 
 
-### #is_/same_as :: [Hamm~Sieg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Altenkirchen~Westerwald/cities~Altenkirchen~Ww/Wissen/City/Hamm~Sieg.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Altenkirchen~Westerwald/cities~Altenkirchen~Ww/Wissen/City/Hamm~Sieg.personal|Hamm~Sieg.personal]] 
 
-### #is_/same_as :: [Hamm~Sieg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Altenkirchen~Westerwald/cities~Altenkirchen~Ww/Wissen/City/Hamm~Sieg.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Altenkirchen~Westerwald/cities~Altenkirchen~Ww/Wissen/City/Hamm~Sieg.secret|Hamm~Sieg.secret]] 
 

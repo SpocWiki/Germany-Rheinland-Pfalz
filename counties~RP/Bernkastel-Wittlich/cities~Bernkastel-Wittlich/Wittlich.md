@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Wittlich](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bernkastel-Wittlich/cities~Bernkastel-Wittlich/Wittlich.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bernkastel-Wittlich/cities~Bernkastel-Wittlich/Wittlich|Wittlich]] 
 
-### #is_/same_as :: [Wittlich.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bernkastel-Wittlich/cities~Bernkastel-Wittlich/Wittlich.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bernkastel-Wittlich/cities~Bernkastel-Wittlich/Wittlich.public|Wittlich.public]] 
 
-### #is_/same_as :: [Wittlich.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bernkastel-Wittlich/cities~Bernkastel-Wittlich/Wittlich.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bernkastel-Wittlich/cities~Bernkastel-Wittlich/Wittlich.internal|Wittlich.internal]] 
 
-### #is_/same_as :: [Wittlich.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bernkastel-Wittlich/cities~Bernkastel-Wittlich/Wittlich.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bernkastel-Wittlich/cities~Bernkastel-Wittlich/Wittlich.protect|Wittlich.protect]] 
 
-### #is_/same_as :: [Wittlich.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bernkastel-Wittlich/cities~Bernkastel-Wittlich/Wittlich.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bernkastel-Wittlich/cities~Bernkastel-Wittlich/Wittlich.private|Wittlich.private]] 
 
-### #is_/same_as :: [Wittlich.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bernkastel-Wittlich/cities~Bernkastel-Wittlich/Wittlich.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bernkastel-Wittlich/cities~Bernkastel-Wittlich/Wittlich.personal|Wittlich.personal]] 
 
-### #is_/same_as :: [Wittlich.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bernkastel-Wittlich/cities~Bernkastel-Wittlich/Wittlich.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Bernkastel-Wittlich/cities~Bernkastel-Wittlich/Wittlich.secret|Wittlich.secret]] 
 

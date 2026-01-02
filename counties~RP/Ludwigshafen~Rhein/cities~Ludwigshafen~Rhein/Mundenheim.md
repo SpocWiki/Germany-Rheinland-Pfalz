@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mundenheim](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Ludwigshafen~Rhein/cities~Ludwigshafen~Rhein/Mundenheim.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Ludwigshafen~Rhein/cities~Ludwigshafen~Rhein/Mundenheim|Mundenheim]] 
 
-### #is_/same_as :: [Mundenheim.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Ludwigshafen~Rhein/cities~Ludwigshafen~Rhein/Mundenheim.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Ludwigshafen~Rhein/cities~Ludwigshafen~Rhein/Mundenheim.public|Mundenheim.public]] 
 
-### #is_/same_as :: [Mundenheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Ludwigshafen~Rhein/cities~Ludwigshafen~Rhein/Mundenheim.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Ludwigshafen~Rhein/cities~Ludwigshafen~Rhein/Mundenheim.internal|Mundenheim.internal]] 
 
-### #is_/same_as :: [Mundenheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Ludwigshafen~Rhein/cities~Ludwigshafen~Rhein/Mundenheim.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Ludwigshafen~Rhein/cities~Ludwigshafen~Rhein/Mundenheim.protect|Mundenheim.protect]] 
 
-### #is_/same_as :: [Mundenheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Ludwigshafen~Rhein/cities~Ludwigshafen~Rhein/Mundenheim.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Ludwigshafen~Rhein/cities~Ludwigshafen~Rhein/Mundenheim.private|Mundenheim.private]] 
 
-### #is_/same_as :: [Mundenheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Ludwigshafen~Rhein/cities~Ludwigshafen~Rhein/Mundenheim.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Ludwigshafen~Rhein/cities~Ludwigshafen~Rhein/Mundenheim.personal|Mundenheim.personal]] 
 
-### #is_/same_as :: [Mundenheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Ludwigshafen~Rhein/cities~Ludwigshafen~Rhein/Mundenheim.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Ludwigshafen~Rhein/cities~Ludwigshafen~Rhein/Mundenheim.secret|Mundenheim.secret]] 
 

@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Neustadt~Weinstrasse](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Neustadt~Weinstraße/City/Neustadt~Weinstrasse.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Neustadt~Weinstraße/City/Neustadt~Weinstrasse|Neustadt~Weinstrasse]] 
 
-### #is_/same_as :: [Neustadt~Weinstrasse.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Neustadt~Weinstraße/City/Neustadt~Weinstrasse.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Neustadt~Weinstraße/City/Neustadt~Weinstrasse.public|Neustadt~Weinstrasse.public]] 
 
-### #is_/same_as :: [Neustadt~Weinstrasse.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Neustadt~Weinstraße/City/Neustadt~Weinstrasse.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Neustadt~Weinstraße/City/Neustadt~Weinstrasse.internal|Neustadt~Weinstrasse.internal]] 
 
-### #is_/same_as :: [Neustadt~Weinstrasse.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Neustadt~Weinstraße/City/Neustadt~Weinstrasse.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Neustadt~Weinstraße/City/Neustadt~Weinstrasse.protect|Neustadt~Weinstrasse.protect]] 
 
-### #is_/same_as :: [Neustadt~Weinstrasse.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Neustadt~Weinstraße/City/Neustadt~Weinstrasse.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Neustadt~Weinstraße/City/Neustadt~Weinstrasse.private|Neustadt~Weinstrasse.private]] 
 
-### #is_/same_as :: [Neustadt~Weinstrasse.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Neustadt~Weinstraße/City/Neustadt~Weinstrasse.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Neustadt~Weinstraße/City/Neustadt~Weinstrasse.personal|Neustadt~Weinstrasse.personal]] 
 
-### #is_/same_as :: [Neustadt~Weinstrasse.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Neustadt~Weinstraße/City/Neustadt~Weinstrasse.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Neustadt~Weinstraße/City/Neustadt~Weinstrasse.secret|Neustadt~Weinstrasse.secret]] 
 

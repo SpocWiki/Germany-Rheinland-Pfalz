@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Birkenfeld](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Birkenfeld/cities~Birkenfeld/Birkenfeld-city/City/Birkenfeld.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Birkenfeld/cities~Birkenfeld/Birkenfeld-city/City/Birkenfeld|Birkenfeld]] 
 
-### #is_/same_as :: [Birkenfeld.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Birkenfeld/cities~Birkenfeld/Birkenfeld-city/City/Birkenfeld.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Birkenfeld/cities~Birkenfeld/Birkenfeld-city/City/Birkenfeld.public|Birkenfeld.public]] 
 
-### #is_/same_as :: [Birkenfeld.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Birkenfeld/cities~Birkenfeld/Birkenfeld-city/City/Birkenfeld.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Birkenfeld/cities~Birkenfeld/Birkenfeld-city/City/Birkenfeld.internal|Birkenfeld.internal]] 
 
-### #is_/same_as :: [Birkenfeld.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Birkenfeld/cities~Birkenfeld/Birkenfeld-city/City/Birkenfeld.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Birkenfeld/cities~Birkenfeld/Birkenfeld-city/City/Birkenfeld.protect|Birkenfeld.protect]] 
 
-### #is_/same_as :: [Birkenfeld.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Birkenfeld/cities~Birkenfeld/Birkenfeld-city/City/Birkenfeld.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Birkenfeld/cities~Birkenfeld/Birkenfeld-city/City/Birkenfeld.private|Birkenfeld.private]] 
 
-### #is_/same_as :: [Birkenfeld.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Birkenfeld/cities~Birkenfeld/Birkenfeld-city/City/Birkenfeld.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Birkenfeld/cities~Birkenfeld/Birkenfeld-city/City/Birkenfeld.personal|Birkenfeld.personal]] 
 
-### #is_/same_as :: [Birkenfeld.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Birkenfeld/cities~Birkenfeld/Birkenfeld-city/City/Birkenfeld.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Birkenfeld/cities~Birkenfeld/Birkenfeld-city/City/Birkenfeld.secret|Birkenfeld.secret]] 
 

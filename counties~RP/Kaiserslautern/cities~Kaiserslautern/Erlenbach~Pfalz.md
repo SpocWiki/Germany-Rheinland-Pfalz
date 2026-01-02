@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Erlenbach~Pfalz](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Kaiserslautern/cities~Kaiserslautern/Erlenbach~Pfalz.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Kaiserslautern/cities~Kaiserslautern/Erlenbach~Pfalz|Erlenbach~Pfalz]] 
 
-### #is_/same_as :: [Erlenbach~Pfalz.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Kaiserslautern/cities~Kaiserslautern/Erlenbach~Pfalz.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Kaiserslautern/cities~Kaiserslautern/Erlenbach~Pfalz.public|Erlenbach~Pfalz.public]] 
 
-### #is_/same_as :: [Erlenbach~Pfalz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Kaiserslautern/cities~Kaiserslautern/Erlenbach~Pfalz.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Kaiserslautern/cities~Kaiserslautern/Erlenbach~Pfalz.internal|Erlenbach~Pfalz.internal]] 
 
-### #is_/same_as :: [Erlenbach~Pfalz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Kaiserslautern/cities~Kaiserslautern/Erlenbach~Pfalz.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Kaiserslautern/cities~Kaiserslautern/Erlenbach~Pfalz.protect|Erlenbach~Pfalz.protect]] 
 
-### #is_/same_as :: [Erlenbach~Pfalz.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Kaiserslautern/cities~Kaiserslautern/Erlenbach~Pfalz.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Kaiserslautern/cities~Kaiserslautern/Erlenbach~Pfalz.private|Erlenbach~Pfalz.private]] 
 
-### #is_/same_as :: [Erlenbach~Pfalz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Kaiserslautern/cities~Kaiserslautern/Erlenbach~Pfalz.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Kaiserslautern/cities~Kaiserslautern/Erlenbach~Pfalz.personal|Erlenbach~Pfalz.personal]] 
 
-### #is_/same_as :: [Erlenbach~Pfalz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Kaiserslautern/cities~Kaiserslautern/Erlenbach~Pfalz.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Kaiserslautern/cities~Kaiserslautern/Erlenbach~Pfalz.secret|Erlenbach~Pfalz.secret]] 
 

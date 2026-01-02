@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kochem](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Cochem-Zell/cities~Cochem-Zell/Cochem/City/Kochem.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Cochem-Zell/cities~Cochem-Zell/Cochem/City/Kochem|Kochem]] 
 
-### #is_/same_as :: [Kochem.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Cochem-Zell/cities~Cochem-Zell/Cochem/City/Kochem.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Cochem-Zell/cities~Cochem-Zell/Cochem/City/Kochem.public|Kochem.public]] 
 
-### #is_/same_as :: [Kochem.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Cochem-Zell/cities~Cochem-Zell/Cochem/City/Kochem.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Cochem-Zell/cities~Cochem-Zell/Cochem/City/Kochem.internal|Kochem.internal]] 
 
-### #is_/same_as :: [Kochem.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Cochem-Zell/cities~Cochem-Zell/Cochem/City/Kochem.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Cochem-Zell/cities~Cochem-Zell/Cochem/City/Kochem.protect|Kochem.protect]] 
 
-### #is_/same_as :: [Kochem.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Cochem-Zell/cities~Cochem-Zell/Cochem/City/Kochem.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Cochem-Zell/cities~Cochem-Zell/Cochem/City/Kochem.private|Kochem.private]] 
 
-### #is_/same_as :: [Kochem.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Cochem-Zell/cities~Cochem-Zell/Cochem/City/Kochem.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Cochem-Zell/cities~Cochem-Zell/Cochem/City/Kochem.personal|Kochem.personal]] 
 
-### #is_/same_as :: [Kochem.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Cochem-Zell/cities~Cochem-Zell/Cochem/City/Kochem.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Cochem-Zell/cities~Cochem-Zell/Cochem/City/Kochem.secret|Kochem.secret]] 
 

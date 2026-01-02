@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mogendorf](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Westerwaldkreis/cities~Westerwaldkreis/Wirges/City/Mogendorf.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Westerwaldkreis/cities~Westerwaldkreis/Wirges/City/Mogendorf|Mogendorf]] 
 
-### #is_/same_as :: [Mogendorf.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Westerwaldkreis/cities~Westerwaldkreis/Wirges/City/Mogendorf.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Westerwaldkreis/cities~Westerwaldkreis/Wirges/City/Mogendorf.public|Mogendorf.public]] 
 
-### #is_/same_as :: [Mogendorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Westerwaldkreis/cities~Westerwaldkreis/Wirges/City/Mogendorf.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Westerwaldkreis/cities~Westerwaldkreis/Wirges/City/Mogendorf.internal|Mogendorf.internal]] 
 
-### #is_/same_as :: [Mogendorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Westerwaldkreis/cities~Westerwaldkreis/Wirges/City/Mogendorf.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Westerwaldkreis/cities~Westerwaldkreis/Wirges/City/Mogendorf.protect|Mogendorf.protect]] 
 
-### #is_/same_as :: [Mogendorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Westerwaldkreis/cities~Westerwaldkreis/Wirges/City/Mogendorf.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Westerwaldkreis/cities~Westerwaldkreis/Wirges/City/Mogendorf.private|Mogendorf.private]] 
 
-### #is_/same_as :: [Mogendorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Westerwaldkreis/cities~Westerwaldkreis/Wirges/City/Mogendorf.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Westerwaldkreis/cities~Westerwaldkreis/Wirges/City/Mogendorf.personal|Mogendorf.personal]] 
 
-### #is_/same_as :: [Mogendorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Westerwaldkreis/cities~Westerwaldkreis/Wirges/City/Mogendorf.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Westerwaldkreis/cities~Westerwaldkreis/Wirges/City/Mogendorf.secret|Mogendorf.secret]] 
 

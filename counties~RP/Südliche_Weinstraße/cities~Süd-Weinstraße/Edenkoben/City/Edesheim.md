@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Edesheim](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Südliche_Weinstraße/cities~Süd-Weinstraße/Edenkoben/City/Edesheim.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Südliche_Weinstraße/cities~Süd-Weinstraße/Edenkoben/City/Edesheim|Edesheim]] 
 
-### #is_/same_as :: [Edesheim.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Südliche_Weinstraße/cities~Süd-Weinstraße/Edenkoben/City/Edesheim.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Südliche_Weinstraße/cities~Süd-Weinstraße/Edenkoben/City/Edesheim.public|Edesheim.public]] 
 
-### #is_/same_as :: [Edesheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Südliche_Weinstraße/cities~Süd-Weinstraße/Edenkoben/City/Edesheim.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Südliche_Weinstraße/cities~Süd-Weinstraße/Edenkoben/City/Edesheim.internal|Edesheim.internal]] 
 
-### #is_/same_as :: [Edesheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Südliche_Weinstraße/cities~Süd-Weinstraße/Edenkoben/City/Edesheim.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Südliche_Weinstraße/cities~Süd-Weinstraße/Edenkoben/City/Edesheim.protect|Edesheim.protect]] 
 
-### #is_/same_as :: [Edesheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Südliche_Weinstraße/cities~Süd-Weinstraße/Edenkoben/City/Edesheim.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Südliche_Weinstraße/cities~Süd-Weinstraße/Edenkoben/City/Edesheim.private|Edesheim.private]] 
 
-### #is_/same_as :: [Edesheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Südliche_Weinstraße/cities~Süd-Weinstraße/Edenkoben/City/Edesheim.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Südliche_Weinstraße/cities~Süd-Weinstraße/Edenkoben/City/Edesheim.personal|Edesheim.personal]] 
 
-### #is_/same_as :: [Edesheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Südliche_Weinstraße/cities~Süd-Weinstraße/Edenkoben/City/Edesheim.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz/counties~RP/Südliche_Weinstraße/cities~Süd-Weinstraße/Edenkoben/City/Edesheim.secret|Edesheim.secret]] 
 
