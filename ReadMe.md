@@ -201,8 +201,10 @@ markerFolder: ./
 
 has_place_country:: [[Germany]]  
 Capital :: [[Mainz]]  
-#is_a_/Place  
-#is_a_ :: [[Place]] 
+
+
+
+#is_a :: [[City]]
 [has_place_longitude::7.57652] 
 [has_place_latitude::49.914] 
 [Population::] 

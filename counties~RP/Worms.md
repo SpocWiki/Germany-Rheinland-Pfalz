@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-#is_a_/Place  
-#is_a_ :: [[Place]] 
+
+
+
+#is_a :: [[City]]
 [has_place_longitude::8.36] 
 [has_place_latitude::49.63] 
 [name::Worms] 

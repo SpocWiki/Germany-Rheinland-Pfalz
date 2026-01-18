@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-#is_a_/Place  
-#is_a_ :: [[Place]] 
+
+
+
+#is_a :: [[City]]
 [has_place_longitude::7.48] 
 [has_place_latitude::49.97] 
 [name::Nannhausen] 
