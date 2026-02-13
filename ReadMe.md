@@ -1,6 +1,8 @@
 ---
 has_id_wikidata: Q1200
-location: [49.914,7.57652] 
+location:
+- 49.914
+- 7.57652
 type: State
 ISO3166-2: DE-RP
 SpocWebEntityId: 36021
@@ -8,78 +10,77 @@ isDeleted: false
 Confidential: public
 tags:
 - geo/State
-
-head of government: "[[_Standards/db/Malu Dreyer]]"
-legislative body: "[[_Standards/db/Landtag of Rhineland-Palatinate]]"
-highest point: "[[_Standards/db/Erbeskopf]]"
+head of government: '[[_Standards/db/Malu Dreyer]]'
+legislative body: '[[_Standards/db/Landtag of Rhineland-Palatinate]]'
+highest point: '[[_Standards/db/Erbeskopf]]'
 contains the administrative territorial entity:
-  - "[[_Standards/db/Rheinhessen-Pfalz]]"
-  - "[[_Standards/db/Trier Government Region]]"
-  - "[[_Standards/db/Koblenz Government Region]]"
-  - "[[_Standards/db/Montabaur Government Region]]"
-  - "[[_Standards/db/Q2137712]]"
-  - "[[_Standards/db/Rheinhessen Government Region]]"
-  - "[[_Standards/db/Mainz]]"
-  - "[[_Standards/db/Ludwigshafen]]"
-  - "[[_Standards/db/Koblenz]]"
-  - "[[_Standards/db/Trier]]"
-  - "[[_Standards/db/Kaiserslautern]]"
-  - "[[_Standards/db/Worms]]"
-  - "[[_Standards/db/Neustadt an der Weinstraße]]"
-  - "[[_Standards/db/Speyer]]"
-  - "[[_Standards/db/Frankenthal]]"
-  - "[[_Standards/db/Landau in der Pfalz]]"
-  - "[[_Standards/db/Germersheim]]"
-  - "[[_Standards/db/Südliche Weinstraße]]"
-  - "[[_Standards/db/Rhein-Pfalz]]"
-  - "[[_Standards/db/Südwestpfalz]]"
-  - "[[_Standards/db/Kaiserslautern]]"
-  - "[[_Standards/db/Bad Dürkheim (district)]]"
-  - "[[_Standards/db/Kusel]]"
-  - "[[_Standards/db/Alzey-Worms]]"
-  - "[[_Standards/db/Donnersbergkreis]]"
-  - "[[_Standards/db/Mainz-Bingen]]"
-  - "[[_Standards/db/Rhein-Hunsrück-Kreis]]"
-  - "[[_Standards/db/Birkenfeld]]"
-  - "[[_Standards/db/Bad Kreuznach]]"
-  - "[[_Standards/db/Trier-Saarburg]]"
-  - "[[_Standards/db/Vulkaneifel]]"
-  - "[[_Standards/db/Eifelkreis Bitburg-Prüm]]"
-  - "[[_Standards/db/Bernkastel-Wittlich]]"
-  - "[[_Standards/db/Cochem-Zell]]"
-  - "[[_Standards/db/Mayen-Koblenz]]"
-  - "[[_Standards/db/Ahrweiler]]"
-  - "[[_Standards/db/Westerwaldkreis]]"
-  - "[[_Standards/db/Rhein-Lahn-Kreis]]"
-  - "[[_Standards/db/Neuwied]]"
-  - "[[_Standards/db/Altenkirchen district]]"
-  - "[[_Standards/db/Pirmasens]]"
-  - "[[_Standards/db/Zweibrücken]]"
-coat of arms: "[[_Standards/db/coat of arms of Rhineland-Palatinate]]"
-lowest point: "[[_Standards/db/Nonnenwerth]]"
-flag: "[[_Standards/db/flag of Rhineland-Palatinate]]"
-instance of: "[[_Standards/db/federated state of Germany]]"
-archives at: "[[_Standards/db/Landeshauptarchiv Koblenz]]"
-history of topic: "[[_Standards/db/history of Rhineland-Palatinate]]"
-highest judicial authority: "[[_Standards/db/Constitutional Court of Rhineland-Palatinate]]"
-described by source: "[[_Standards/db/Armenian Soviet Encyclopedia]]"
-topic's main Wikimedia portal: "[[_Standards/db/Portal:Rhineland-Palatinate]]"
-office held by head of government: "[[_Standards/db/Minister-President of Rhineland-Palatinate]]"
-category for honorary citizens of entity: "[[_Standards/db/Q19473381]]"
+- '[[_Standards/db/Rheinhessen-Pfalz]]'
+- '[[_Standards/db/Trier Government Region]]'
+- '[[_Standards/db/Koblenz Government Region]]'
+- '[[_Standards/db/Montabaur Government Region]]'
+- '[[_Standards/db/Q2137712]]'
+- '[[_Standards/db/Rheinhessen Government Region]]'
+- '[[_Standards/db/Mainz]]'
+- '[[_Standards/db/Ludwigshafen]]'
+- '[[_Standards/db/Koblenz]]'
+- '[[_Standards/db/Trier]]'
+- '[[_Standards/db/Kaiserslautern]]'
+- '[[_Standards/db/Worms]]'
+- '[[_Standards/db/Neustadt an der Weinstraße]]'
+- '[[_Standards/db/Speyer]]'
+- '[[_Standards/db/Frankenthal]]'
+- '[[_Standards/db/Landau in der Pfalz]]'
+- '[[_Standards/db/Germersheim]]'
+- '[[_Standards/db/Südliche Weinstraße]]'
+- '[[_Standards/db/Rhein-Pfalz]]'
+- '[[_Standards/db/Südwestpfalz]]'
+- '[[_Standards/db/Kaiserslautern]]'
+- '[[_Standards/db/Bad Dürkheim (district)]]'
+- '[[_Standards/db/Kusel]]'
+- '[[_Standards/db/Alzey-Worms]]'
+- '[[_Standards/db/Donnersbergkreis]]'
+- '[[_Standards/db/Mainz-Bingen]]'
+- '[[_Standards/db/Rhein-Hunsrück-Kreis]]'
+- '[[_Standards/db/Birkenfeld]]'
+- '[[_Standards/db/Bad Kreuznach]]'
+- '[[_Standards/db/Trier-Saarburg]]'
+- '[[_Standards/db/Vulkaneifel]]'
+- '[[_Standards/db/Eifelkreis Bitburg-Prüm]]'
+- '[[_Standards/db/Bernkastel-Wittlich]]'
+- '[[_Standards/db/Cochem-Zell]]'
+- '[[_Standards/db/Mayen-Koblenz]]'
+- '[[_Standards/db/Ahrweiler]]'
+- '[[_Standards/db/Westerwaldkreis]]'
+- '[[_Standards/db/Rhein-Lahn-Kreis]]'
+- '[[_Standards/db/Neuwied]]'
+- '[[_Standards/db/Altenkirchen district]]'
+- '[[_Standards/db/Pirmasens]]'
+- '[[_Standards/db/Zweibrücken]]'
+coat of arms: '[[_Standards/db/coat of arms of Rhineland-Palatinate]]'
+lowest point: '[[_Standards/db/Nonnenwerth]]'
+flag: '[[_Standards/db/flag of Rhineland-Palatinate]]'
+instance of: '[[_Standards/db/federated state of Germany]]'
+archives at: '[[_Standards/db/Landeshauptarchiv Koblenz]]'
+history of topic: '[[_Standards/db/history of Rhineland-Palatinate]]'
+highest judicial authority: '[[_Standards/db/Constitutional Court of Rhineland-Palatinate]]'
+described by source: '[[_Standards/db/Armenian Soviet Encyclopedia]]'
+topic's main Wikimedia portal: '[[_Standards/db/Portal:Rhineland-Palatinate]]'
+office held by head of government: '[[_Standards/db/Minister-President of Rhineland-Palatinate]]'
+category for honorary citizens of entity: '[[_Standards/db/Q19473381]]'
 shares border with:
-  - "[[_Standards/db/Lorraine]]"
-  - "[[_Standards/db/Baden-Württemberg]]"
-  - "[[_Standards/db/Province of Liege]]"
-  - "[[_Standards/db/North Rhine-Westphalia]]"
-  - "[[_Standards/db/Hesse]]"
-  - "[[_Standards/db/Saarland]]"
-  - "[[_Standards/db/Moselle]]"
-  - "[[_Standards/db/Bas-Rhin]]"
-  - "[[_Standards/db/Wallonia]]"
-permanent duplicated item: "[[_Standards/db/Q25930020]]"
-open data portal: "[[_Standards/db/Open-Government-Data-Portal Rheinland-Pfalz]]"
-economy of topic: "[[_Standards/db/economy of Rhineland-Palatinate]]"
-award received: "[[_Standards/db/BigBrotherAwards]]"
+- '[[_Standards/db/Lorraine]]'
+- '[[_Standards/db/Baden-Württemberg]]'
+- '[[_Standards/db/Province of Liege]]'
+- '[[_Standards/db/North Rhine-Westphalia]]'
+- '[[_Standards/db/Hesse]]'
+- '[[_Standards/db/Saarland]]'
+- '[[_Standards/db/Moselle]]'
+- '[[_Standards/db/Bas-Rhin]]'
+- '[[_Standards/db/Wallonia]]'
+permanent duplicated item: '[[_Standards/db/Q25930020]]'
+open data portal: '[[_Standards/db/Open-Government-Data-Portal Rheinland-Pfalz]]'
+economy of topic: '[[_Standards/db/economy of Rhineland-Palatinate]]'
+award received: '[[_Standards/db/BigBrotherAwards]]'
 geoshape: http://commons.wikimedia.org/data/main/Data:Rheinland-Pfalz.map
 locator map image: http://commons.wikimedia.org/wiki/Special:FilePath/Locator%20map%20Rhineland-Palatinate%20in%20Germany.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Mainz%20Deutschhaus%20BW%202012-08-18%2013-28-02.jpg
@@ -94,21 +95,21 @@ pronunciation audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Rhein
 Facebook username: landesregierungrheinlandpfalz
 Instagram username: ministerpraesidentin.rlp
 coordinate location: Point(7.449722 49.913056)
-capital: "[[_Standards/db/Mainz]]"
+capital: '[[_Standards/db/Mainz]]'
 located in time zone:
-  - "[[_Standards/db/UTC+01:00]]"
-  - "[[_Standards/db/UTC+02:00]]"
+- '[[_Standards/db/UTC+01:00]]'
+- '[[_Standards/db/UTC+02:00]]'
 language used:
-  - "[[_Standards/db/Luxembourgish]]"
-  - "[[_Standards/db/Palatinate German]]"
-located in the administrative territorial entity: "[[_Standards/db/Germany]]"
-country: "[[_Standards/db/Germany]]"
+- '[[_Standards/db/Luxembourgish]]'
+- '[[_Standards/db/Palatinate German]]'
+located in the administrative territorial entity: '[[_Standards/db/Germany]]'
+country: '[[_Standards/db/Germany]]'
 elevation above sea level: 89
-German regional key: "07"
+German regional key: 07
 NUTS code: DEB
 area: 19853.36
 population: 4084844
-OmegaWiki Defined Meaning: "642911"
+OmegaWiki Defined Meaning: 642911
 inception: 1946-08-30
 coat of arms image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Rhineland-Palatinate.svg
 flag image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Rhineland-Palatinate.svg
@@ -116,7 +117,6 @@ Commons category: Rhineland-Palatinate
 native label: Rheinland-Pfalz
 official name: Rheinland-Pfalz
 Dewey Decimal Classification: 2--4343
-
 cssclasses: state
 publish: true
 linkTitle: 
@@ -124,8 +124,272 @@ keywords:
 layout: 
 publishDate: 
 expiryDate: 
+dv_has_:
+  name_:
+    af: Rynland-Palts
+    am: ራይንላንት-ፕፋልጽ
+    an: Renania-Palatinato
+    ang: Rīneland and Pælātīnland
+    ar: راينلند بالاتينات
+    arz: راينلند بالاتينات
+    ast: Renania-Palatináu
+    ay: Rheinland-Pfalz suyu
+    az: Reynland-Pfalts
+    azb: راینلاند-فالتس
+    ba: Райнланд-Пфальц
+    ban: Rheinland-Pfalz
+    bar: Rheinland-Pfoiz
+    be: Рэйнланд-Пфальц
+    be-tarask: Райнлянд-Пфальц
+    bg: Рейнланд-Пфалц
+    bn: রাইনলান্ড-ফালৎস
+    br: Rheinland-Pfalz
+    bs: Porajnje-Falačka
+    ca: Renània-Palatinat
+    ce: Рейнланд-Пфальц
+    ceb: Rheinland-Pfalz
+    ckb: ڕاینلەند-پالاتینات
+    crh: Reynland-Pfalts
+    cs: Porýní-Falc
+    csb: Nadreniô-Palatinat
+    cv: Рейнланд-Пфальц
+    cy: Rheinland-Pfalz
+    da: Rheinland-Pfalz
+    de: Rheinland-Pfalz
+    diq: Renland-Palatinya
+    dsb: Rheinland-Pfalcojska
+    el: Ρηνανία-Παλατινάτο
+    eml: Renàgna Palatinâ
+    en: Rhineland-Palatinate
+    en-ca: Rhineland-Palatinate
+    en-gb: Rhineland-Palatinate
+    eo: Rejnlando-Palatinato
+    es: Renania-Palatinado
+    et: Rheinland-Pfalz
+    eu: Renania-Palatinatua
+    fa: راینلاند-فالتس
+    fi: Rheinland-Pfalz
+    fo: Rheinland-Pfalz
+    fr: Rhénanie-Palatinat
+    frr: Rhinlönj-Pfalz
+    fur: Renanie-Palatinât
+    fy: Rynlân-Palts
+    ga: Rheinland-Pfalz
+    gd: Rheinland-Pfalz
+    gl: Renania-Palatinado
+    gn: Rrenania-Palatinado
+    gsw: Rhiland-Pfalz
+    gu: રાઈનલેન્ડ-પેલેટિનેટ
+    gv: Çheer ny Rhiney as y Phalateenaght
+    hak: Rhineland-Palatinate
+    he: ריינלנד-פפאלץ
+    hi: राइनलैन्ड
+    hr: Falačko Porajnje
+    hsb: Porynsko-Pfalca
+    hu: Rajna-vidék-Pfalz
+    hy: Ռայնլանդ Պֆալց
+    hyw: Ռայնլենտ Փալաթինեթ
+    ia: Rhenania Palatina
+    id: Rheinland-Pfalz
+    ie: Rheinland-Palatinia
+    io: Rhenlando-Palatenio
+    is: Rínarland-Pfalz
+    it: Renania-Palatinato
+    ja: ラインラント＝プファルツ州
+    jv: Rheinland-Pfalz
+    ka: რაინლანდ-პფალცი
+    kg: Rheinland-Pfalz
+    kk: Рейнланд-Пфальц
+    kn: ರೈನ್ ಲ್ಯಾಂಡ್-ಪಲಟಿನೇಟ್
+    ko: 라인란트팔츠주
+    ksh: Rheinland-Pfalz
+    ku: Rheinland-Pfalz
+    kw: Rheinland-Pfalz
+    la: Rhenania et Palatinatus
+    lad: Renania-Palatinado
+    lb: Rheinland-Pfalz
+    li: Rienland-Palts
+    lij: Renania Palatinoö
+    lld: Rheinland-Pfalz
+    lmo: Renània-Palatinàto
+    lt: Reino kraštas-Pfalcas
+    lv: Reinzeme-Pfalca
+    lzh: 萊茵蘭-普法爾茨
+    mg: Rheinland-Pfalz
+    mk: Рајнска област-Пфалц
+    ml: റൈൻലാൻഡ്-പലാറ്റിനേറ്റ്
+    mn: Райнланд-Пфальц
+    mr: र्हाइनलांड-फाल्त्स
+    ms: Rheinland-Pfalz
+    mzn: راینلاند-فالتز
+    nah: Rheinland-Pfalz
+    nan: Rheinland-Pfalz
+    nb: Rheinland-Pfalz
+    nds: Rhienland-Palz
+    nds-nl: Rynland-Palts
+    ne: राइनल्यान्ड पालाटिनेट
+    nl: Rijnland-Palts
+    nn: Rheinland-Pfalz
+    oc: Renània-Palatinat
+    os: Рейнланд-Пфальц
+    pam: Rhineland-Palatinate
+    pap: Land Rheinland-Pfalz
+    pcd: Rhénanie-Palatinat
+    pdc: Rhoiland-Palz
+    pfl: Rhoilond-Palz
+    pl: Nadrenia-Palatynat
+    pms: Renania-Palatinà
+    pnb: رائین لینڈ-پالاٹیناٹے
+    pt: Renânia-Palatinado
+    pt-br: Renânia-Palatinado
+    qu: Rheinland-Pfalz
+    rm: Renania-Palatinat
+    ro: Renania-Palatinat
+    ru: Рейнланд-Пфальц
+    rue: Райнланд-Фалц
+    sc: Renània-Palatinadu
+    sco: Rhineland-Palatinate
+    sd: رائن لينڊ پئليٽينيٽ
+    se: Rheinland-Pfalz
+    sh: Porajnje-Falačka
+    si: රයින්ලන්ඩ් පිෆආල්ස්
+    sk: Porýnie-Falcko
+    sl: Porenje - Pfalška
+    sq: Rheinland-Pfalz
+    sr: Рајна-Палатинат
+    stq: Rhienlound-Palts
+    sv: Rheinland-Pfalz
+    sw: Rhine-Palatino
+    ta: ரைன்லாந்து-பலென்டினேட்
+    te: రైన్లాండ్-పాలాటినేట్
+    tg: Райнланд-Пфалс
+    th: รัฐไรน์ลันท์-ฟัลทซ์
+    tl: Renania-Palatinado
+    tr: Renanya-Palatina
+    tt: Райнланд-Пфальц
+    udm: Рейнланд-Пфальц
+    uk: Рейнланд-Пфальц
+    ur: رائن لینڈ-پلاتینیت
+    uz: Rheinland-Pfalz
+    vec: Renania-Palatinà
+    vi: Rheinland-Pfalz
+    vls: Reynland-Palts
+    vo: Rinän-Palzän
+    war: Rheinland-Pfalz
+    wuu: 莱茵兰-普法尔茨
+    yi: ריינלאנד-פאלץ
+    yo: Rhineland-Palatinate
+    yue: 萊茵－普法茨
+    zea: Rheinland-Pfalz
+    zh: 莱茵兰-普法尔茨州
+    zh-cn: 莱茵兰-普法尔茨州
+    zh-hans: 莱茵兰-普法尔茨州
+    zh-hant: 萊因蘭-法爾茲
+    zh-hk: 萊因蘭-法爾茲
+    zh-mo: 萊因蘭-法爾茲
+    zh-my: 莱茵兰－普法尔茨
+    zh-sg: 莱茵兰－普法尔茨
+    zh-tw: 萊因蘭-法爾茲
+aliases:
+- Falačko Porajnje
+- Land Rheinland-Pfalz
+- Nadrenia-Palatynat
+- Nadreniô-Palatinat
+- Porajnje-Falačka
+- Porenje - Pfalška
+- Porynsko-Pfalca
+- Porýnie-Falcko
+- Porýní-Falc
+- Rajna-vidék-Pfalz
+- Reino kraštas-Pfalcas
+- Reinzeme-Pfalca
+- Rejnlando-Palatinato
+- Renania Palatinoö
+- Renania-Palatinado
+- Renania-Palatinat
+- Renania-Palatinato
+- Renania-Palatinatua
+- Renania-Palatinà
+- Renania-Palatináu
+- Renanie-Palatinât
+- Renanya-Palatina
+- Renland-Palatinya
+- Renàgna Palatinâ
+- Renània-Palatinadu
+- Renània-Palatinat
+- Renània-Palatinàto
+- Renânia-Palatinado
+- Reynland-Palts
+- Reynland-Pfalts
+- Rheinland-Palatinia
+- Rheinland-Pfalcojska
+- Rheinland-Pfalz
+- Rheinland-Pfalz suyu
+- Rheinland-Pfoiz
+- Rhenania et Palatinatus
+- Rhenania Palatina
+- Rhenlando-Palatenio
+- Rhienland-Palz
+- Rhienlound-Palts
+- Rhiland-Pfalz
+- Rhine-Palatino
+- Rhineland-Palatinate
+- Rhinlönj-Pfalz
+- Rhoiland-Palz
+- Rhoilond-Palz
+- Rhénanie-Palatinat
+- Rienland-Palts
+- Rijnland-Palts
+- Rinän-Palzän
+- Rrenania-Palatinado
+- Rynland-Palts
+- Rynlân-Palts
+- Rínarland-Pfalz
+- Rīneland and Pælātīnland
+- Çheer ny Rhiney as y Phalateenaght
+- Ρηνανία-Παλατινάτο
+- Рајна-Палатинат
+- Рајнска област-Пфалц
+- Райнланд-Пфалс
+- Райнланд-Пфальц
+- Райнланд-Фалц
+- Райнлянд-Пфальц
+- Рейнланд-Пфалц
+- Рейнланд-Пфальц
+- Рэйнланд-Пфальц
+- Ռայնլանդ Պֆալց
+- Ռայնլենտ Փալաթինեթ
+- ריינלאנד-פאלץ
+- ריינלנד-פפאלץ
+- رائن لينڊ پئليٽينيٽ
+- رائن لینڈ-پلاتینیت
+- رائین لینڈ-پالاٹیناٹے
+- راينلند بالاتينات
+- راینلاند-فالتز
+- راینلاند-فالتس
+- ڕاینلەند-پالاتینات
+- राइनलैन्ड
+- राइनल्यान्ड पालाटिनेट
+- र्हाइनलांड-फाल्त्स
+- রাইনলান্ড-ফালৎস
+- રાઈનલેન્ડ-પેલેટિનેટ
+- ரைன்லாந்து-பலென்டினேட்
+- రైన్లాండ్-పాలాటినేట్
+- ರೈನ್ ಲ್ಯಾಂಡ್-ಪಲಟಿನೇಟ್
+- റൈൻലാൻഡ്-പലാറ്റിനേറ്റ്
+- රයින්ලන්ඩ් පිෆආල්ස්
+- รัฐไรน์ลันท์-ฟัลทซ์
+- რაინლანდ-პფალცი
+- ራይንላንት-ፕፋልጽ
+- ラインラント＝プファルツ州
+- 莱茵兰-普法尔茨
+- 莱茵兰-普法尔茨州
+- 莱茵兰－普法尔茨
+- 萊因蘭-法爾茲
+- 萊茵蘭-普法爾茨
+- 萊茵－普法茨
+- 라인란트팔츠주
 ---
-
 # Rhineland-Palatinate
 
 [name::Rheinland-Pfalz] 
