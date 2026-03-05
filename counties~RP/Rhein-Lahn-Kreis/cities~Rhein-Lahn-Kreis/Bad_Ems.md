@@ -2,8 +2,8 @@
 
 
 
-[[../../../../../../../../../../../assets/geo/Europe/Germany/Bad-Ems.webp]] 
-![[../../../../../../../../../../../assets/geo/Europe/Germany/Bad-Ems.webp]] 
+[[../../../../../../../../../../../assets/geo/Europe/Germany/Bad-Ems.webp|Bad-Ems.webp]] 
+![[../../../../../../../../../../../assets/geo/Europe/Germany/Bad-Ems.webp|Bad-Ems.webp]] 
 
 
 ## Confidential Links & Embeds: 

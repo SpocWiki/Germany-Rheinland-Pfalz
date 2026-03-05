@@ -20,7 +20,7 @@ confidential: public
 [has_place_latitude::50.08] 
 [name::Heinerscheid] 
 has_place_province::  
-has_place_country:: [[geo/Continent/Europe/Europe~West/Luxembourg]] 
+has_place_country:: [[geo/Continent/Europe/Europe~West/Luxembourg|Luxembourg]] 
 [StateId::] 
 [Population::] 
 [Unknown::] 

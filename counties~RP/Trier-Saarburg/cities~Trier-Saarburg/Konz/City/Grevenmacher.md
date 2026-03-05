@@ -20,7 +20,7 @@ confidential: public
 [has_place_latitude::49.67] 
 [name::Grevenmacher] 
 has_place_province::  
-has_place_country:: [[geo/Continent/Europe/Europe~West/Luxembourg]] 
+has_place_country:: [[geo/Continent/Europe/Europe~West/Luxembourg|Luxembourg]] 
 [StateId::] 
 [Population::] 
 [Unknown::] 

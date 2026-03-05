@@ -37,8 +37,8 @@ maxZoom: 18
 
 
 
-[[../../../../../../../../../../../../../assets/geo/Europe/Germany/Mittelrheintal,Bingen-Koblenz.webp]] 
-![[../../../../../../../../../../../../../assets/geo/Europe/Germany/Mittelrheintal,Bingen-Koblenz.webp]] 
+[[../../../../../../../../../../../../../assets/geo/Europe/Germany/Mittelrheintal,Bingen-Koblenz.webp|Mittelrheintal,Bingen-Koblenz.webp]] 
+![[../../../../../../../../../../../../../assets/geo/Europe/Germany/Mittelrheintal,Bingen-Koblenz.webp|Mittelrheintal,Bingen-Koblenz.webp]] 
 Oberes Mittelrheintal (2002) zwischen Koblenz und Bingen 
 
 
